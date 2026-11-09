@@ -1,0 +1,50 @@
+[
+  {
+    "slug": "wolf-trail-home",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.1/11-wolf-trail-home-v0.2.0.zip",
+    "anonymous_http": 200,
+    "sha256_match": true,
+    "zip_crc": "pass",
+    "reference_png": "valid RGB PNG"
+  },
+  {
+    "slug": "piston-pocket-lab",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.1/12-piston-pocket-lab-v0.2.0.zip",
+    "anonymous_http": 200,
+    "sha256_match": true,
+    "zip_crc": "pass",
+    "reference_png": "valid RGB PNG"
+  },
+  {
+    "slug": "pearl-pocket-golf",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.1/13-pearl-pocket-golf-v0.2.0.zip",
+    "anonymous_http": 200,
+    "sha256_match": true,
+    "zip_crc": "pass",
+    "reference_png": "valid RGB PNG"
+  },
+  {
+    "slug": "anvil-after-hours",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.1/14-anvil-after-hours-v0.2.0.zip",
+    "anonymous_http": 200,
+    "sha256_match": true,
+    "zip_crc": "pass",
+    "reference_png": "valid RGB PNG"
+  },
+  {
+    "slug": "tnt-floor-frenzy",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.1/18-tnt-floor-frenzy-v0.2.0.zip",
+    "anonymous_http": 200,
+    "sha256_match": true,
+    "zip_crc": "pass",
+    "reference_png": "valid RGB PNG"
+  },
+  {
+    "slug": "piston-pause-run",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.1/19-piston-pause-run-v0.2.0.zip",
+    "anonymous_http": 200,
+    "sha256_match": true,
+    "zip_crc": "pass",
+    "reference_png": "valid RGB PNG"
+  }
+]
