@@ -1,37 +1,66 @@
 {
   "game": "Piston Pocket Lab",
   "case": 12,
-  "version": "0.1.0",
+  "version": "0.2.0",
   "date": "2026-11-10",
   "independent_project": true,
+  "primary_genre": "机关推送解谜",
+  "camera": "正上方顶视工作台",
   "automated": {
     "rule_tests_passed": 3,
     "rule_tests_failed": 0,
     "production_build": "pass"
   },
   "browser": {
-    "phone_viewport": [
-      390,
-      844
-    ],
-    "desktop_viewport": [
-      1280,
-      800
-    ],
-    "phone_flow": {
+    "phone": {
       "slug": "piston-pocket-lab",
-      "startPhase": "play",
-      "endTitle": "Workshop notes saved.",
-      "endTag": "RUN RECORDED",
-      "retryPhase": "play",
-      "retryScore": "0",
-      "helpPaused": "true",
+      "start": {
+        "crates": "[{\"x\":1,\"z\":2,\"type\":\"diamond_ore\"},{\"x\":3,\"z\":3,\"type\":\"iron_block\"}]",
+        "goals": "[{\"x\":3,\"z\":1,\"type\":\"diamond_ore\"},{\"x\":3,\"z\":2,\"type\":\"iron_block\"}]",
+        "history": "0",
+        "level": "1",
+        "moves": "0",
+        "phase": "play",
+        "pistons": "[{\"x\":-1,\"z\":2,\"dx\":1,\"dz\":0},{\"x\":3,\"z\":5,\"dx\":0,\"dz\":-1},{\"x\":5,\"z\":1,\"dx\":-1,\"dz\":0},{\"x\":1,\"z\":-1,\"dx\":0,\"dz\":1}]",
+        "presentation": "blueprint",
+        "score": "0",
+        "solved": "false"
+      },
+      "retry": {
+        "crates": "[{\"x\":1,\"z\":2,\"type\":\"diamond_ore\"},{\"x\":3,\"z\":3,\"type\":\"iron_block\"}]",
+        "goals": "[{\"x\":3,\"z\":1,\"type\":\"diamond_ore\"},{\"x\":3,\"z\":2,\"type\":\"iron_block\"}]",
+        "history": "0",
+        "level": "1",
+        "moves": "0",
+        "phase": "play",
+        "pistons": "[{\"x\":-1,\"z\":2,\"dx\":1,\"dz\":0},{\"x\":3,\"z\":5,\"dx\":0,\"dz\":-1},{\"x\":5,\"z\":1,\"dx\":-1,\"dz\":0},{\"x\":1,\"z\":-1,\"dx\":0,\"dz\":1}]",
+        "presentation": "blueprint",
+        "score": "0",
+        "solved": "false"
+      },
+      "tag": "RUN RECORDED",
+      "paused": "true",
+      "layout": {
+        "height": 844,
+        "scrollWidth": 390,
+        "width": 390
+      },
       "errors": []
     },
     "desktop": {
       "slug": "piston-pocket-lab",
-      "phase": "play",
-      "score": "0",
+      "state": {
+        "crates": "[{\"x\":2,\"z\":2,\"type\":\"diamond_ore\"},{\"x\":3,\"z\":3,\"type\":\"iron_block\"}]",
+        "goals": "[{\"x\":3,\"z\":1,\"type\":\"diamond_ore\"},{\"x\":3,\"z\":2,\"type\":\"iron_block\"}]",
+        "history": "1",
+        "level": "1",
+        "moves": "1",
+        "phase": "play",
+        "pistons": "[{\"x\":-1,\"z\":2,\"dx\":1,\"dz\":0},{\"x\":3,\"z\":5,\"dx\":0,\"dz\":-1},{\"x\":5,\"z\":1,\"dx\":-1,\"dz\":0},{\"x\":1,\"z\":-1,\"dx\":0,\"dz\":1}]",
+        "presentation": "blueprint",
+        "score": "0",
+        "solved": "false"
+      },
       "layout": {
         "height": 800,
         "scrollWidth": 1280,
@@ -40,16 +69,14 @@
       "errors": []
     },
     "specific_observations": [
-      "First machine solved by three real Piston taps for 490 points.",
-      "UNDO restored the previous state. All 24 generated test layouts had a valid solution."
+      "Actual three-button-push solve gave 490 points. Piston buttons became available again after each physical extension and recovery."
     ],
     "physical_device_tested": false
   },
-  "remaining_limits": [
-    "Later layouts are solver-tested rather than all manually played.",
-    "Final art quality and enjoyment require user review.",
-    "Import into Loopit was not performed or verified in this delivery."
+  "limits": [
+    "Later variants are solver-tested rather than all manually completed.",
+    "Loopit import not verified.",
+    "Final user art and enjoyment review remains open."
   ],
-  "runtime_asset_fetching": false,
-  "proof_image": "000-reference.png"
+  "reference_image": "000-reference.png"
 }

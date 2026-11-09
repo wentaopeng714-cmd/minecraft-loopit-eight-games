@@ -1,1 +1,12 @@
-{"number": 13, "id": "pearl-pocket-golf", "title": "Pearl Pocket Golf", "sky": "#b9b1d5", "accent": "#8e6fc2", "heading": "The shortest way is a pearl.", "desc": "Drag to aim an Ender Pearl. Land on a safe island, teleport there, and reach the purple flag.", "kicker": "THROW \u2022 TELEPORT \u2022 EXPLORE", "control": "DRAG TO AIM", "hint": "Release to throw"}
+{
+  "number": 13,
+  "id": "pearl-pocket-golf",
+  "title": "Pearl Pocket Golf",
+  "sky": "#b9b1d5",
+  "accent": "#8e6fc2",
+  "heading": "Look, aim, teleport.",
+  "desc": "Aim an Ender Pearl from your own eyes. Green means a safe landing; reach the purple flag and collect Diamonds along the way.",
+  "kicker": "FIRST-PERSON PEARL MAIL",
+  "control": "SLIDE TO AIM",
+  "hint": "Tap THROW / Space"
+}

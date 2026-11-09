@@ -1,37 +1,78 @@
 {
   "game": "Wolf Trail Home",
   "case": 11,
-  "version": "0.1.0",
+  "version": "0.2.0",
   "date": "2026-11-10",
   "independent_project": true,
+  "primary_genre": "自由探索护送",
+  "camera": "第三人称森林，可拖动转镜头",
   "automated": {
-    "rule_tests_passed": 3,
+    "rule_tests_passed": 4,
     "rule_tests_failed": 0,
     "production_build": "pass"
   },
   "browser": {
-    "phone_viewport": [
-      390,
-      844
-    ],
-    "desktop_viewport": [
-      1280,
-      800
-    ],
-    "phone_flow": {
+    "phone": {
       "slug": "wolf-trail-home",
-      "startPhase": "play",
-      "endTitle": "Trail progress recorded.",
-      "endTag": "RUN RECORDED",
-      "retryPhase": "play",
-      "retryScore": "0",
-      "helpPaused": "true",
+      "start": {
+        "atCamp": "0",
+        "callReady": "true",
+        "cameraYaw": "0",
+        "camp": "[0,0,-10]",
+        "delivered": "0",
+        "following": "0",
+        "hits": "0",
+        "phase": "play",
+        "player": "[0,0,10]",
+        "presentation": "explorer",
+        "score": "0",
+        "stage": "1",
+        "stay": "false",
+        "wolves": "[{\"state\":\"waiting\",\"position\":[1.7,0,6.2]},{\"state\":\"waiting\",\"position\":[-6,0,-1]},{\"state\":\"waiting\",\"position\":[5,0,-7]}]"
+      },
+      "retry": {
+        "atCamp": "0",
+        "callReady": "true",
+        "cameraYaw": "0",
+        "camp": "[0,0,-10]",
+        "delivered": "0",
+        "following": "0",
+        "hits": "0",
+        "phase": "play",
+        "player": "[0,0,10]",
+        "presentation": "explorer",
+        "score": "0",
+        "stage": "1",
+        "stay": "false",
+        "wolves": "[{\"state\":\"waiting\",\"position\":[1.7,0,6.2]},{\"state\":\"waiting\",\"position\":[-6,0,-1]},{\"state\":\"waiting\",\"position\":[5,0,-7]}]"
+      },
+      "tag": "RUN RECORDED",
+      "paused": "true",
+      "layout": {
+        "height": 844,
+        "scrollWidth": 390,
+        "width": 390
+      },
       "errors": []
     },
     "desktop": {
       "slug": "wolf-trail-home",
-      "phase": "play",
-      "score": "0",
+      "state": {
+        "atCamp": "0",
+        "callReady": "true",
+        "cameraYaw": "0",
+        "camp": "[0,0,-10]",
+        "delivered": "0",
+        "following": "0",
+        "hits": "0",
+        "phase": "play",
+        "player": "[0,0,9.06478000000002]",
+        "presentation": "explorer",
+        "score": "0",
+        "stage": "1",
+        "stay": "false",
+        "wolves": "[{\"state\":\"waiting\",\"position\":[1.7,0,6.2]},{\"state\":\"waiting\",\"position\":[-6,0,-1]},{\"state\":\"waiting\",\"position\":[5,0,-7]}]"
+      },
       "layout": {
         "height": 800,
         "scrollWidth": 1280,
@@ -40,16 +81,14 @@
       "errors": []
     },
     "specific_observations": [
-      "Default trail delivered one Wolf to camp; result and next camp worked.",
-      "Drawn trail uses water-aware adjacency."
+      "Full actual rescue: three Wolves home, zero scares, 14s, 872 points. Nearby invite, WAIT/FOLLOW and 200-point individual delivery also observed."
     ],
     "physical_device_tested": false
   },
-  "remaining_limits": [
-    "A three-Wolf detour has not been manually completed in the final build.",
-    "Final art quality and enjoyment require user review.",
-    "Import into Loopit was not performed or verified in this delivery."
+  "limits": [
+    "Late repeated rescues have not been played for an extended session.",
+    "Loopit import not verified.",
+    "Final user art and enjoyment review remains open."
   ],
-  "runtime_asset_fetching": false,
-  "proof_image": "000-reference.png"
+  "reference_image": "000-reference.png"
 }

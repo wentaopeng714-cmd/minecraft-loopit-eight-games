@@ -1,10 +1,10 @@
 
-> anvil-after-hours@0.1.0 test
+> anvil-after-hours@0.2.0 test
 > node --test tests/*.test.mjs
 
-✔ an Anvil hits only the matching lane and actual shadow footprint (1.543458ms)
-✔ friendly hits have a real cost and group hits have a distinct combo reward (0.107459ms)
-✔ the spawn queue includes safe Villagers, later armor and bounded speed (0.136375ms)
+✔ a sliding Anvil strikes only its real horizontal footprint (1.660708ms)
+✔ friendly hits have a real cost and group hits have a distinct combo reward (0.097125ms)
+✔ the spawn queue includes safe Villagers, later armor and bounded speed (0.192208ms)
 ℹ tests 3
 ℹ suites 0
 ℹ pass 3
@@ -12,18 +12,4 @@
 ℹ cancelled 0
 ℹ skipped 0
 ℹ todo 0
-ℹ duration_ms 80.133333
-
-> anvil-after-hours@0.1.0 build
-> vite build
-
-vite v7.3.7 building client environment for production...
-transforming...
-✓ 26 modules transformed.
-rendering chunks...
-computing gzip size...
-dist/index.html                                3.68 kB │ gzip:   1.56 kB
-dist/assets/Silkscreen-Regular-W9-u5Upq.ttf   32.22 kB
-dist/assets/index-KJK6GdQz.css                12.46 kB │ gzip:   3.54 kB
-dist/assets/index-BYjwOXlE.js                498.18 kB │ gzip: 129.80 kB
-✓ built in 1.87s
+ℹ duration_ms 63.085958

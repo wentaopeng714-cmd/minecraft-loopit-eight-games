@@ -1,10 +1,10 @@
 
-> pearl-pocket-golf@0.1.0 test
+> pearl-pocket-golf@0.2.0 test
 > node --test tests/*.test.mjs
 
-✔ landing is safe only inside the actual platform footprint (0.345584ms)
-✔ a far pointer target is clamped to the throw reach without changing direction (0.089416ms)
-✔ optional treasures reward exploration while fewer throws and fewer misses matter (0.049167ms)
+✔ landing is safe only inside the actual platform footprint (1.081625ms)
+✔ a far pointer target is clamped to the throw reach without changing direction (0.289625ms)
+✔ optional treasures reward exploration while fewer throws and fewer misses matter (0.236458ms)
 ℹ tests 3
 ℹ suites 0
 ℹ pass 3
@@ -12,18 +12,4 @@
 ℹ cancelled 0
 ℹ skipped 0
 ℹ todo 0
-ℹ duration_ms 98.89225
-
-> pearl-pocket-golf@0.1.0 build
-> vite build
-
-vite v7.3.7 building client environment for production...
-transforming...
-✓ 26 modules transformed.
-rendering chunks...
-computing gzip size...
-dist/index.html                                3.67 kB │ gzip:   1.56 kB
-dist/assets/Silkscreen-Regular-W9-u5Upq.ttf   32.22 kB
-dist/assets/index-KJK6GdQz.css                12.46 kB │ gzip:   3.54 kB
-dist/assets/index-DvcvjFF4.js                498.57 kB │ gzip: 129.75 kB
-✓ built in 1.94s
+ℹ duration_ms 55

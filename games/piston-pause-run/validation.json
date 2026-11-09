@@ -1,37 +1,66 @@
 {
   "game": "Piston Pause Run",
   "case": 19,
-  "version": "0.1.0",
+  "version": "0.2.0",
   "date": "2026-11-10",
   "independent_project": true,
+  "primary_genre": "走停与开合时机",
+  "camera": "第一人称纵深通道",
   "automated": {
     "rule_tests_passed": 3,
     "rule_tests_failed": 0,
     "production_build": "pass"
   },
   "browser": {
-    "phone_viewport": [
-      390,
-      844
-    ],
-    "desktop_viewport": [
-      1280,
-      800
-    ],
-    "phone_flow": {
+    "phone": {
       "slug": "piston-pause-run",
-      "startPhase": "play",
-      "endTitle": "Course progress recorded.",
-      "endTag": "RUN RECORDED",
-      "retryPhase": "play",
-      "retryScore": "0",
-      "helpPaused": "true",
+      "start": {
+        "checkpoint": "0",
+        "distance": "0",
+        "hearts": "3",
+        "holding": "false",
+        "nextGate": "{\"distance\":5,\"phase\":{\"cycle\":0.38019999999999987,\"extension\":0,\"warning\":false,\"safe\":true}}",
+        "passed": "0",
+        "phase": "play",
+        "presentation": "corridor",
+        "score": "0",
+        "view": "first-person"
+      },
+      "retry": {
+        "checkpoint": "0",
+        "distance": "0",
+        "hearts": "3",
+        "holding": "false",
+        "nextGate": "{\"distance\":5,\"phase\":{\"cycle\":0.9361000000000008,\"extension\":0,\"warning\":false,\"safe\":true}}",
+        "passed": "0",
+        "phase": "play",
+        "presentation": "corridor",
+        "score": "0",
+        "view": "first-person"
+      },
+      "tag": "RUN RECORDED",
+      "paused": "true",
+      "layout": {
+        "height": 844,
+        "scrollWidth": 390,
+        "width": 390
+      },
       "errors": []
     },
     "desktop": {
       "slug": "piston-pause-run",
-      "phase": "play",
-      "score": "0",
+      "state": {
+        "checkpoint": "0",
+        "distance": "1.09",
+        "hearts": "3",
+        "holding": "false",
+        "nextGate": "{\"distance\":5,\"phase\":{\"cycle\":0.5885000000000001,\"extension\":0,\"warning\":false,\"safe\":true}}",
+        "passed": "0",
+        "phase": "play",
+        "presentation": "corridor",
+        "score": "0",
+        "view": "first-person"
+      },
       "layout": {
         "height": 800,
         "scrollWidth": 1280,
@@ -40,16 +69,14 @@
       "errors": []
     },
     "specific_observations": [
-      "Actual rush into a closing gate lost one heart and respawned at the checkpoint.",
-      "Final phone-size hold/release waited at a strip and passed gate one for 100 with three hearts."
+      "Full actual first-person course: twelve gates, three hearts, 33s, 1751 points."
     ],
     "physical_device_tested": false
   },
-  "remaining_limits": [
-    "All twelve gates were not manually cleared in a single final run.",
-    "Final art quality and enjoyment require user review.",
-    "Import into Loopit was not performed or verified in this delivery."
+  "limits": [
+    "The next offset-timing course has not been fully cleared in this revision.",
+    "Loopit import not verified.",
+    "Final user art and enjoyment review remains open."
   ],
-  "runtime_asset_fetching": false,
-  "proof_image": "000-reference.png"
+  "reference_image": "000-reference.png"
 }

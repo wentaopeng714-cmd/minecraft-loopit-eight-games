@@ -1,10 +1,10 @@
 
-> piston-pause-run@0.1.0 test
+> piston-pause-run@0.2.0 test
 > node --test tests/*.test.mjs
 
-✔ a readable amber warning precedes the physically dangerous extension (1.352458ms)
-✔ an open gap is safe and a closed gap hurts only inside its real depth (0.14225ms)
-✔ each gate offers a long safe interval rather than requiring a frame-perfect dash (1.405916ms)
+✔ a readable amber warning precedes the physically dangerous extension (0.88675ms)
+✔ an open gap is safe and a closed gap hurts only inside its real depth (0.082083ms)
+✔ each gate offers a long safe interval rather than requiring a frame-perfect dash (2.112875ms)
 ℹ tests 3
 ℹ suites 0
 ℹ pass 3
@@ -12,18 +12,4 @@
 ℹ cancelled 0
 ℹ skipped 0
 ℹ todo 0
-ℹ duration_ms 78.866417
-
-> piston-pause-run@0.1.0 build
-> vite build
-
-vite v7.3.7 building client environment for production...
-transforming...
-✓ 26 modules transformed.
-rendering chunks...
-computing gzip size...
-dist/index.html                                3.64 kB │ gzip:   1.54 kB
-dist/assets/Silkscreen-Regular-W9-u5Upq.ttf   32.22 kB
-dist/assets/index-KJK6GdQz.css                12.46 kB │ gzip:   3.54 kB
-dist/assets/index-IcC-VBh_.js                494.40 kB │ gzip: 128.26 kB
-✓ built in 1.95s
+ℹ duration_ms 64.0525

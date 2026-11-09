@@ -1,9 +1,9 @@
 {
-  "kind": "human-readable handoff note; not an official Loopit schema",
+  "kind": "human-readable handoff note; not official Loopit schema",
+  "version": "0.2.0",
   "image": "000-reference.png",
-  "purpose": "actual gameplay camera, art and UI reference",
-  "source": "screenshots/anvil-after-hours-mobile-start.jpg",
+  "purpose": "actual current gameplay camera and UI reference",
   "platform_asset_id": null,
-  "runtime_assets": "public/assets",
-  "playable_build": "dist/index.html"
+  "camera": "侧面3D工厂剖面",
+  "gameplay_source": "src/main.js"
 }

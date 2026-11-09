@@ -1,1 +1,12 @@
-{"number": 19, "id": "piston-pause-run", "title": "Piston Pause Run", "sky": "#b9cfc8", "accent": "#c39143", "heading": "Stop is a move, too.", "desc": "Hold RUN to advance. Release in the safe zones. Cross the Pistons while their lamps are green.", "kicker": "WATCH \u2022 WAIT \u2022 GO", "control": "HOLD RUN", "hint": "Release to stop"}
+{
+  "number": 19,
+  "id": "piston-pause-run",
+  "title": "Piston Pause Run",
+  "sky": "#b9cfc8",
+  "accent": "#c39143",
+  "heading": "The gap is right in front of you.",
+  "desc": "Hold RUN to dash through the corridor. Release at the gold strip and wait for green before the Pistons close.",
+  "kicker": "FIRST-PERSON PISTON SPRINT",
+  "control": "HOLD TO SPRINT",
+  "hint": "Release to stop"
+}

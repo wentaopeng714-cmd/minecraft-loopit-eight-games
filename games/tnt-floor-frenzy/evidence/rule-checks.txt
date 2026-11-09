@@ -1,10 +1,10 @@
 
-> tnt-floor-frenzy@0.1.0 test
+> tnt-floor-frenzy@0.2.0 test
 > node --test tests/*.test.mjs
 
-✔ tile lookup rejects the arena edge rather than creating an invisible floor (0.692709ms)
-✔ only stepped tiles collapse and the warning delay is honored (0.062917ms)
-✔ rivals prefer a fresh adjacent tile and never target missing floor (0.124167ms)
+✔ tile lookup rejects the arena edge rather than creating an invisible floor (0.652625ms)
+✔ only stepped tiles collapse and the warning delay is honored (0.062125ms)
+✔ rivals prefer a fresh adjacent tile and never target missing floor (0.127ms)
 ℹ tests 3
 ℹ suites 0
 ℹ pass 3
@@ -12,18 +12,4 @@
 ℹ cancelled 0
 ℹ skipped 0
 ℹ todo 0
-ℹ duration_ms 116.363166
-
-> tnt-floor-frenzy@0.1.0 build
-> vite build
-
-vite v7.3.7 building client environment for production...
-transforming...
-✓ 26 modules transformed.
-rendering chunks...
-computing gzip size...
-dist/index.html                                3.65 kB │ gzip:   1.54 kB
-dist/assets/Silkscreen-Regular-W9-u5Upq.ttf   32.22 kB
-dist/assets/index-KJK6GdQz.css                12.46 kB │ gzip:   3.54 kB
-dist/assets/index-B-f4hwFa.js                496.46 kB │ gzip: 128.94 kB
-✓ built in 1.94s
+ℹ duration_ms 61.10475

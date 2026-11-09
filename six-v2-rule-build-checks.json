@@ -1,0 +1,68 @@
+[
+  {
+    "status": "fulfilled",
+    "value": {
+      "slug": "wolf-trail-home",
+      "chunk_id": "8397dd",
+      "wall_time_seconds": 1.513493584,
+      "exit_code": 0,
+      "original_token_count": 245,
+      "output": "\n> wolf-trail-home@0.2.0 test\n> node --test tests/*.test.mjs\n\n✔ forest movement respects shoreline and boundary while allowing safe movement (0.6005ms)\n✔ a Bone invites only a physically nearby Wolf (0.068292ms)\n✔ only actually delivered companions earn rescue credit (0.056791ms)\n✔ a distant or waiting companion cannot be banked by reaching camp alone (0.058916ms)\nℹ tests 4\nℹ suites 0\nℹ pass 4\nℹ fail 0\nℹ cancelled 0\nℹ skipped 0\nℹ todo 0\nℹ duration_ms 56.167917\n\n> wolf-trail-home@0.2.0 build\n> vite build\n\nvite v7.3.7 building client environment for production...\ntransforming...\n✓ 27 modules transformed.\nrendering chunks...\ncomputing gzip size...\ndist/index.html                                3.67 kB │ gzip:   1.60 kB\ndist/assets/Silkscreen-Regular-W9-u5Upq.ttf   32.22 kB\ndist/assets/index-KJK6GdQz.css                12.46 kB │ gzip:   3.54 kB\ndist/assets/index-ChteiFSc.js                508.18 kB │ gzip: 132.68 kB\n✓ built in 1.03s\n"
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "slug": "piston-pocket-lab",
+      "chunk_id": "a1679f",
+      "wall_time_seconds": 1.552697167,
+      "exit_code": 0,
+      "original_token_count": 231,
+      "output": "\n> piston-pocket-lab@0.2.0 test\n> node --test tests/*.test.mjs\n\n✔ every authored layout and rotation has a reachable solution (1.688209ms)\n✔ a blocked boundary cannot push a crate outside the board (0.83975ms)\n✔ a connected crate chain moves together and the previous state remains usable for undo (0.166125ms)\nℹ tests 3\nℹ suites 0\nℹ pass 3\nℹ fail 0\nℹ cancelled 0\nℹ skipped 0\nℹ todo 0\nℹ duration_ms 58.804833\n\n> piston-pocket-lab@0.2.0 build\n> vite build\n\nvite v7.3.7 building client environment for production...\ntransforming...\n✓ 27 modules transformed.\nrendering chunks...\ncomputing gzip size...\ndist/index.html                                3.70 kB │ gzip:   1.62 kB\ndist/assets/Silkscreen-Regular-W9-u5Upq.ttf   32.22 kB\ndist/assets/index-KJK6GdQz.css                12.46 kB │ gzip:   3.54 kB\ndist/assets/index-Cql1DJQc.js                508.84 kB │ gzip: 132.35 kB\n✓ built in 1.07s\n"
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "slug": "pearl-pocket-golf",
+      "chunk_id": "a91c28",
+      "wall_time_seconds": 1.557461583,
+      "exit_code": 0,
+      "original_token_count": 233,
+      "output": "\n> pearl-pocket-golf@0.2.0 test\n> node --test tests/*.test.mjs\n\n✔ landing is safe only inside the actual platform footprint (1.081625ms)\n✔ a far pointer target is clamped to the throw reach without changing direction (0.289625ms)\n✔ optional treasures reward exploration while fewer throws and fewer misses matter (0.236458ms)\nℹ tests 3\nℹ suites 0\nℹ pass 3\nℹ fail 0\nℹ cancelled 0\nℹ skipped 0\nℹ todo 0\nℹ duration_ms 55\n\n> pearl-pocket-golf@0.2.0 build\n> vite build\n\nvite v7.3.7 building client environment for production...\ntransforming...\n✓ 27 modules transformed.\nrendering chunks...\ncomputing gzip size...\ndist/index.html                                3.69 kB │ gzip:   1.61 kB\ndist/assets/Silkscreen-Regular-W9-u5Upq.ttf   32.22 kB\ndist/assets/index-KJK6GdQz.css                12.46 kB │ gzip:   3.54 kB\ndist/assets/index-B5NAReoC.js                506.41 kB │ gzip: 131.64 kB\n✓ built in 1.07s\n"
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "slug": "anvil-after-hours",
+      "chunk_id": "7516ea",
+      "wall_time_seconds": 1.578048458,
+      "exit_code": 0,
+      "original_token_count": 232,
+      "output": "\n> anvil-after-hours@0.2.0 test\n> node --test tests/*.test.mjs\n\n✔ a sliding Anvil strikes only its real horizontal footprint (1.660708ms)\n✔ friendly hits have a real cost and group hits have a distinct combo reward (0.097125ms)\n✔ the spawn queue includes safe Villagers, later armor and bounded speed (0.192208ms)\nℹ tests 3\nℹ suites 0\nℹ pass 3\nℹ fail 0\nℹ cancelled 0\nℹ skipped 0\nℹ todo 0\nℹ duration_ms 63.085958\n\n> anvil-after-hours@0.2.0 build\n> vite build\n\nvite v7.3.7 building client environment for production...\ntransforming...\n✓ 27 modules transformed.\nrendering chunks...\ncomputing gzip size...\ndist/index.html                                3.69 kB │ gzip:   1.63 kB\ndist/assets/Silkscreen-Regular-W9-u5Upq.ttf   32.22 kB\ndist/assets/index-KJK6GdQz.css                12.46 kB │ gzip:   3.54 kB\ndist/assets/index-ZxDpRJYe.js                506.46 kB │ gzip: 131.95 kB\n✓ built in 1.09s\n"
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "slug": "tnt-floor-frenzy",
+      "chunk_id": "e26fe5",
+      "wall_time_seconds": 1.641231709,
+      "exit_code": 0,
+      "original_token_count": 230,
+      "output": "\n> tnt-floor-frenzy@0.2.0 test\n> node --test tests/*.test.mjs\n\n✔ tile lookup rejects the arena edge rather than creating an invisible floor (0.652625ms)\n✔ only stepped tiles collapse and the warning delay is honored (0.062125ms)\n✔ rivals prefer a fresh adjacent tile and never target missing floor (0.127ms)\nℹ tests 3\nℹ suites 0\nℹ pass 3\nℹ fail 0\nℹ cancelled 0\nℹ skipped 0\nℹ todo 0\nℹ duration_ms 61.10475\n\n> tnt-floor-frenzy@0.2.0 build\n> vite build\n\nvite v7.3.7 building client environment for production...\ntransforming...\n✓ 27 modules transformed.\nrendering chunks...\ncomputing gzip size...\ndist/index.html                                3.70 kB │ gzip:   1.63 kB\ndist/assets/Silkscreen-Regular-W9-u5Upq.ttf   32.22 kB\ndist/assets/index-KJK6GdQz.css                12.46 kB │ gzip:   3.54 kB\ndist/assets/index-rUkHl9OD.js                504.03 kB │ gzip: 131.01 kB\n✓ built in 1.11s\n"
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "slug": "piston-pause-run",
+      "chunk_id": "a867a6",
+      "wall_time_seconds": 1.601267542,
+      "exit_code": 0,
+      "original_token_count": 234,
+      "output": "\n> piston-pause-run@0.2.0 test\n> node --test tests/*.test.mjs\n\n✔ a readable amber warning precedes the physically dangerous extension (0.88675ms)\n✔ an open gap is safe and a closed gap hurts only inside its real depth (0.082083ms)\n✔ each gate offers a long safe interval rather than requiring a frame-perfect dash (2.112875ms)\nℹ tests 3\nℹ suites 0\nℹ pass 3\nℹ fail 0\nℹ cancelled 0\nℹ skipped 0\nℹ todo 0\nℹ duration_ms 64.0525\n\n> piston-pause-run@0.2.0 build\n> vite build\n\nvite v7.3.7 building client environment for production...\ntransforming...\n✓ 27 modules transformed.\nrendering chunks...\ncomputing gzip size...\ndist/index.html                                3.68 kB │ gzip:   1.59 kB\ndist/assets/Silkscreen-Regular-W9-u5Upq.ttf   32.22 kB\ndist/assets/index-KJK6GdQz.css                12.46 kB │ gzip:   3.54 kB\ndist/assets/index-DQx0yz3V.js                501.29 kB │ gzip: 130.03 kB\n✓ built in 1.12s\n"
+    }
+  }
+]

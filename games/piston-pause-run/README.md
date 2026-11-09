@@ -1,38 +1,29 @@
-# Piston Pause Run
+# Piston Pause Run · 0.2.0
 
-活塞夹缝冲刺 · 独立3D游戏 · Case 19
+活塞夹缝冲刺 / Case 19 / 独立3D游戏
 
-## 立即试玩
+本次重做：走停与开合时机，第一人称纵深通道。上一版相似的俯视场地和按钮操作已经重新区分。
 
-解压后运行 `python3 play.py`，浏览器会打开预构建版本。请通过本地网页服务打开，不要直接双击 dist/index.html。
+## 试玩和编辑
 
-编辑：`npm ci`、`npm run dev`。检查：`npm test`、`npm run build`。
+解压后运行 `python3 play.py`，浏览器打开 dist/ 可玩版本。不要直接双击 dist/index.html。编辑用 `npm ci`、`npm run dev`；检查用 `npm test`、`npm run build`。
 
-## 玩法
+## 操作、目标和持续玩法
 
-Hold RUN or Space to advance, release to stop immediately. Twelve paired Pistons have real matching visible and collision motion. Wait on gold strips, leave on green, amber warns before closing. Each passed gate is 100. Every third gate is a checkpoint. A hit costs a heart and immediately restores that checkpoint. Clear all twelve to earn the arrival bonus; next course offsets timing. END early records only passed gates.
+取消侧后方总览。按住RUN/Space前进，松手立即停。站在金色安全线看绿灯通过、黄灯前停；实体活塞头与碰撞窗口一致。每道100分，每三道有检查点，受伤立即回检查点。完成12道到出口有额外奖励，下一条改变时序。
 
-## 镜头、美术与动作
+## 实际检查
 
-Side-rear third-person follow camera, textured stone corridor, moving full Piston heads, green/amber lamps, gold safety strips and the next few obstacles visible. Timber supports, trees and an exit village give the corridor a destination. Closed heads visibly narrow the actual gap.
+Full actual first-person course: twelve gates, three hearts, 33s, 1751 points.
 
-Blend run/stop naturally, express focus before crossing, show clear squeeze/hurt and recovery at checkpoint. Piston anticipation and extension must agree with the lamp and collision window. Gate scores stay compact and out of the face.
+3项规则检查及构建通过；电脑1280×800、手机尺寸390×844完成操作与开始/结束/重玩/帮助暂停检查。不是实体手机测试。
 
-## 交接到 Loopit
+仍有限制：The next offset-timing course has not been fully cleared in this revision. Loopit导入未验证，最终美术与乐趣仍需用户验收。
 
-上传完整ZIP，粘贴 prompt.txt。000-reference.png 是对应实机截图；不是精灵表，不含平台资源ID。直接沿用 src/ 与 public/assets，不需要重新找图。IMPORT.txt 中有图片选择失败时的交接说明。此包尚未经过 Loopit 导入验证。
+## Loopit交接
 
-## 实际验证
+上传整包，粘贴 prompt.txt，使用 000-reference.png 对照这一版的镜头与美术；它是真实游戏截图，不是精灵表，也没有虚构的图片ID。保留当前玩法与独立项目，避免再次改回同一套俯视棋盘。差异化详情见 DIFFERENTIATION.md。
 
-三项核心规则测试与生产构建通过；电脑1280×800和手机尺寸390×844完成操作检查，以及开始/结束/重玩/帮助暂停。不是实体手机测试。
+## 素材与权利
 
-- Actual rush into a closing gate lost one heart and respawned at the checkpoint.
-- Final phone-size hold/release waited at a strip and passed gate one for 100 with three hearts.
-
-仍需用户验收：
-
-- All twelve gates were not manually cleared in a single final run.
-
-## 素材来源
-
-Steve 使用 skinview3d 的贴图角色结构；外部角色几何、纹理和方块资源逐项保留在 public/assets/sources.json。主要来源：[Mojang Bedrock Samples](https://github.com/Mojang/bedrock-samples)、[skinview3d](https://github.com/bs-community/skinview3d)、[Minecraft Three.js textures](https://github.com/vyse12138/minecraft-threejs)。第三方代码许可证见 public/THIRD_PARTY_NOTICES.txt；字体见 OFL.txt。Minecraft 美术与角色权利仍归 Mojang/Microsoft，库的MIT许可不会覆盖原作美术。本项目为非官方二创。
+匹配贴图和模型均在 public/assets，来源逐项记录于 sources.json。Steve 使用 [skinview3d](https://github.com/bs-community/skinview3d)，主要Minecraft资源来自 [Mojang Bedrock Samples](https://github.com/Mojang/bedrock-samples)。完整库、字体许可见 public/THIRD_PARTY_NOTICES.txt 和 OFL.txt。Minecraft原作美术及角色权利仍归Mojang/Microsoft，代码库MIT许可不会覆盖原作美术。这是非官方二创。

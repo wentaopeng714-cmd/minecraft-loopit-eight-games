@@ -1,37 +1,75 @@
 {
   "game": "TNT Floor Frenzy",
   "case": 18,
-  "version": "0.1.0",
+  "version": "0.2.0",
   "date": "2026-11-10",
   "independent_project": true,
+  "primary_genre": "争夺落脚点的跑跳竞技",
+  "camera": "近景第三人称，可转镜头",
   "automated": {
     "rule_tests_passed": 3,
     "rule_tests_failed": 0,
     "production_build": "pass"
   },
   "browser": {
-    "phone_viewport": [
-      390,
-      844
-    ],
-    "desktop_viewport": [
-      1280,
-      800
-    ],
-    "phone_flow": {
+    "phone": {
       "slug": "tnt-floor-frenzy",
-      "startPhase": "play",
-      "endTitle": "A trail worth remembering.",
-      "endTag": "RUN RECORDED",
-      "retryPhase": "play",
-      "retryScore": "5",
-      "helpPaused": "true",
+      "start": {
+        "alive": "363",
+        "burned": "1",
+        "cameraYaw": "0",
+        "grounded": "true",
+        "hearts": "3",
+        "jumps": "0",
+        "layer": "0",
+        "phase": "play",
+        "player": "[0,0,3.6]",
+        "presentation": "arena",
+        "rivals": "2",
+        "score": "5",
+        "seconds": "0.2"
+      },
+      "retry": {
+        "alive": "363",
+        "burned": "1",
+        "cameraYaw": "0",
+        "grounded": "true",
+        "hearts": "3",
+        "jumps": "0",
+        "layer": "0",
+        "phase": "play",
+        "player": "[0,0,3.6]",
+        "presentation": "arena",
+        "rivals": "2",
+        "score": "5",
+        "seconds": "0.2"
+      },
+      "tag": "RUN RECORDED",
+      "paused": "true",
+      "layout": {
+        "height": 844,
+        "scrollWidth": 390,
+        "width": 390
+      },
       "errors": []
     },
     "desktop": {
       "slug": "tnt-floor-frenzy",
-      "phase": "play",
-      "score": "10",
+      "state": {
+        "alive": "363",
+        "burned": "1",
+        "cameraYaw": "0",
+        "grounded": "false",
+        "hearts": "3",
+        "jumps": "1",
+        "layer": "0",
+        "phase": "play",
+        "player": "[0,0.9293236400000002,3.6]",
+        "presentation": "arena",
+        "rivals": "2",
+        "score": "5",
+        "seconds": "0.5"
+      },
       "layout": {
         "height": 800,
         "scrollWidth": 1280,
@@ -40,16 +78,14 @@
       "errors": []
     },
     "specific_observations": [
-      "Actual walking, Space jump and falling tiles were observed.",
-      "A real drop to the second floor kept the complete character visible."
+      "Actual touch JUMP plus held movement stick moved 1.4m while airborne; three hearts remained. Start/END/retry/pause and close framing were checked."
     ],
     "physical_device_tested": false
   },
-  "remaining_limits": [
-    "Long survival landmarks have not been manually completed.",
-    "Final art quality and enjoyment require user review.",
-    "Import into Loopit was not performed or verified in this delivery."
+  "limits": [
+    "Last-standing victory and long competitive survival have not been manually completed in this revision.",
+    "Loopit import not verified.",
+    "Final user art and enjoyment review remains open."
   ],
-  "runtime_asset_fetching": false,
-  "proof_image": "000-reference.png"
+  "reference_image": "000-reference.png"
 }

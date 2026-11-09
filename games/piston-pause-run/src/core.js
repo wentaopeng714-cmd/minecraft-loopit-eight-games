@@ -49,7 +49,7 @@ export class World{
  updateView(dt){
   if(!this.fps)return;const f=this.fps;f.active=this.phase==='play'&&f.preferFirst;f.hand.visible=f.active;f.actor.root.visible=!f.active;f.reticle.classList.toggle('hidden',!f.active);$('game').dataset.view=f.active?'first-person':'third-person';
   if(!f.active)return;const p=f.actor.root.position;f.camera.position.copy(p).add(V(0,f.height,0));f.camera.rotation.order='YXZ';f.camera.rotation.y=f.yaw;f.camera.rotation.x=f.pitch;f.camera.aspect=this.width/this.height;f.arm.position.x=.34*f.camera.aspect;if(f.weapon)f.weapon.position.x=.26*f.camera.aspect;f.camera.updateProjectionMatrix();f.actor.root.rotation.y=f.yaw+Math.PI;
-  f.swing=Math.min(1,f.swing+dt*2);const swing=Math.sin(f.swing*Math.PI);f.hand.rotation.set(-swing*.45,0,-swing*.4);const moving=this.movement();f.hand.position.y=Math.hypot(moving.x,moving.z)>.1?Math.sin(this.time*9)*.018:Math.sin(this.time*2)*.006;
+  f.swing=Math.min(1,f.swing+dt*2);const swing=Math.sin(f.swing*Math.PI);f.hand.rotation.set(-swing*.45,0,-swing*.4);const moving=f.motion?{x:0,z:-1}:this.movement();f.hand.position.y=Math.hypot(moving.x,moving.z)>.1?Math.sin(this.time*9)*.018:Math.sin(this.time*2)*.006;
  }
 
  async load(extra=[]){

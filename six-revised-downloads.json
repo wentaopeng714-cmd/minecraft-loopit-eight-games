@@ -1,0 +1,68 @@
+[
+  {
+    "number": 11,
+    "slug": "wolf-trail-home",
+    "title": "Wolf Trail Home",
+    "cn": "小狼跟我走",
+    "file": "11-wolf-trail-home-v0.2.0.zip",
+    "game_version": "0.2.0",
+    "bytes": 1156556,
+    "sha256": "f7f75bdd462d261c20b1b0e780fe5c44a8bd469cac891b8ccb13f1a627bd59e9",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.1/11-wolf-trail-home-v0.2.0.zip"
+  },
+  {
+    "number": 12,
+    "slug": "piston-pocket-lab",
+    "title": "Piston Pocket Lab",
+    "cn": "活塞推箱实验室",
+    "file": "12-piston-pocket-lab-v0.2.0.zip",
+    "game_version": "0.2.0",
+    "bytes": 783103,
+    "sha256": "db23970a0e8e3dd08f1d57c8e3c48e78431330736db5f53761230a8852b4b510",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.1/12-piston-pocket-lab-v0.2.0.zip"
+  },
+  {
+    "number": 13,
+    "slug": "pearl-pocket-golf",
+    "title": "Pearl Pocket Golf",
+    "cn": "末影珍珠高尔夫",
+    "file": "13-pearl-pocket-golf-v0.2.0.zip",
+    "game_version": "0.2.0",
+    "bytes": 659114,
+    "sha256": "6c12dd13b08c9d97e324b36bcd08e5d3ebc2c403f90099779de485466aa313c9",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.1/13-pearl-pocket-golf-v0.2.0.zip"
+  },
+  {
+    "number": 14,
+    "slug": "anvil-after-hours",
+    "title": "Anvil After Hours",
+    "cn": "铁砧砸怪流水线",
+    "file": "14-anvil-after-hours-v0.2.0.zip",
+    "game_version": "0.2.0",
+    "bytes": 581987,
+    "sha256": "44b86f3de301207cddc43e602434efdd54b24e54d616c688ddfbc4308afa0743",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.1/14-anvil-after-hours-v0.2.0.zip"
+  },
+  {
+    "number": 18,
+    "slug": "tnt-floor-frenzy",
+    "title": "TNT Floor Frenzy",
+    "cn": "TNT地板别停下",
+    "file": "18-tnt-floor-frenzy-v0.2.0.zip",
+    "game_version": "0.2.0",
+    "bytes": 888710,
+    "sha256": "4ceb9d8a1a2b8a5f040657efe3c6771a6947938e380521227288dc957ee209f5",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.1/18-tnt-floor-frenzy-v0.2.0.zip"
+  },
+  {
+    "number": 19,
+    "slug": "piston-pause-run",
+    "title": "Piston Pause Run",
+    "cn": "活塞夹缝冲刺",
+    "file": "19-piston-pause-run-v0.2.0.zip",
+    "game_version": "0.2.0",
+    "bytes": 719907,
+    "sha256": "f8f9c9131830216618fc172ebff52ddcd50e2ae8fd29ca389a2a654d663e7fbd",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.1/19-piston-pause-run-v0.2.0.zip"
+  }
+]

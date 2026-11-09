@@ -1,1 +1,12 @@
-{"number": 11, "id": "wolf-trail-home", "title": "Wolf Trail Home", "sky": "#b9dbcd", "accent": "#568258", "heading": "Bring the pack home.", "desc": "Draw a safe trail with the Bone. Lead the Wolves around danger and back to the camp.", "kicker": "FOLLOW THE BONE", "control": "BONE TRAIL", "hint": "Draw, then WALK"}
+{
+  "number": 11,
+  "id": "wolf-trail-home",
+  "title": "Wolf Trail Home",
+  "sky": "#b9dbcd",
+  "accent": "#568258",
+  "heading": "Walk with the pack.",
+  "desc": "Explore the forest on foot. Call Wolves with the Bone, lead them away from danger and bring them to the camp lantern.",
+  "kicker": "FOREST RESCUE",
+  "control": "MOVE · CALL · DELIVER",
+  "hint": "Stick / WASD · Drag to look"
+}

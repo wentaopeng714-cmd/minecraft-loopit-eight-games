@@ -1,10 +1,10 @@
 
-> piston-pocket-lab@0.1.0 test
+> piston-pocket-lab@0.2.0 test
 > node --test tests/*.test.mjs
 
-✔ every authored layout and rotation has a reachable solution (1.210791ms)
-✔ a blocked boundary cannot push a crate outside the board (0.336375ms)
-✔ a connected crate chain moves together and the previous state remains usable for undo (0.066709ms)
+✔ every authored layout and rotation has a reachable solution (1.688209ms)
+✔ a blocked boundary cannot push a crate outside the board (0.83975ms)
+✔ a connected crate chain moves together and the previous state remains usable for undo (0.166125ms)
 ℹ tests 3
 ℹ suites 0
 ℹ pass 3
@@ -12,18 +12,4 @@
 ℹ cancelled 0
 ℹ skipped 0
 ℹ todo 0
-ℹ duration_ms 90.021083
-
-> piston-pocket-lab@0.1.0 build
-> vite build
-
-vite v7.3.7 building client environment for production...
-transforming...
-✓ 26 modules transformed.
-rendering chunks...
-computing gzip size...
-dist/index.html                                3.68 kB │ gzip:   1.54 kB
-dist/assets/Silkscreen-Regular-W9-u5Upq.ttf   32.22 kB
-dist/assets/index-KJK6GdQz.css                12.46 kB │ gzip:   3.54 kB
-dist/assets/index-oXsmJPYo.js                496.34 kB │ gzip: 128.82 kB
-✓ built in 1.98s
+ℹ duration_ms 58.804833
