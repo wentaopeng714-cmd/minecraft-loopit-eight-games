@@ -1,0 +1,15 @@
+{
+  "game": "TNT Quarry Crew",
+  "primary_reference_file": "000-reference.png",
+  "purpose": "visual reference only; not a runtime dependency or a platform asset ID",
+  "format": "PNG",
+  "mode": "RGB",
+  "width": 390,
+  "height": 844,
+  "sha256": "6ad94f8a4678ea4d285fa5cdf7768c1460f2718a801daff3e513ab841d065f50",
+  "project_source": "src/",
+  "playable_build": "dist/",
+  "runtime_art": "public/assets/",
+  "user_reported_original_import_result": "invalid selected image reference",
+  "platform_import_verified": false
+}

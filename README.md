@@ -4,6 +4,8 @@ Complete standalone projects for further polishing and Loopit handoff. Each has 
 
 ## Download
 
+> ZIP import reports: eight optional [image-reference investigation packages](loopit-import/README.md) are available. Original game ZIPs remain unchanged. Platform import of the investigation packages is not yet verified.
+
 Each ZIP includes the playable `dist/` build, full source, tests, matching textures and model data, provenance, handoff prompts and observed validation notes. Extract it and run `python3 play.py` to play locally. Editing requires Node.js and `npm ci`.
 
 | Case | Game | Complete ZIP |

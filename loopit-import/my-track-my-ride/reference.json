@@ -1,0 +1,15 @@
+{
+  "game": "My Track, My Ride",
+  "primary_reference_file": "000-reference.png",
+  "purpose": "visual reference only; not a runtime dependency or a platform asset ID",
+  "format": "PNG",
+  "mode": "RGB",
+  "width": 390,
+  "height": 844,
+  "sha256": "73ef1811418b093a597893c5ca6434ffe308544c239e23c772e0d672e191685f",
+  "project_source": "src/",
+  "playable_build": "dist/",
+  "runtime_art": "public/assets/",
+  "user_reported_original_import_result": "invalid selected image reference",
+  "platform_import_verified": false
+}

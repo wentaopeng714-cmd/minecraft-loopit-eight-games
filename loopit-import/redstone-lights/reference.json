@@ -1,0 +1,15 @@
+{
+  "game": "Redstone Lights",
+  "primary_reference_file": "000-reference.png",
+  "purpose": "visual reference only; not a runtime dependency or a platform asset ID",
+  "format": "PNG",
+  "mode": "RGB",
+  "width": 390,
+  "height": 844,
+  "sha256": "834e5d95216684eced0b00970deb9ab102c2807996af48bb9cd715ea174ccbd6",
+  "project_source": "src/",
+  "playable_build": "dist/",
+  "runtime_art": "public/assets/",
+  "user_reported_original_import_result": "invalid selected image reference",
+  "platform_import_verified": false
+}

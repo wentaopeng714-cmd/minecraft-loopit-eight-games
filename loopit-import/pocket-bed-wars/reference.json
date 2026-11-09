@@ -1,0 +1,15 @@
+{
+  "game": "Pocket Bed Wars",
+  "primary_reference_file": "000-reference.png",
+  "purpose": "visual reference only; not a runtime dependency or a platform asset ID",
+  "format": "PNG",
+  "mode": "RGB",
+  "width": 390,
+  "height": 844,
+  "sha256": "f51e3c0df82e014ad27ff96afaacf2191bbe1a47cc7e0f4fd468d8c3cfcd8cfa",
+  "project_source": "src/",
+  "playable_build": "dist/",
+  "runtime_art": "public/assets/",
+  "user_reported_original_import_result": "invalid selected image reference",
+  "platform_import_verified": false
+}

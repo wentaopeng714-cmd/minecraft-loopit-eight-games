@@ -1,0 +1,16 @@
+湖岸钓鱼 · ZIP图片引用排查版
+
+这是完整独立工程ZIP，保留原有玩法、源码、dist构建、匹配模型与纹理。
+本版仅调整交接布局，尚未在报错账号中验证Loopit导入，不代表已确定平台内部错误原因。
+
+导入：继续使用你之前成功的ZIP导入方式。粘贴 prompt.txt 的内容。
+主参考：根目录 000-reference.png。如果界面要求选择图片，请选这张实机图，而不是 assets/ 内的小贴图。
+reference.json 是普通文件说明，不是Loopit官方导入协议，也不包含平台素材ID。
+
+源码在 src/，素材在 public/assets/，可玩构建在 dist/。本地可运行 python3 play.py。
+旧版手动生成/历史截图引用已从此导入包移除；游戏运行所需文件全部保留。
+图片在发布前逐张解码检查，ZIP可解压，主图像素与原实机截图一致，仅重新编码为RGB PNG。
+当前账号无法访问你提供的失败作品，因此本版是减少引用歧义的排查方案，请先试一款再批量导入。
+
+完整美术来源与第三方代码许可见 public/assets/sources.json 和 public/THIRD_PARTY_NOTICES.txt。
+Minecraft美术权利归Mojang/Microsoft，第三方库许可不包含这些美术。

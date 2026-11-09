@@ -1,0 +1,15 @@
+{
+  "game": "Steve Sky Stack",
+  "primary_reference_file": "000-reference.png",
+  "purpose": "visual reference only; not a runtime dependency or a platform asset ID",
+  "format": "PNG",
+  "mode": "RGB",
+  "width": 1280,
+  "height": 720,
+  "sha256": "34cf317870db8071bb189825fe013499bae5b36645888f65279168455756d0c2",
+  "project_source": "src/",
+  "playable_build": "dist/",
+  "runtime_art": "public/assets/",
+  "user_reported_original_import_result": "invalid selected image reference",
+  "platform_import_verified": false
+}

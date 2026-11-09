@@ -1,0 +1,314 @@
+[
+  {
+    "game": "my-track-my-ride",
+    "user_import_result": "INVALID_SELECTED_IMAGE",
+    "zip_crc": null,
+    "files": 73,
+    "images": 44,
+    "formats": {
+      "PNG": 42,
+      "JPEG": 2
+    },
+    "first_image": "my-track-my-ride/dist/assets/cobblestone.png",
+    "refs": [
+      {
+        "path": "my-track-my-ride/loopit-handoff/references/goal-result-phone.jpg",
+        "format": "JPEG",
+        "size": [
+          390,
+          844
+        ]
+      },
+      {
+        "path": "my-track-my-ride/loopit-handoff/references/goal-route-phone.jpg",
+        "format": "JPEG",
+        "size": [
+          390,
+          844
+        ]
+      }
+    ],
+    "bad_images": [],
+    "root_image": false
+  },
+  {
+    "game": "creeper-toss",
+    "user_import_result": "SUCCESS",
+    "zip_crc": null,
+    "files": 74,
+    "images": 44,
+    "formats": {
+      "PNG": 42,
+      "JPEG": 2
+    },
+    "first_image": "creeper-toss/dist/assets/cobblestone.png",
+    "refs": [
+      {
+        "path": "creeper-toss/loopit-handoff/references/goal-desktop.jpg",
+        "format": "JPEG",
+        "size": [
+          1280,
+          800
+        ]
+      },
+      {
+        "path": "creeper-toss/loopit-handoff/references/goal-result-phone.jpg",
+        "format": "JPEG",
+        "size": [
+          390,
+          844
+        ]
+      }
+    ],
+    "bad_images": [],
+    "root_image": false
+  },
+  {
+    "game": "pocket-bed-wars",
+    "user_import_result": "INVALID_SELECTED_IMAGE",
+    "zip_crc": null,
+    "files": 183,
+    "images": 137,
+    "formats": {
+      "PNG": 135,
+      "JPEG": 2
+    },
+    "first_image": "pocket-bed-wars/dist/assets/bed_blue.png",
+    "refs": [
+      {
+        "path": "pocket-bed-wars/loopit-handoff/references/pocket-bed-wars-v2-loot-phone.jpg",
+        "format": "JPEG",
+        "size": [
+          390,
+          844
+        ]
+      },
+      {
+        "path": "pocket-bed-wars/loopit-handoff/references/pocket-bed-wars-v2-loot.jpg",
+        "format": "JPEG",
+        "size": [
+          1280,
+          720
+        ]
+      }
+    ],
+    "bad_images": [],
+    "root_image": false
+  },
+  {
+    "game": "steve-sky-stack",
+    "user_import_result": "INVALID_SELECTED_IMAGE",
+    "zip_crc": null,
+    "files": 177,
+    "images": 131,
+    "formats": {
+      "PNG": 129,
+      "JPEG": 2
+    },
+    "first_image": "steve-sky-stack/dist/assets/bed_blue.png",
+    "refs": [
+      {
+        "path": "steve-sky-stack/loopit-handoff/references/steve-sky-stack-v2-rain.jpg",
+        "format": "JPEG",
+        "size": [
+          1280,
+          720
+        ]
+      },
+      {
+        "path": "steve-sky-stack/loopit-handoff/references/steve-sky-stack-v2-sunset.jpg",
+        "format": "JPEG",
+        "size": [
+          1280,
+          720
+        ]
+      }
+    ],
+    "bad_images": [],
+    "root_image": false
+  },
+  {
+    "game": "farm-feeding-time",
+    "user_import_result": "INVALID_SELECTED_IMAGE",
+    "zip_crc": null,
+    "files": 211,
+    "images": 151,
+    "formats": {
+      "PNG": 147,
+      "JPEG": 4
+    },
+    "first_image": "farm-feeding-time/dist/assets/apple.png",
+    "refs": [
+      {
+        "path": "farm-feeding-time/loopit-handoff/references/farm-feeding-time-v3-cat.jpg",
+        "format": "JPEG",
+        "size": [
+          390,
+          844
+        ]
+      },
+      {
+        "path": "farm-feeding-time/loopit-handoff/references/farm-feeding-time-v3-horse.jpg",
+        "format": "JPEG",
+        "size": [
+          390,
+          844
+        ]
+      },
+      {
+        "path": "farm-feeding-time/loopit-handoff/references/farm-feeding-time-v3-rabbit.jpg",
+        "format": "JPEG",
+        "size": [
+          390,
+          844
+        ]
+      },
+      {
+        "path": "farm-feeding-time/loopit-handoff/references/farm-feeding-time-v3-wolf.jpg",
+        "format": "JPEG",
+        "size": [
+          390,
+          844
+        ]
+      }
+    ],
+    "bad_images": [],
+    "root_image": false
+  },
+  {
+    "game": "bobber-and-bite",
+    "user_import_result": "INVALID_SELECTED_IMAGE",
+    "zip_crc": null,
+    "files": 221,
+    "images": 167,
+    "formats": {
+      "PNG": 165,
+      "JPEG": 2
+    },
+    "first_image": "bobber-and-bite/dist/assets/bed_blue.png",
+    "refs": [
+      {
+        "path": "bobber-and-bite/loopit-handoff/references/bobber-and-bite-v2-bag-phone.jpg",
+        "format": "JPEG",
+        "size": [
+          390,
+          844
+        ]
+      },
+      {
+        "path": "bobber-and-bite/loopit-handoff/references/bobber-and-bite-v2-lake-phone.jpg",
+        "format": "JPEG",
+        "size": [
+          390,
+          844
+        ]
+      }
+    ],
+    "bad_images": [],
+    "root_image": false
+  },
+  {
+    "game": "woolly-good-day",
+    "user_import_result": "INVALID_SELECTED_IMAGE",
+    "zip_crc": null,
+    "files": 178,
+    "images": 130,
+    "formats": {
+      "PNG": 129,
+      "JPEG": 1
+    },
+    "first_image": "woolly-good-day/dist/assets/bed_blue.png",
+    "refs": [
+      {
+        "path": "woolly-good-day/loopit-handoff/references/woolly-good-day-v3-phone.jpg",
+        "format": "JPEG",
+        "size": [
+          390,
+          844
+        ]
+      }
+    ],
+    "bad_images": [],
+    "root_image": false
+  },
+  {
+    "game": "redstone-lights",
+    "user_import_result": "INVALID_SELECTED_IMAGE",
+    "zip_crc": null,
+    "files": 176,
+    "images": 130,
+    "formats": {
+      "PNG": 129,
+      "JPEG": 1
+    },
+    "first_image": "redstone-lights/dist/assets/bed_blue.png",
+    "refs": [
+      {
+        "path": "redstone-lights/loopit-handoff/references/redstone-lights-v2-powered-phone.jpg",
+        "format": "JPEG",
+        "size": [
+          390,
+          844
+        ]
+      }
+    ],
+    "bad_images": [],
+    "root_image": false
+  },
+  {
+    "game": "tnt-quarry-crew",
+    "user_import_result": "INVALID_SELECTED_IMAGE",
+    "zip_crc": null,
+    "files": 182,
+    "images": 134,
+    "formats": {
+      "PNG": 132,
+      "JPEG": 2
+    },
+    "first_image": "tnt-quarry-crew/dist/assets/bed_blue.png",
+    "refs": [
+      {
+        "path": "tnt-quarry-crew/loopit-handoff/references/tnt-quarry-crew-v3-crater.jpg",
+        "format": "JPEG",
+        "size": [
+          1280,
+          720
+        ]
+      },
+      {
+        "path": "tnt-quarry-crew/loopit-handoff/references/tnt-quarry-crew-v3-wall-phone.jpg",
+        "format": "JPEG",
+        "size": [
+          390,
+          844
+        ]
+      }
+    ],
+    "bad_images": [],
+    "root_image": false
+  },
+  {
+    "game": "golem-village-watch",
+    "user_import_result": "SUCCESS",
+    "zip_crc": null,
+    "files": 191,
+    "images": 142,
+    "formats": {
+      "PNG": 141,
+      "JPEG": 1
+    },
+    "first_image": "golem-village-watch/dist/assets/apple.png",
+    "refs": [
+      {
+        "path": "golem-village-watch/loopit-handoff/references/golem-village-watch-v2-phone.jpg",
+        "format": "JPEG",
+        "size": [
+          390,
+          844
+        ]
+      }
+    ],
+    "bad_images": [],
+    "root_image": false
+  }
+]
