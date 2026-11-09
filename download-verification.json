@@ -1,0 +1,66 @@
+[
+  {
+    "file": "03-pocket-bed-wars.zip",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.3.0/03-pocket-bed-wars.zip",
+    "http": 200,
+    "bytes": 474084,
+    "sha256_match": true,
+    "zip_crc": "PASS"
+  },
+  {
+    "file": "04-steve-sky-stack.zip",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.3.0/04-steve-sky-stack.zip",
+    "http": 200,
+    "bytes": 476476,
+    "sha256_match": true,
+    "zip_crc": "PASS"
+  },
+  {
+    "file": "05-farm-feeding-time.zip",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.3.0/05-farm-feeding-time.zip",
+    "http": 200,
+    "bytes": 661114,
+    "sha256_match": true,
+    "zip_crc": "PASS"
+  },
+  {
+    "file": "06-bobber-and-bite.zip",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.3.0/06-bobber-and-bite.zip",
+    "http": 200,
+    "bytes": 517709,
+    "sha256_match": true,
+    "zip_crc": "PASS"
+  },
+  {
+    "file": "07-woolly-good-day.zip",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.3.0/07-woolly-good-day.zip",
+    "http": 200,
+    "bytes": 424366,
+    "sha256_match": true,
+    "zip_crc": "PASS"
+  },
+  {
+    "file": "08-redstone-lights.zip",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.3.0/08-redstone-lights.zip",
+    "http": 200,
+    "bytes": 407610,
+    "sha256_match": true,
+    "zip_crc": "PASS"
+  },
+  {
+    "file": "09-tnt-quarry-crew.zip",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.3.0/09-tnt-quarry-crew.zip",
+    "http": 200,
+    "bytes": 528815,
+    "sha256_match": true,
+    "zip_crc": "PASS"
+  },
+  {
+    "file": "10-golem-village-watch.zip",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.3.0/10-golem-village-watch.zip",
+    "http": 200,
+    "bytes": 438714,
+    "sha256_match": true,
+    "zip_crc": "PASS"
+  }
+]

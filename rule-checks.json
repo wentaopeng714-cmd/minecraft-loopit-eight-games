@@ -1,0 +1,42 @@
+[
+  {
+    "game": "pocket-bed-wars",
+    "exit": 0,
+    "output": "\n> pocket-bed-wars@0.3.0 test\n> node --test tests/*.test.mjs\n\n✔ a broken bed prevents the next respawn but does not instantly eliminate (1.674917ms)\n✔ only built bridge cells support the player (0.121291ms)\n✔ rival crosses the bridge entry instead of stopping short of its waypoint (0.205125ms)\n✔ rival defends an invaded bed, raids across islands and hunts after the blue bed falls (1.127834ms)\nℹ tests 4\nℹ suites 0\nℹ pass 4\nℹ fail 0\nℹ cancelled 0\nℹ skipped 0\nℹ todo 0\nℹ duration_ms 123.982792\n\n> pocket-bed-wars@0.3.0 build\n> vite build\n\nvite v7.3.7 building client environment for production...\ntransforming...\n✓ 25 modules transformed.\nrendering chunks...\ncomputing gzip size...\ndist/index.html                                3.71 kB │ gzip:   1.65 kB\ndist/assets/Silkscreen-Regular-W9-u5Upq.ttf   32.22 kB\ndist/assets/index-KJK6GdQz.css                12.46 kB │ gzip:   3.54 kB\ndist/assets/index-XgUinfmN.js                508.02 kB │ gzip: 133.14 kB\n✓ built in 2.12s\n"
+  },
+  {
+    "game": "steve-sky-stack",
+    "exit": 0,
+    "output": "\n> steve-sky-stack@0.3.0 test\n> node --test tests/*.test.mjs\n\n✔ partial overhang keeps only the actual intersection (0.899792ms)\n✔ misses, perfect tolerance and combo rewards remain distinct (0.131833ms)\nℹ tests 2\nℹ suites 0\nℹ pass 2\nℹ fail 0\nℹ cancelled 0\nℹ skipped 0\nℹ todo 0\nℹ duration_ms 166.377417\n\n> steve-sky-stack@0.3.0 build\n> vite build\n\nvite v7.3.7 building client environment for production...\ntransforming...\n✓ 25 modules transformed.\nrendering chunks...\ncomputing gzip size...\ndist/index.html                                3.64 kB │ gzip:   1.62 kB\ndist/assets/Silkscreen-Regular-W9-u5Upq.ttf   32.22 kB\ndist/assets/index-KJK6GdQz.css                12.46 kB │ gzip:   3.54 kB\ndist/assets/index-Co0sgQ8M.js                500.49 kB │ gzip: 129.52 kB\n✓ built in 2.23s\n"
+  },
+  {
+    "game": "farm-feeding-time",
+    "exit": 0,
+    "output": "\n> farm-feeding-time@0.3.0 test\n> node --test tests/*.test.mjs\n\n✔ new visitors arrive throughout the first day with the correct new foods (0.942125ms)\n✔ food capacity expands with new food types while shared carrots add no duplicate slot (0.223834ms)\n✔ later days use all eight animals and all six food types (1.09125ms)\n✔ a two-portion request cannot consume one remaining portion (0.8325ms)\n✔ shared Wheat and bag capacity create real constraints (0.256666ms)\n✔ packing has an explicit short duration and point cost (0.122291ms)\nℹ tests 6\nℹ suites 0\nℹ pass 6\nℹ fail 0\nℹ cancelled 0\nℹ skipped 0\nℹ todo 0\nℹ duration_ms 147.645167\n\n> farm-feeding-time@0.3.0 build\n> vite build\n\nvite v7.3.7 building client environment for production...\ntransforming...\n✓ 26 modules transformed.\nrendering chunks...\ncomputing gzip size...\ndist/index.html                                3.70 kB │ gzip:   1.66 kB\ndist/assets/Silkscreen-Regular-W9-u5Upq.ttf   32.22 kB\ndist/assets/index-KJK6GdQz.css                12.46 kB │ gzip:   3.54 kB\ndist/assets/index-BwsR8fAr.js                501.74 kB │ gzip: 131.10 kB\n✓ built in 2.12s\n"
+  },
+  {
+    "game": "bobber-and-bite",
+    "exit": 0,
+    "output": "\n> bobber-and-bite@0.3.0 test\n> node --test tests/*.test.mjs\n\n✔ each fishing spot can produce all twelve fish, ordinary finds and treasures (30.94825ms)\n✔ deep water has a substantially larger treasure pool (12.353459ms)\n✔ four duplicates guarantee an unseen item, without losing existing bag counts (0.30625ms)\n✔ holding continuously risks a snapped line (0.477375ms)\n✔ alternating pull and release can land a fish (0.4765ms)\nℹ tests 5\nℹ suites 0\nℹ pass 5\nℹ fail 0\nℹ cancelled 0\nℹ skipped 0\nℹ todo 0\nℹ duration_ms 139.58125\n\n> bobber-and-bite@0.3.0 build\n> vite build\n\nvite v7.3.7 building client environment for production...\ntransforming...\n✓ 26 modules transformed.\nrendering chunks...\ncomputing gzip size...\ndist/index.html                                3.69 kB │ gzip:   1.65 kB\ndist/assets/Silkscreen-Regular-W9-u5Upq.ttf   32.22 kB\ndist/assets/index-KJK6GdQz.css                12.46 kB │ gzip:   3.54 kB\ndist/assets/index-BsVYXtET.js                509.95 kB │ gzip: 133.70 kB\n✓ built in 2.15s\n"
+  },
+  {
+    "game": "woolly-good-day",
+    "exit": 0,
+    "output": "\n> woolly-good-day@0.3.0 test\n> node --test tests/*.test.mjs\n\n✔ every wool tile penetrates the body surface slightly so no detached layer can appear (1.386375ms)\n✔ a fast swipe still catches wool between sparse pointer events (0.253583ms)\n✔ the next-area action skips empty faces and can always return to the last remaining face (0.189666ms)\n✔ every shear color cuts only its matching wool, including black versus white (1.467ms)\n✔ each successive coat includes all four colors and changes its mosaic (0.474667ms)\nℹ tests 5\nℹ suites 0\nℹ pass 5\nℹ fail 0\nℹ cancelled 0\nℹ skipped 0\nℹ todo 0\nℹ duration_ms 165.2135\n\n> woolly-good-day@0.3.0 build\n> vite build\n\nvite v7.3.7 building client environment for production...\ntransforming...\n✓ 26 modules transformed.\nrendering chunks...\ncomputing gzip size...\ndist/index.html                                3.67 kB │ gzip:   1.65 kB\ndist/assets/Silkscreen-Regular-W9-u5Upq.ttf   32.22 kB\ndist/assets/index-KJK6GdQz.css                12.46 kB │ gzip:   3.54 kB\ndist/assets/index-CgryPvKd.js                503.05 kB │ gzip: 131.20 kB\n✓ built in 2.14s\n"
+  },
+  {
+    "game": "redstone-lights",
+    "exit": 0,
+    "output": "\n> redstone-lights@0.3.0 test\n> node --test tests/*.test.mjs\n\n✔ all authored circuits have a valid powered solution (5.073375ms)\n✔ an unconnected source cannot light a distant lamp (0.23225ms)\nℹ tests 2\nℹ suites 0\nℹ pass 2\nℹ fail 0\nℹ cancelled 0\nℹ skipped 0\nℹ todo 0\nℹ duration_ms 118.222459\n\n> redstone-lights@0.3.0 build\n> vite build\n\nvite v7.3.7 building client environment for production...\ntransforming...\n✓ 25 modules transformed.\nrendering chunks...\ncomputing gzip size...\ndist/index.html                                3.68 kB │ gzip:   1.64 kB\ndist/assets/Silkscreen-Regular-W9-u5Upq.ttf   32.22 kB\ndist/assets/index-KJK6GdQz.css                12.46 kB │ gzip:   3.54 kB\ndist/assets/index-CM8cfD3d.js                500.11 kB │ gzip: 130.53 kB\n✓ built in 2.10s\n"
+  },
+  {
+    "game": "tnt-quarry-crew",
+    "exit": 0,
+    "output": "\n> tnt-quarry-crew@0.3.0 test\n> node --test tests/*.test.mjs\n\n✔ unlit TNT waits indefinitely and only a lit fuse can detonate (2.975875ms)\n✔ aim tracing finds the ground and a wall at any height, with a free adjacent placement cell (1.898917ms)\n✔ a blast removes actual soil, wood, walls and buried cells instead of only a marked support (0.327541ms)\n✔ destroying terrain below a structure detaches it, while a surviving second footing supports it (5.243125ms)\nℹ tests 4\nℹ suites 0\nℹ pass 4\nℹ fail 0\nℹ cancelled 0\nℹ skipped 0\nℹ todo 0\nℹ duration_ms 116.183875\n\n> tnt-quarry-crew@0.3.0 build\n> vite build\n\nvite v7.3.7 building client environment for production...\ntransforming...\n✓ 26 modules transformed.\nrendering chunks...\ncomputing gzip size...\ndist/index.html                                3.73 kB │ gzip:   1.67 kB\ndist/assets/Silkscreen-Regular-W9-u5Upq.ttf   32.22 kB\ndist/assets/index-KJK6GdQz.css                12.46 kB │ gzip:   3.54 kB\ndist/assets/index-BSp7nuSY.js                506.69 kB │ gzip: 132.43 kB\n✓ built in 2.26s\n"
+  },
+  {
+    "game": "golem-village-watch",
+    "exit": 0,
+    "output": "\n> golem-village-watch@0.3.0 test\n> node --test tests/*.test.mjs\n\n✔ waves continue past three and advance only after every threat is resolved (0.507333ms)\n✔ lasting upgrades separately change damage, max hearts and reach (0.240208ms)\n✔ later enemies grow stronger while babies remain faster and giants more durable (0.085791ms)\nℹ tests 3\nℹ suites 0\nℹ pass 3\nℹ fail 0\nℹ cancelled 0\nℹ skipped 0\nℹ todo 0\nℹ duration_ms 151.682375\n\n> golem-village-watch@0.3.0 build\n> vite build\n\nvite v7.3.7 building client environment for production...\ntransforming...\n✓ 25 modules transformed.\nrendering chunks...\ncomputing gzip size...\ndist/index.html                                3.72 kB │ gzip:   1.67 kB\ndist/assets/Silkscreen-Regular-W9-u5Upq.ttf   32.22 kB\ndist/assets/index-KJK6GdQz.css                12.46 kB │ gzip:   3.54 kB\ndist/assets/index-CuqSz3So.js                494.02 kB │ gzip: 129.06 kB\n✓ built in 1.89s\n"
+  }
+]
