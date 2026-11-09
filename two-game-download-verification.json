@@ -1,0 +1,20 @@
+[
+  {
+    "game": "my-track-my-ride",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.3.1/01-my-track-my-ride.zip",
+    "http": 200,
+    "bytes": 399503,
+    "sha256_match": true,
+    "zip_crc": "PASS",
+    "extracted_http_files_verified": 21
+  },
+  {
+    "game": "creeper-toss",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.3.1/02-creeper-toss.zip",
+    "http": 200,
+    "bytes": 562510,
+    "sha256_match": true,
+    "zip_crc": "PASS",
+    "extracted_http_files_verified": 21
+  }
+]
