@@ -1,0 +1,102 @@
+[
+  {
+    "slug": "wolf-trail-home",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.0/11-wolf-trail-home.zip",
+    "anonymous_http": 200,
+    "bytes": 749269,
+    "sha256": "77782cbf1ccf933f2f041e80267fc385aa50baa1c82521ade37e5ac8f43b2656",
+    "sha256_match": true,
+    "zip_crc": "pass",
+    "main_image": "valid PNG"
+  },
+  {
+    "slug": "piston-pocket-lab",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.0/12-piston-pocket-lab.zip",
+    "anonymous_http": 200,
+    "bytes": 611220,
+    "sha256": "7106ffac816f543b9f2318502533e8e37fcda51b52bd265db11ff476332cb422",
+    "sha256_match": true,
+    "zip_crc": "pass",
+    "main_image": "valid PNG"
+  },
+  {
+    "slug": "pearl-pocket-golf",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.0/13-pearl-pocket-golf.zip",
+    "anonymous_http": 200,
+    "bytes": 470967,
+    "sha256": "921dd75630de30d278536d5a722a1685b8569b18fb74d436abedb639ec311c6c",
+    "sha256_match": true,
+    "zip_crc": "pass",
+    "main_image": "valid PNG"
+  },
+  {
+    "slug": "anvil-after-hours",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.0/14-anvil-after-hours.zip",
+    "anonymous_http": 200,
+    "bytes": 578949,
+    "sha256": "e35510221b768792528f16f1a9973aafcbbfcaabe494d272f9d5ab9a89adc4a1",
+    "sha256_match": true,
+    "zip_crc": "pass",
+    "main_image": "valid PNG"
+  },
+  {
+    "slug": "last-second-bucket",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.0/15-last-second-bucket.zip",
+    "anonymous_http": 200,
+    "bytes": 860606,
+    "sha256": "fd02b9ca321099c23081a3832f04cd2cacb5028ff236575c6b089395465c9a08",
+    "sha256_match": true,
+    "zip_crc": "pass",
+    "main_image": "valid PNG"
+  },
+  {
+    "slug": "slime-split-mine",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.0/16-slime-split-mine.zip",
+    "anonymous_http": 200,
+    "bytes": 537448,
+    "sha256": "50c4f76e7d2375e91e658b2d8379459190b3ec32387c7bf3a90d2db3ffe3a282",
+    "sha256_match": true,
+    "zip_crc": "pass",
+    "main_image": "valid PNG"
+  },
+  {
+    "slug": "ice-boat-express",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.0/17-ice-boat-express.zip",
+    "anonymous_http": 200,
+    "bytes": 603654,
+    "sha256": "b3ef122353742d7cca3497a3289ad3b6de0e151217552b5f2d5057f9eaa03bb5",
+    "sha256_match": true,
+    "zip_crc": "pass",
+    "main_image": "valid PNG"
+  },
+  {
+    "slug": "tnt-floor-frenzy",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.0/18-tnt-floor-frenzy.zip",
+    "anonymous_http": 200,
+    "bytes": 685596,
+    "sha256": "578d431f7a6d8928270f531f8125b2e30abc24aec6f4b798737b8d37e2c6c57b",
+    "sha256_match": true,
+    "zip_crc": "pass",
+    "main_image": "valid PNG"
+  },
+  {
+    "slug": "piston-pause-run",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.0/19-piston-pause-run.zip",
+    "anonymous_http": 200,
+    "bytes": 704878,
+    "sha256": "0f6a053301277734537ef2b8a05682c9069e1f53b901c1e27f82c613c364b89d",
+    "sha256_match": true,
+    "zip_crc": "pass",
+    "main_image": "valid PNG"
+  },
+  {
+    "slug": "elytra-ring-post",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.0/20-elytra-ring-post.zip",
+    "anonymous_http": 200,
+    "bytes": 447205,
+    "sha256": "5f2b015b3e3e3e06a1d5651a93969b5c48ce2c8480edf44702e4ba0edaad3ca4",
+    "sha256_match": true,
+    "zip_crc": "pass",
+    "main_image": "valid PNG"
+  }
+]
