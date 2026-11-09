@@ -1,0 +1,16 @@
+Project 18: TNT Floor Frenzy / TNT地板别停下
+
+Maintain the existing independent, playable 3D browser game in this ZIP; use src/main.js and src/rules.mjs as the working implementation, not a new genre. dist/ is the offline build, public/assets contains the actual matching textures/model data, and 000-reference.png is a real gameplay screenshot of this exact project, supplied as an art/camera/UI reference. It is a single image, not a sprite sheet or a platform asset ID. Do not invent an image reference ID or request an unrelated image. If a platform image selector cannot resolve it, continue from the included working code and files rather than stopping recreation.
+
+Keep coherent Minecraft pixel textures, hard voxel silhouettes, stable daylight or scene-specific lighting, soft contact shadows, readable character identity, matching props and unclipped mobile framing. Preserve visible anticipation/action/contact/follow-through/recovery, natural locomotion transitions, stable prop grips, facial intent and separate success/failure/hurt feedback. Mobile controls must work by touch with clear hierarchy; desktop alternatives also work. Guidance is a compact English cue at the first action, not a long tutorial. Keep clear score, next target, progress and actual result feedback, plus Start, Play, Result, Retry and Continue where applicable. Store best records locally. Sound is synthesized in this version; keep cues distinct and tied to contact. Do not replace 3D gameplay with flat image stickers, or call an early END a completed delivery. Improve art and feel without removing the decisions or padding the session with waiting. Observe QUALITY_REQUIREMENTS.md; supplied reference art and browser observations do not claim final user approval or physical phone testing.
+
+GAMEPLAY AND CONTINUING GOAL
+Move freely using the left stick/WASD and tap JUMP/Space. Each stepped tile pulses orange for 0.95s then falls. Three real 11x11 layers and two competing runners create route decisions; short jumps bridge gaps. Three falls below the arena end the run; safe respawn is immediate. Survival landmarks every 30 seconds, fresh-tile points and endless continuation support a roughly three-minute session without waiting.
+
+CAMERA AND ART
+High third-person view over a complete three-layer TNT arena. Sand, Stone and blue Wool distinguish upper surfaces over TNT sides. Lower floors become visible when falling; upper floors must stop hiding the actor. Obsidian posts, lava below and a small Villager spectator balcony complete the scene. Stable layer-follow camera without jump bob.
+
+ACTING AND FEEDBACK
+Smooth run anticipation, jump takeoff/landing, warning pulse then actual falling block, distinct void fall and instant recovery. Other runners walk and jump; spectators react warmly. Keep the full head/body visible when moving between layers.
+
+Implementation is already playable. Preserve the independent source/build and use these files directly. Please verify touch controls, clear scoring and actual goal completion after any polishing.

@@ -1,0 +1,102 @@
+[
+  {
+    "slug": "wolf-trail-home",
+    "startPhase": "play",
+    "endTitle": "Trail progress recorded.",
+    "endTag": "RUN RECORDED",
+    "retryPhase": "play",
+    "retryScore": "0",
+    "helpPaused": "true",
+    "errors": []
+  },
+  {
+    "slug": "piston-pocket-lab",
+    "startPhase": "play",
+    "endTitle": "Workshop notes saved.",
+    "endTag": "RUN RECORDED",
+    "retryPhase": "play",
+    "retryScore": "0",
+    "helpPaused": "true",
+    "errors": []
+  },
+  {
+    "slug": "pearl-pocket-golf",
+    "startPhase": "play",
+    "endTitle": "Pearl trip recorded.",
+    "endTag": "RUN RECORDED",
+    "retryPhase": "play",
+    "retryScore": "0",
+    "helpPaused": "true",
+    "errors": []
+  },
+  {
+    "slug": "anvil-after-hours",
+    "startPhase": "play",
+    "endTitle": "A village still standing.",
+    "endTag": "RUN RECORDED",
+    "retryPhase": "play",
+    "retryScore": "0",
+    "helpPaused": "true",
+    "errors": []
+  },
+  {
+    "slug": "last-second-bucket",
+    "startPhase": "play",
+    "endTitle": "One splash away.",
+    "endTag": "RUN RECORDED",
+    "retryPhase": "play",
+    "retryScore": "0",
+    "helpPaused": "true",
+    "errors": []
+  },
+  {
+    "slug": "slime-split-mine",
+    "startPhase": "play",
+    "endTitle": "A pocket full of Diamonds.",
+    "endTag": "RUN RECORDED",
+    "retryPhase": "play",
+    "retryScore": "0",
+    "helpPaused": "true",
+    "errors": []
+  },
+  {
+    "slug": "ice-boat-express",
+    "startPhase": "play",
+    "endTitle": "Delivery progress recorded.",
+    "endTag": "RUN RECORDED",
+    "retryPhase": "play",
+    "retryScore": "0",
+    "helpPaused": "true",
+    "errors": []
+  },
+  {
+    "slug": "tnt-floor-frenzy",
+    "startPhase": "play",
+    "endTitle": "A trail worth remembering.",
+    "endTag": "RUN RECORDED",
+    "retryPhase": "play",
+    "retryScore": "5",
+    "helpPaused": "true",
+    "errors": []
+  },
+  {
+    "slug": "piston-pause-run",
+    "startPhase": "play",
+    "endTitle": "Course progress recorded.",
+    "endTag": "RUN RECORDED",
+    "retryPhase": "play",
+    "retryScore": "0",
+    "helpPaused": "true",
+    "errors": []
+  },
+  {
+    "slug": "elytra-ring-post",
+    "startPhase": "play",
+    "endTitle": "Flight progress recorded.",
+    "endTag": "RUN RECORDED",
+    "retryPhase": "play",
+    "retryScore": "0",
+    "helpPaused": "true",
+    "errors": []
+  }
+]

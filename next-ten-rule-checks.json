@@ -1,0 +1,112 @@
+[
+  {
+    "status": "fulfilled",
+    "value": {
+      "slug": "wolf-trail-home",
+      "chunk_id": "693620",
+      "wall_time_seconds": 2.7925485,
+      "exit_code": 0,
+      "original_token_count": 229,
+      "output": "\n> wolf-trail-home@0.1.0 test\n> node --test tests/*.test.mjs\n\n✔ a drawn shortcut routes around water rather than jumping across it (0.719458ms)\n✔ an enclosed destination has no false walkable route (2.629333ms)\n✔ more rescues outweigh a modest detour while scares reduce the delivery reward (0.177166ms)\nℹ tests 3\nℹ suites 0\nℹ pass 3\nℹ fail 0\nℹ cancelled 0\nℹ skipped 0\nℹ todo 0\nℹ duration_ms 78.346375\n\n> wolf-trail-home@0.1.0 build\n> vite build\n\nvite v7.3.7 building client environment for production...\ntransforming...\n✓ 26 modules transformed.\nrendering chunks...\ncomputing gzip size...\ndist/index.html                                3.61 kB │ gzip:   1.52 kB\ndist/assets/Silkscreen-Regular-W9-u5Upq.ttf   32.22 kB\ndist/assets/index-KJK6GdQz.css                12.46 kB │ gzip:   3.54 kB\ndist/assets/index-BH9d8JkC.js                501.80 kB │ gzip: 131.08 kB\n✓ built in 1.85s\n"
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "slug": "piston-pocket-lab",
+      "chunk_id": "cebdbd",
+      "wall_time_seconds": 2.769364958,
+      "exit_code": 0,
+      "original_token_count": 231,
+      "output": "\n> piston-pocket-lab@0.1.0 test\n> node --test tests/*.test.mjs\n\n✔ every authored layout and rotation has a reachable solution (1.210791ms)\n✔ a blocked boundary cannot push a crate outside the board (0.336375ms)\n✔ a connected crate chain moves together and the previous state remains usable for undo (0.066709ms)\nℹ tests 3\nℹ suites 0\nℹ pass 3\nℹ fail 0\nℹ cancelled 0\nℹ skipped 0\nℹ todo 0\nℹ duration_ms 90.021083\n\n> piston-pocket-lab@0.1.0 build\n> vite build\n\nvite v7.3.7 building client environment for production...\ntransforming...\n✓ 26 modules transformed.\nrendering chunks...\ncomputing gzip size...\ndist/index.html                                3.68 kB │ gzip:   1.54 kB\ndist/assets/Silkscreen-Regular-W9-u5Upq.ttf   32.22 kB\ndist/assets/index-KJK6GdQz.css                12.46 kB │ gzip:   3.54 kB\ndist/assets/index-oXsmJPYo.js                496.34 kB │ gzip: 128.82 kB\n✓ built in 1.98s\n"
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "slug": "pearl-pocket-golf",
+      "chunk_id": "9214eb",
+      "wall_time_seconds": 2.7886885,
+      "exit_code": 0,
+      "original_token_count": 234,
+      "output": "\n> pearl-pocket-golf@0.1.0 test\n> node --test tests/*.test.mjs\n\n✔ landing is safe only inside the actual platform footprint (0.345584ms)\n✔ a far pointer target is clamped to the throw reach without changing direction (0.089416ms)\n✔ optional treasures reward exploration while fewer throws and fewer misses matter (0.049167ms)\nℹ tests 3\nℹ suites 0\nℹ pass 3\nℹ fail 0\nℹ cancelled 0\nℹ skipped 0\nℹ todo 0\nℹ duration_ms 98.89225\n\n> pearl-pocket-golf@0.1.0 build\n> vite build\n\nvite v7.3.7 building client environment for production...\ntransforming...\n✓ 26 modules transformed.\nrendering chunks...\ncomputing gzip size...\ndist/index.html                                3.67 kB │ gzip:   1.56 kB\ndist/assets/Silkscreen-Regular-W9-u5Upq.ttf   32.22 kB\ndist/assets/index-KJK6GdQz.css                12.46 kB │ gzip:   3.54 kB\ndist/assets/index-DvcvjFF4.js                498.57 kB │ gzip: 129.75 kB\n✓ built in 1.94s\n"
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "slug": "anvil-after-hours",
+      "chunk_id": "c74fd6",
+      "wall_time_seconds": 2.763252958,
+      "exit_code": 0,
+      "original_token_count": 233,
+      "output": "\n> anvil-after-hours@0.1.0 test\n> node --test tests/*.test.mjs\n\n✔ an Anvil hits only the matching lane and actual shadow footprint (1.543458ms)\n✔ friendly hits have a real cost and group hits have a distinct combo reward (0.107459ms)\n✔ the spawn queue includes safe Villagers, later armor and bounded speed (0.136375ms)\nℹ tests 3\nℹ suites 0\nℹ pass 3\nℹ fail 0\nℹ cancelled 0\nℹ skipped 0\nℹ todo 0\nℹ duration_ms 80.133333\n\n> anvil-after-hours@0.1.0 build\n> vite build\n\nvite v7.3.7 building client environment for production...\ntransforming...\n✓ 26 modules transformed.\nrendering chunks...\ncomputing gzip size...\ndist/index.html                                3.68 kB │ gzip:   1.56 kB\ndist/assets/Silkscreen-Regular-W9-u5Upq.ttf   32.22 kB\ndist/assets/index-KJK6GdQz.css                12.46 kB │ gzip:   3.54 kB\ndist/assets/index-BYjwOXlE.js                498.18 kB │ gzip: 129.80 kB\n✓ built in 1.87s\n"
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "slug": "last-second-bucket",
+      "chunk_id": "bb309b",
+      "wall_time_seconds": 2.700932167,
+      "exit_code": 0,
+      "original_token_count": 228,
+      "output": "\n> last-second-bucket@0.1.0 test\n> node --test tests/*.test.mjs\n\n✔ placing Water requires both ground reach and alignment (0.411917ms)\n✔ Water stays where it was placed and cannot protect a different landing (0.1855ms)\n✔ centered landings and a sustained streak have visible score value (0.091166ms)\nℹ tests 3\nℹ suites 0\nℹ pass 3\nℹ fail 0\nℹ cancelled 0\nℹ skipped 0\nℹ todo 0\nℹ duration_ms 96.825833\n\n> last-second-bucket@0.1.0 build\n> vite build\n\nvite v7.3.7 building client environment for production...\ntransforming...\n✓ 26 modules transformed.\nrendering chunks...\ncomputing gzip size...\ndist/index.html                                3.66 kB │ gzip:   1.54 kB\ndist/assets/Silkscreen-Regular-W9-u5Upq.ttf   32.22 kB\ndist/assets/index-KJK6GdQz.css                12.46 kB │ gzip:   3.54 kB\ndist/assets/index-Dcqw87dR.js                494.97 kB │ gzip: 128.19 kB\n✓ built in 1.91s\n"
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "slug": "slime-split-mine",
+      "chunk_id": "33bc18",
+      "wall_time_seconds": 2.693340167,
+      "exit_code": 0,
+      "original_token_count": 236,
+      "output": "\n> slime-split-mine@0.1.0 test\n> node --test tests/*.test.mjs\n\n✔ split children fan to opposite sides and preserve projectile speed (0.394834ms)\n✔ collision normals resolve the actual hit side rather than reflecting arbitrarily (0.524625ms)\n✔ mine rows include thick Ore, Diamonds and gaps so aim and splitting both matter (0.448ms)\nℹ tests 3\nℹ suites 0\nℹ pass 3\nℹ fail 0\nℹ cancelled 0\nℹ skipped 0\nℹ todo 0\nℹ duration_ms 98.850791\n\n> slime-split-mine@0.1.0 build\n> vite build\n\nvite v7.3.7 building client environment for production...\ntransforming...\n✓ 26 modules transformed.\nrendering chunks...\ncomputing gzip size...\ndist/index.html                                3.68 kB │ gzip:   1.53 kB\ndist/assets/Silkscreen-Regular-W9-u5Upq.ttf   32.22 kB\ndist/assets/index-KJK6GdQz.css                12.46 kB │ gzip:   3.54 kB\ndist/assets/index-C8VoMvfK.js                501.56 kB │ gzip: 130.95 kB\n✓ built in 1.87s\n"
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "slug": "ice-boat-express",
+      "chunk_id": "89a5b2",
+      "wall_time_seconds": 2.862722416,
+      "exit_code": 0,
+      "original_token_count": 223,
+      "output": "\n> ice-boat-express@0.1.0 test\n> node --test tests/*.test.mjs\n\n✔ ice preserves momentum but countersteering changes its direction (1.185ms)\n✔ flag scoring uses the real opening between the poles (0.193916ms)\n✔ the track is continuous and changes ahead of the driver (1.518417ms)\nℹ tests 3\nℹ suites 0\nℹ pass 3\nℹ fail 0\nℹ cancelled 0\nℹ skipped 0\nℹ todo 0\nℹ duration_ms 76.124167\n\n> ice-boat-express@0.1.0 build\n> vite build\n\nvite v7.3.7 building client environment for production...\ntransforming...\n✓ 26 modules transformed.\nrendering chunks...\ncomputing gzip size...\ndist/index.html                                3.67 kB │ gzip:   1.55 kB\ndist/assets/Silkscreen-Regular-W9-u5Upq.ttf   32.22 kB\ndist/assets/index-KJK6GdQz.css                12.46 kB │ gzip:   3.54 kB\ndist/assets/index-aSvQAv2B.js                495.52 kB │ gzip: 128.74 kB\n✓ built in 1.97s\n"
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "slug": "tnt-floor-frenzy",
+      "chunk_id": "39de93",
+      "wall_time_seconds": 2.729078208,
+      "exit_code": 0,
+      "original_token_count": 231,
+      "output": "\n> tnt-floor-frenzy@0.1.0 test\n> node --test tests/*.test.mjs\n\n✔ tile lookup rejects the arena edge rather than creating an invisible floor (0.692709ms)\n✔ only stepped tiles collapse and the warning delay is honored (0.062917ms)\n✔ rivals prefer a fresh adjacent tile and never target missing floor (0.124167ms)\nℹ tests 3\nℹ suites 0\nℹ pass 3\nℹ fail 0\nℹ cancelled 0\nℹ skipped 0\nℹ todo 0\nℹ duration_ms 116.363166\n\n> tnt-floor-frenzy@0.1.0 build\n> vite build\n\nvite v7.3.7 building client environment for production...\ntransforming...\n✓ 26 modules transformed.\nrendering chunks...\ncomputing gzip size...\ndist/index.html                                3.65 kB │ gzip:   1.54 kB\ndist/assets/Silkscreen-Regular-W9-u5Upq.ttf   32.22 kB\ndist/assets/index-KJK6GdQz.css                12.46 kB │ gzip:   3.54 kB\ndist/assets/index-B-f4hwFa.js                496.46 kB │ gzip: 128.94 kB\n✓ built in 1.94s\n"
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "slug": "piston-pause-run",
+      "chunk_id": "10c1df",
+      "wall_time_seconds": 2.8276244999999998,
+      "exit_code": 0,
+      "original_token_count": 235,
+      "output": "\n> piston-pause-run@0.1.0 test\n> node --test tests/*.test.mjs\n\n✔ a readable amber warning precedes the physically dangerous extension (1.352458ms)\n✔ an open gap is safe and a closed gap hurts only inside its real depth (0.14225ms)\n✔ each gate offers a long safe interval rather than requiring a frame-perfect dash (1.405916ms)\nℹ tests 3\nℹ suites 0\nℹ pass 3\nℹ fail 0\nℹ cancelled 0\nℹ skipped 0\nℹ todo 0\nℹ duration_ms 78.866417\n\n> piston-pause-run@0.1.0 build\n> vite build\n\nvite v7.3.7 building client environment for production...\ntransforming...\n✓ 26 modules transformed.\nrendering chunks...\ncomputing gzip size...\ndist/index.html                                3.64 kB │ gzip:   1.54 kB\ndist/assets/Silkscreen-Regular-W9-u5Upq.ttf   32.22 kB\ndist/assets/index-KJK6GdQz.css                12.46 kB │ gzip:   3.54 kB\ndist/assets/index-IcC-VBh_.js                494.40 kB │ gzip: 128.26 kB\n✓ built in 1.95s\n"
+    }
+  },
+  {
+    "status": "fulfilled",
+    "value": {
+      "slug": "elytra-ring-post",
+      "chunk_id": "b1d1e8",
+      "wall_time_seconds": 2.839151959,
+      "exit_code": 0,
+      "original_token_count": 225,
+      "output": "\n> elytra-ring-post@0.1.0 test\n> node --test tests/*.test.mjs\n\n✔ passing a ring uses horizontal and vertical distance (0.652083ms)\n✔ the authored flight corridor stays inside reachable steering bounds (1.438167ms)\n✔ linked rings improve score without unbounded combo values (0.275375ms)\nℹ tests 3\nℹ suites 0\nℹ pass 3\nℹ fail 0\nℹ cancelled 0\nℹ skipped 0\nℹ todo 0\nℹ duration_ms 80.399833\n\n> elytra-ring-post@0.1.0 build\n> vite build\n\nvite v7.3.7 building client environment for production...\ntransforming...\n✓ 26 modules transformed.\nrendering chunks...\ncomputing gzip size...\ndist/index.html                                3.68 kB │ gzip:   1.54 kB\ndist/assets/Silkscreen-Regular-W9-u5Upq.ttf   32.22 kB\ndist/assets/index-KJK6GdQz.css                12.46 kB │ gzip:   3.54 kB\ndist/assets/index-7LlqyeAU.js                497.08 kB │ gzip: 128.93 kB\n✓ built in 1.95s\n"
+    }
+  }
+]

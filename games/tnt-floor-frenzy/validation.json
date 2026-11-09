@@ -1,0 +1,55 @@
+{
+  "game": "TNT Floor Frenzy",
+  "case": 18,
+  "version": "0.1.0",
+  "date": "2026-11-10",
+  "independent_project": true,
+  "automated": {
+    "rule_tests_passed": 3,
+    "rule_tests_failed": 0,
+    "production_build": "pass"
+  },
+  "browser": {
+    "phone_viewport": [
+      390,
+      844
+    ],
+    "desktop_viewport": [
+      1280,
+      800
+    ],
+    "phone_flow": {
+      "slug": "tnt-floor-frenzy",
+      "startPhase": "play",
+      "endTitle": "A trail worth remembering.",
+      "endTag": "RUN RECORDED",
+      "retryPhase": "play",
+      "retryScore": "5",
+      "helpPaused": "true",
+      "errors": []
+    },
+    "desktop": {
+      "slug": "tnt-floor-frenzy",
+      "phase": "play",
+      "score": "10",
+      "layout": {
+        "height": 800,
+        "scrollWidth": 1280,
+        "width": 1280
+      },
+      "errors": []
+    },
+    "specific_observations": [
+      "Actual walking, Space jump and falling tiles were observed.",
+      "A real drop to the second floor kept the complete character visible."
+    ],
+    "physical_device_tested": false
+  },
+  "remaining_limits": [
+    "Long survival landmarks have not been manually completed.",
+    "Final art quality and enjoyment require user review.",
+    "Import into Loopit was not performed or verified in this delivery."
+  ],
+  "runtime_asset_fetching": false,
+  "proof_image": "000-reference.png"
+}

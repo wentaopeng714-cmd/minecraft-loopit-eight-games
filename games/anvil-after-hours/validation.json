@@ -1,0 +1,55 @@
+{
+  "game": "Anvil After Hours",
+  "case": 14,
+  "version": "0.1.0",
+  "date": "2026-11-10",
+  "independent_project": true,
+  "automated": {
+    "rule_tests_passed": 3,
+    "rule_tests_failed": 0,
+    "production_build": "pass"
+  },
+  "browser": {
+    "phone_viewport": [
+      390,
+      844
+    ],
+    "desktop_viewport": [
+      1280,
+      800
+    ],
+    "phone_flow": {
+      "slug": "anvil-after-hours",
+      "startPhase": "play",
+      "endTitle": "A village still standing.",
+      "endTag": "RUN RECORDED",
+      "retryPhase": "play",
+      "retryScore": "0",
+      "helpPaused": "true",
+      "errors": []
+    },
+    "desktop": {
+      "slug": "anvil-after-hours",
+      "phase": "play",
+      "score": "0",
+      "layout": {
+        "height": 800,
+        "scrollWidth": 1280,
+        "width": 1280
+      },
+      "errors": []
+    },
+    "specific_observations": [
+      "Actual Anvil hit defeated a Zombie for 100 with five gate hearts remaining.",
+      "Actual shadow lane telemetry matched the highlighted control."
+    ],
+    "physical_device_tested": false
+  },
+  "remaining_limits": [
+    "High waves and armored combinations were rule-tested but not played through to an extended record.",
+    "Final art quality and enjoyment require user review.",
+    "Import into Loopit was not performed or verified in this delivery."
+  ],
+  "runtime_asset_fetching": false,
+  "proof_image": "000-reference.png"
+}

@@ -1,0 +1,112 @@
+[
+  {
+    "slug": "wolf-trail-home",
+    "phase": "play",
+    "score": "0",
+    "layout": {
+      "height": 800,
+      "scrollWidth": 1280,
+      "width": 1280
+    },
+    "errors": []
+  },
+  {
+    "slug": "piston-pocket-lab",
+    "phase": "play",
+    "score": "0",
+    "layout": {
+      "height": 800,
+      "scrollWidth": 1280,
+      "width": 1280
+    },
+    "errors": []
+  },
+  {
+    "slug": "pearl-pocket-golf",
+    "phase": "play",
+    "score": "0",
+    "layout": {
+      "height": 800,
+      "scrollWidth": 1280,
+      "width": 1280
+    },
+    "errors": []
+  },
+  {
+    "slug": "anvil-after-hours",
+    "phase": "play",
+    "score": "0",
+    "layout": {
+      "height": 800,
+      "scrollWidth": 1280,
+      "width": 1280
+    },
+    "errors": []
+  },
+  {
+    "slug": "last-second-bucket",
+    "phase": "play",
+    "score": "0",
+    "layout": {
+      "height": 800,
+      "scrollWidth": 1280,
+      "width": 1280
+    },
+    "errors": []
+  },
+  {
+    "slug": "slime-split-mine",
+    "phase": "play",
+    "score": "0",
+    "layout": {
+      "height": 800,
+      "scrollWidth": 1280,
+      "width": 1280
+    },
+    "errors": []
+  },
+  {
+    "slug": "ice-boat-express",
+    "phase": "play",
+    "score": "0",
+    "layout": {
+      "height": 800,
+      "scrollWidth": 1280,
+      "width": 1280
+    },
+    "errors": []
+  },
+  {
+    "slug": "tnt-floor-frenzy",
+    "phase": "play",
+    "score": "10",
+    "layout": {
+      "height": 800,
+      "scrollWidth": 1280,
+      "width": 1280
+    },
+    "errors": []
+  },
+  {
+    "slug": "piston-pause-run",
+    "phase": "play",
+    "score": "0",
+    "layout": {
+      "height": 800,
+      "scrollWidth": 1280,
+      "width": 1280
+    },
+    "errors": []
+  },
+  {
+    "slug": "elytra-ring-post",
+    "phase": "play",
+    "score": "0",
+    "layout": {
+      "height": 800,
+      "scrollWidth": 1280,
+      "width": 1280
+    },
+    "errors": []
+  }
+]

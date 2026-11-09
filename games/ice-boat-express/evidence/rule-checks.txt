@@ -1,0 +1,29 @@
+
+> ice-boat-express@0.1.0 test
+> node --test tests/*.test.mjs
+
+✔ ice preserves momentum but countersteering changes its direction (1.185ms)
+✔ flag scoring uses the real opening between the poles (0.193916ms)
+✔ the track is continuous and changes ahead of the driver (1.518417ms)
+ℹ tests 3
+ℹ suites 0
+ℹ pass 3
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 76.124167
+
+> ice-boat-express@0.1.0 build
+> vite build
+
+vite v7.3.7 building client environment for production...
+transforming...
+✓ 26 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                                3.67 kB │ gzip:   1.55 kB
+dist/assets/Silkscreen-Regular-W9-u5Upq.ttf   32.22 kB
+dist/assets/index-KJK6GdQz.css                12.46 kB │ gzip:   3.54 kB
+dist/assets/index-aSvQAv2B.js                495.52 kB │ gzip: 128.74 kB
+✓ built in 1.97s

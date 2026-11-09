@@ -1,4 +1,4 @@
-# Ten independent Minecraft browser games
+# Twenty independent Minecraft browser games
 
 Complete standalone projects for further polishing and Loopit handoff. Each has its own controls, scene, goal and replay flow.
 
@@ -39,3 +39,21 @@ Two additional independent complete ZIPs: My Track, My Ride gameplay version 1.2
 ## Art and dependencies
 
 Minecraft artwork and character identities belong to Mojang/Microsoft. This is an unofficial fan project, not an official Minecraft product. Asset URLs and provenance are listed per game in `public/assets/sources.json`; third-party code notices are in `public/THIRD_PARTY_NOTICES.txt`. Library licenses do not relicense the artwork. No blanket license is granted for third-party assets.
+
+
+## Cases 11–20 · release 0.4.0
+
+Ten more independent games, each with a playable build, full source, bundled matching art, a real PNG reference and handoff prompt. These have been browser-tested at desktop and phone sizes, with 30 focused rules tests and ten production builds passing. No physical-device or Loopit-import approval is claimed. Each validation.json states specific observations and limits. Existing 1–10 links remain unchanged.
+
+| Case | Game | Complete ZIP |
+| --- | --- | --- |
+| 11 | Wolf Trail Home | [Download](https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.0/11-wolf-trail-home.zip) |
+| 12 | Piston Pocket Lab | [Download](https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.0/12-piston-pocket-lab.zip) |
+| 13 | Pearl Pocket Golf | [Download](https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.0/13-pearl-pocket-golf.zip) |
+| 14 | Anvil After Hours | [Download](https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.0/14-anvil-after-hours.zip) |
+| 15 | Last Second Bucket | [Download](https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.0/15-last-second-bucket.zip) |
+| 16 | Slime Split Mine | [Download](https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.0/16-slime-split-mine.zip) |
+| 17 | Ice Boat Express | [Download](https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.0/17-ice-boat-express.zip) |
+| 18 | TNT Floor Frenzy | [Download](https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.0/18-tnt-floor-frenzy.zip) |
+| 19 | Piston Pause Run | [Download](https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.0/19-piston-pause-run.zip) |
+| 20 | Elytra Ring Post | [Download](https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.0/20-elytra-ring-post.zip) |

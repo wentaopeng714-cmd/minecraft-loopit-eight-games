@@ -1,0 +1,16 @@
+Project 13: Pearl Pocket Golf / 末影珍珠高尔夫
+
+Maintain the existing independent, playable 3D browser game in this ZIP; use src/main.js and src/rules.mjs as the working implementation, not a new genre. dist/ is the offline build, public/assets contains the actual matching textures/model data, and 000-reference.png is a real gameplay screenshot of this exact project, supplied as an art/camera/UI reference. It is a single image, not a sprite sheet or a platform asset ID. Do not invent an image reference ID or request an unrelated image. If a platform image selector cannot resolve it, continue from the included working code and files rather than stopping recreation.
+
+Keep coherent Minecraft pixel textures, hard voxel silhouettes, stable daylight or scene-specific lighting, soft contact shadows, readable character identity, matching props and unclipped mobile framing. Preserve visible anticipation/action/contact/follow-through/recovery, natural locomotion transitions, stable prop grips, facial intent and separate success/failure/hurt feedback. Mobile controls must work by touch with clear hierarchy; desktop alternatives also work. Guidance is a compact English cue at the first action, not a long tutorial. Keep clear score, next target, progress and actual result feedback, plus Start, Play, Result, Retry and Continue where applicable. Store best records locally. Sound is synthesized in this version; keep cues distinct and tied to contact. Do not replace 3D gameplay with flat image stickers, or call an early END a completed delivery. Improve art and feel without removing the decisions or padding the session with waiting. Observe QUALITY_REQUIREMENTS.md; supplied reference art and browser observations do not claim final user approval or physical phone testing.
+
+GAMEPLAY AND CONTINUING GOAL
+Drag the landing marker and release to throw an Ender Pearl; green is a platform and red is the void. Reach is 5.4 units. The first aim teaches one safe landing; later aims require the player to choose. Teleport only after the Pearl lands. Four misses lose the trip. Reach the purple flag with fewer throws; optional islands offer Diamonds worth 125. Repeating the authored course lets the player improve the route and collect more Diamonds.
+
+CAMERA AND ART
+Floating End Stone islands above a purple void, dark Obsidian undersides and columns, purple finish flag and a Villager. Oblique overhead framing keeps all useful landings readable; a visible curved flight preview and full landing footprint communicate reach and safety.
+
+ACTING AND FEEDBACK
+Steve winds up, releases after the throwing pose, follows through and recovers. The held Pearl disappears only when the projectile launches, then returns after landing. Purple particles mark actual teleport and failure. Arrival gets a visible celebration.
+
+Implementation is already playable. Preserve the independent source/build and use these files directly. Please verify touch controls, clear scoring and actual goal completion after any polishing.

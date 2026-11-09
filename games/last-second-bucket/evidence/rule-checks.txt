@@ -1,0 +1,29 @@
+
+> last-second-bucket@0.1.0 test
+> node --test tests/*.test.mjs
+
+✔ placing Water requires both ground reach and alignment (0.411917ms)
+✔ Water stays where it was placed and cannot protect a different landing (0.1855ms)
+✔ centered landings and a sustained streak have visible score value (0.091166ms)
+ℹ tests 3
+ℹ suites 0
+ℹ pass 3
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 96.825833
+
+> last-second-bucket@0.1.0 build
+> vite build
+
+vite v7.3.7 building client environment for production...
+transforming...
+✓ 26 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                                3.66 kB │ gzip:   1.54 kB
+dist/assets/Silkscreen-Regular-W9-u5Upq.ttf   32.22 kB
+dist/assets/index-KJK6GdQz.css                12.46 kB │ gzip:   3.54 kB
+dist/assets/index-Dcqw87dR.js                494.97 kB │ gzip: 128.19 kB
+✓ built in 1.91s

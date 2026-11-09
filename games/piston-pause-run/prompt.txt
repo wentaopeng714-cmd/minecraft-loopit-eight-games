@@ -1,0 +1,16 @@
+Project 19: Piston Pause Run / 活塞夹缝冲刺
+
+Maintain the existing independent, playable 3D browser game in this ZIP; use src/main.js and src/rules.mjs as the working implementation, not a new genre. dist/ is the offline build, public/assets contains the actual matching textures/model data, and 000-reference.png is a real gameplay screenshot of this exact project, supplied as an art/camera/UI reference. It is a single image, not a sprite sheet or a platform asset ID. Do not invent an image reference ID or request an unrelated image. If a platform image selector cannot resolve it, continue from the included working code and files rather than stopping recreation.
+
+Keep coherent Minecraft pixel textures, hard voxel silhouettes, stable daylight or scene-specific lighting, soft contact shadows, readable character identity, matching props and unclipped mobile framing. Preserve visible anticipation/action/contact/follow-through/recovery, natural locomotion transitions, stable prop grips, facial intent and separate success/failure/hurt feedback. Mobile controls must work by touch with clear hierarchy; desktop alternatives also work. Guidance is a compact English cue at the first action, not a long tutorial. Keep clear score, next target, progress and actual result feedback, plus Start, Play, Result, Retry and Continue where applicable. Store best records locally. Sound is synthesized in this version; keep cues distinct and tied to contact. Do not replace 3D gameplay with flat image stickers, or call an early END a completed delivery. Improve art and feel without removing the decisions or padding the session with waiting. Observe QUALITY_REQUIREMENTS.md; supplied reference art and browser observations do not claim final user approval or physical phone testing.
+
+GAMEPLAY AND CONTINUING GOAL
+Hold RUN or Space to advance, release to stop immediately. Twelve paired Pistons have real matching visible and collision motion. Wait on gold strips, leave on green, amber warns before closing. Each passed gate is 100. Every third gate is a checkpoint. A hit costs a heart and immediately restores that checkpoint. Clear all twelve to earn the arrival bonus; next course offsets timing. END early records only passed gates.
+
+CAMERA AND ART
+Side-rear third-person follow camera, textured stone corridor, moving full Piston heads, green/amber lamps, gold safety strips and the next few obstacles visible. Timber supports, trees and an exit village give the corridor a destination. Closed heads visibly narrow the actual gap.
+
+ACTING AND FEEDBACK
+Blend run/stop naturally, express focus before crossing, show clear squeeze/hurt and recovery at checkpoint. Piston anticipation and extension must agree with the lamp and collision window. Gate scores stay compact and out of the face.
+
+Implementation is already playable. Preserve the independent source/build and use these files directly. Please verify touch controls, clear scoring and actual goal completion after any polishing.

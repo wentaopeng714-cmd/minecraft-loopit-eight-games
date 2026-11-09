@@ -1,0 +1,29 @@
+
+> wolf-trail-home@0.1.0 test
+> node --test tests/*.test.mjs
+
+✔ a drawn shortcut routes around water rather than jumping across it (0.719458ms)
+✔ an enclosed destination has no false walkable route (2.629333ms)
+✔ more rescues outweigh a modest detour while scares reduce the delivery reward (0.177166ms)
+ℹ tests 3
+ℹ suites 0
+ℹ pass 3
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 78.346375
+
+> wolf-trail-home@0.1.0 build
+> vite build
+
+vite v7.3.7 building client environment for production...
+transforming...
+✓ 26 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                                3.61 kB │ gzip:   1.52 kB
+dist/assets/Silkscreen-Regular-W9-u5Upq.ttf   32.22 kB
+dist/assets/index-KJK6GdQz.css                12.46 kB │ gzip:   3.54 kB
+dist/assets/index-BH9d8JkC.js                501.80 kB │ gzip: 131.08 kB
+✓ built in 1.85s

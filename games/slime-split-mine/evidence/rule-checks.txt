@@ -1,0 +1,29 @@
+
+> slime-split-mine@0.1.0 test
+> node --test tests/*.test.mjs
+
+✔ split children fan to opposite sides and preserve projectile speed (0.394834ms)
+✔ collision normals resolve the actual hit side rather than reflecting arbitrarily (0.524625ms)
+✔ mine rows include thick Ore, Diamonds and gaps so aim and splitting both matter (0.448ms)
+ℹ tests 3
+ℹ suites 0
+ℹ pass 3
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 98.850791
+
+> slime-split-mine@0.1.0 build
+> vite build
+
+vite v7.3.7 building client environment for production...
+transforming...
+✓ 26 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                                3.68 kB │ gzip:   1.53 kB
+dist/assets/Silkscreen-Regular-W9-u5Upq.ttf   32.22 kB
+dist/assets/index-KJK6GdQz.css                12.46 kB │ gzip:   3.54 kB
+dist/assets/index-C8VoMvfK.js                501.56 kB │ gzip: 130.95 kB
+✓ built in 1.87s

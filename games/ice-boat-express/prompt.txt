@@ -1,0 +1,16 @@
+Project 17: Ice Boat Express / 冰船漂移快递
+
+Maintain the existing independent, playable 3D browser game in this ZIP; use src/main.js and src/rules.mjs as the working implementation, not a new genre. dist/ is the offline build, public/assets contains the actual matching textures/model data, and 000-reference.png is a real gameplay screenshot of this exact project, supplied as an art/camera/UI reference. It is a single image, not a sprite sheet or a platform asset ID. Do not invent an image reference ID or request an unrelated image. If a platform image selector cannot resolve it, continue from the included working code and files rather than stopping recreation.
+
+Keep coherent Minecraft pixel textures, hard voxel silhouettes, stable daylight or scene-specific lighting, soft contact shadows, readable character identity, matching props and unclipped mobile framing. Preserve visible anticipation/action/contact/follow-through/recovery, natural locomotion transitions, stable prop grips, facial intent and separate success/failure/hurt feedback. Mobile controls must work by touch with clear hierarchy; desktop alternatives also work. Guidance is a compact English cue at the first action, not a long tutorial. Keep clear score, next target, progress and actual result feedback, plus Start, Play, Result, Retry and Continue where applicable. Store best records locally. Sound is synthesized in this version; keep cues distinct and tied to contact. Do not replace 3D gameplay with flat image stickers, or call an early END a completed delivery. Improve art and feel without removing the decisions or padding the session with waiting. Observe QUALITY_REQUIREMENTS.md; supplied reference art and browser observations do not claim final user approval or physical phone testing.
+
+GAMEPLAY AND CONTINUING GOAL
+The Boat moves forward automatically. Drag sideways or A/D to steer, anticipating ice momentum; hold BRAKE to settle a bend. Pass between flags for 75 plus combo up to 150. Banks and rocks lose one of five cargo. Reach the actual village at 330m to earn delivery 500, 100 per cargo and time bonus. Ending early gives no arrival reward. The next delivery increases speed on the same authored track.
+
+CAMERA AND ART
+Third-person perspective chase camera behind the entire Boat, forward-looking bends, blue ice, snow banks, fir trees, rocks, flag gates and an actual Snowbell village endpoint. Boat hull, oars, seated Steve and crate cargo form one coherent object. Keep the whole boat and both sides of the next gate inside phone framing.
+
+ACTING AND FEEDBACK
+Seated Steve faces forward and leans with sideways drift; legs remain seated and hands anchored. Oars cycle, collision jolts and drops cargo, host reacts at arrival. Use compact screen notices for gate scores, never enormous world text flying into the chase camera.
+
+Implementation is already playable. Preserve the independent source/build and use these files directly. Please verify touch controls, clear scoring and actual goal completion after any polishing.

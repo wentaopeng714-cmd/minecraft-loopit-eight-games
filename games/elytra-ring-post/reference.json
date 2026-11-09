@@ -1,0 +1,9 @@
+{
+  "kind": "human-readable handoff note; not an official Loopit schema",
+  "image": "000-reference.png",
+  "purpose": "actual gameplay camera, art and UI reference",
+  "source": "screenshots/elytra-ring-post-mobile-start.jpg",
+  "platform_asset_id": null,
+  "runtime_assets": "public/assets",
+  "playable_build": "dist/index.html"
+}

@@ -1,0 +1,8 @@
+15. Last Second Bucket
+
+1. Upload this entire ZIP as one project, without mixing it with other game ZIPs.
+2. Paste prompt.txt into the project conversation.
+3. 000-reference.png is an actual standalone PNG screenshot of this project; it is only the visual/camera reference, not a platform asset identifier.
+4. Build from the included src/, public/ and package files; dist/ is already playable. No external asset fetching is needed at runtime.
+5. If the image chooser reports an invalid reference, select the uploaded 000-reference.png explicitly if available, or proceed using the included source and assets. Loopit import of this new ZIP has not been tested in this delivery.
+6. Extract and run python3 play.py to play immediately. For editing: npm ci, npm run dev.

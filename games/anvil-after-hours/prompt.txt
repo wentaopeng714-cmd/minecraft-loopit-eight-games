@@ -1,0 +1,16 @@
+Project 14: Anvil After Hours / 铁砧砸怪流水线
+
+Maintain the existing independent, playable 3D browser game in this ZIP; use src/main.js and src/rules.mjs as the working implementation, not a new genre. dist/ is the offline build, public/assets contains the actual matching textures/model data, and 000-reference.png is a real gameplay screenshot of this exact project, supplied as an art/camera/UI reference. It is a single image, not a sprite sheet or a platform asset ID. Do not invent an image reference ID or request an unrelated image. If a platform image selector cannot resolve it, continue from the included working code and files rather than stopping recreation.
+
+Keep coherent Minecraft pixel textures, hard voxel silhouettes, stable daylight or scene-specific lighting, soft contact shadows, readable character identity, matching props and unclipped mobile framing. Preserve visible anticipation/action/contact/follow-through/recovery, natural locomotion transitions, stable prop grips, facial intent and separate success/failure/hurt feedback. Mobile controls must work by touch with clear hierarchy; desktop alternatives also work. Guidance is a compact English cue at the first action, not a long tutorial. Keep clear score, next target, progress and actual result feedback, plus Start, Play, Result, Retry and Continue where applicable. Store best records locally. Sound is synthesized in this version; keep cues distinct and tied to contact. Do not replace 3D gameplay with flat image stickers, or call an early END a completed delivery. Improve art and feel without removing the decisions or padding the session with waiting. Observe QUALITY_REQUIREMENTS.md; supplied reference art and browser observations do not claim final user approval or physical phone testing.
+
+GAMEPLAY AND CONTINUING GOAL
+Tap lane 1,2,3 to drop its Anvil after a short fall delay. Strike Zombies inside the actual ground shadow. Grouping two enemies yields a combo, while armored Zombies require two hits. Let blue-tagged friendly Villagers pass. Five escaped enemies or friendly hits break the gate. Earn 100 per kill plus combo rewards; friendly hits lose points. The endless shift introduces faster and armored combinations.
+
+CAMERA AND ART
+Three readable frontal lanes in a village workshop, textured anvils and Zombies, friendly Villagers, a five-heart gate HUD, three large lane buttons. A transparent thin overhead beam preserves faces; gold ground shadows show where contact happens.
+
+ACTING AND FEEDBACK
+Anvils fall with weight and rebound, Zombies have distinct hurt/stun and defeat feedback, friendly mistakes use a different warning, Steve and the host react. Use a metallic impact sound, dust and restrained hit pause.
+
+Implementation is already playable. Preserve the independent source/build and use these files directly. Please verify touch controls, clear scoring and actual goal completion after any polishing.

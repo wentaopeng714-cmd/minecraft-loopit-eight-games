@@ -92,5 +92,115 @@
     "bytes": 438714,
     "sha256": "f64db811443522ed123b24b25818c73ef7134c1cc44745a5c162c395ba7745dd",
     "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.3.0/10-golem-village-watch.zip"
+  },
+  {
+    "number": 11,
+    "slug": "wolf-trail-home",
+    "title": "Wolf Trail Home",
+    "cn": "小狼跟我走",
+    "file": "11-wolf-trail-home.zip",
+    "game_version": "0.1.0",
+    "bytes": 749269,
+    "sha256": "77782cbf1ccf933f2f041e80267fc385aa50baa1c82521ade37e5ac8f43b2656",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.0/11-wolf-trail-home.zip"
+  },
+  {
+    "number": 12,
+    "slug": "piston-pocket-lab",
+    "title": "Piston Pocket Lab",
+    "cn": "活塞推箱实验室",
+    "file": "12-piston-pocket-lab.zip",
+    "game_version": "0.1.0",
+    "bytes": 611220,
+    "sha256": "7106ffac816f543b9f2318502533e8e37fcda51b52bd265db11ff476332cb422",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.0/12-piston-pocket-lab.zip"
+  },
+  {
+    "number": 13,
+    "slug": "pearl-pocket-golf",
+    "title": "Pearl Pocket Golf",
+    "cn": "末影珍珠高尔夫",
+    "file": "13-pearl-pocket-golf.zip",
+    "game_version": "0.1.0",
+    "bytes": 470967,
+    "sha256": "921dd75630de30d278536d5a722a1685b8569b18fb74d436abedb639ec311c6c",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.0/13-pearl-pocket-golf.zip"
+  },
+  {
+    "number": 14,
+    "slug": "anvil-after-hours",
+    "title": "Anvil After Hours",
+    "cn": "铁砧砸怪流水线",
+    "file": "14-anvil-after-hours.zip",
+    "game_version": "0.1.0",
+    "bytes": 578949,
+    "sha256": "e35510221b768792528f16f1a9973aafcbbfcaabe494d272f9d5ab9a89adc4a1",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.0/14-anvil-after-hours.zip"
+  },
+  {
+    "number": 15,
+    "slug": "last-second-bucket",
+    "title": "Last Second Bucket",
+    "cn": "落地水桶救命",
+    "file": "15-last-second-bucket.zip",
+    "game_version": "0.1.0",
+    "bytes": 860606,
+    "sha256": "fd02b9ca321099c23081a3832f04cd2cacb5028ff236575c6b089395465c9a08",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.0/15-last-second-bucket.zip"
+  },
+  {
+    "number": 16,
+    "slug": "slime-split-mine",
+    "title": "Slime Split Mine",
+    "cn": "史莱姆分裂矿场",
+    "file": "16-slime-split-mine.zip",
+    "game_version": "0.1.0",
+    "bytes": 537448,
+    "sha256": "50c4f76e7d2375e91e658b2d8379459190b3ec32387c7bf3a90d2db3ffe3a282",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.0/16-slime-split-mine.zip"
+  },
+  {
+    "number": 17,
+    "slug": "ice-boat-express",
+    "title": "Ice Boat Express",
+    "cn": "冰船漂移快递",
+    "file": "17-ice-boat-express.zip",
+    "game_version": "0.1.0",
+    "bytes": 603654,
+    "sha256": "b3ef122353742d7cca3497a3289ad3b6de0e151217552b5f2d5057f9eaa03bb5",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.0/17-ice-boat-express.zip"
+  },
+  {
+    "number": 18,
+    "slug": "tnt-floor-frenzy",
+    "title": "TNT Floor Frenzy",
+    "cn": "TNT地板别停下",
+    "file": "18-tnt-floor-frenzy.zip",
+    "game_version": "0.1.0",
+    "bytes": 685596,
+    "sha256": "578d431f7a6d8928270f531f8125b2e30abc24aec6f4b798737b8d37e2c6c57b",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.0/18-tnt-floor-frenzy.zip"
+  },
+  {
+    "number": 19,
+    "slug": "piston-pause-run",
+    "title": "Piston Pause Run",
+    "cn": "活塞夹缝冲刺",
+    "file": "19-piston-pause-run.zip",
+    "game_version": "0.1.0",
+    "bytes": 704878,
+    "sha256": "0f6a053301277734537ef2b8a05682c9069e1f53b901c1e27f82c613c364b89d",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.0/19-piston-pause-run.zip"
+  },
+  {
+    "number": 20,
+    "slug": "elytra-ring-post",
+    "title": "Elytra Ring Post",
+    "cn": "鞘翅穿环快递",
+    "file": "20-elytra-ring-post.zip",
+    "game_version": "0.1.0",
+    "bytes": 447205,
+    "sha256": "5f2b015b3e3e3e06a1d5651a93969b5c48ce2c8480edf44702e4ba0edaad3ca4",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.0/20-elytra-ring-post.zip"
   }
 ]

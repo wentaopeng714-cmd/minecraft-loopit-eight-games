@@ -1,0 +1,74 @@
+{
+  "checkpoints": [
+    {
+      "cargo": "5",
+      "center": "2.86",
+      "combo": "1",
+      "distance": "31",
+      "nextGate": "{\"d\":56,\"x\":0.8919154344812555}",
+      "passed": "1",
+      "phase": "play",
+      "score": "90",
+      "sidewaysSpeed": "-0.55",
+      "speed": "4.16",
+      "x": "2.73"
+    },
+    {
+      "cargo": "4",
+      "center": "0.41",
+      "combo": "3",
+      "distance": "119",
+      "nextGate": "{\"d\":140,\"x\":1.208203921465669}",
+      "passed": "4",
+      "paused": "false",
+      "phase": "play",
+      "score": "405",
+      "sidewaysSpeed": "-0.36",
+      "speed": "4.76",
+      "x": "0.4"
+    },
+    {
+      "cargo": "4",
+      "center": "-3.29",
+      "combo": "6",
+      "distance": "207",
+      "nextGate": "{\"d\":224,\"x\":-2.305461393194965}",
+      "passed": "7",
+      "paused": "false",
+      "phase": "play",
+      "score": "840",
+      "sidewaysSpeed": "-0.02",
+      "speed": "5.38",
+      "x": "-3.03"
+    },
+    {
+      "cargo": "4",
+      "center": "-0.7",
+      "combo": "10",
+      "distance": "323",
+      "nextGate": "null",
+      "passed": "11",
+      "paused": "false",
+      "phase": "play",
+      "score": "1440",
+      "sidewaysSpeed": "-0.17",
+      "speed": "6.19",
+      "x": "-0.66"
+    }
+  ],
+  "final": {
+    "cargo": "4",
+    "center": "-0.71",
+    "combo": "10",
+    "distance": "330",
+    "nextGate": "null",
+    "passed": "11",
+    "paused": "false",
+    "phase": "result",
+    "score": "2458",
+    "sidewaysSpeed": "-0.03",
+    "speed": "6.24",
+    "x": "-0.74"
+  },
+  "result": "CHALLENGE COMPLETE\nSnowbell got its delivery.\n\nYour flag gates, clean turns and remaining cargo made the delivery score. The next trip runs faster.\n\n2458 PTS\n11 gates · 4 cargo ×100 · 66s\nBEST 2458 PTS\nNEXT ICE DELIVERY →\nPLAY AGAIN"
+}

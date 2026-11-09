@@ -1,0 +1,55 @@
+{
+  "game": "Elytra Ring Post",
+  "case": 20,
+  "version": "0.1.0",
+  "date": "2026-11-10",
+  "independent_project": true,
+  "automated": {
+    "rule_tests_passed": 3,
+    "rule_tests_failed": 0,
+    "production_build": "pass"
+  },
+  "browser": {
+    "phone_viewport": [
+      390,
+      844
+    ],
+    "desktop_viewport": [
+      1280,
+      800
+    ],
+    "phone_flow": {
+      "slug": "elytra-ring-post",
+      "startPhase": "play",
+      "endTitle": "Flight progress recorded.",
+      "endTag": "RUN RECORDED",
+      "retryPhase": "play",
+      "retryScore": "0",
+      "helpPaused": "true",
+      "errors": []
+    },
+    "desktop": {
+      "slug": "elytra-ring-post",
+      "phase": "play",
+      "score": "0",
+      "layout": {
+        "height": 800,
+        "scrollWidth": 1280,
+        "width": 1280
+      },
+      "errors": []
+    },
+    "specific_observations": [
+      "Full final flight passed all 25 rings, zero misses, four hearts, 65 seconds, 7500 points.",
+      "Next route reset to zero; early END gave zero with no arrival bonus, and Retry reset correctly."
+    ],
+    "physical_device_tested": false
+  },
+  "remaining_limits": [
+    "The course repeats; it does not claim a procedurally varied world.",
+    "Final art quality and enjoyment require user review.",
+    "Import into Loopit was not performed or verified in this delivery."
+  ],
+  "runtime_asset_fetching": false,
+  "proof_image": "000-reference.png"
+}

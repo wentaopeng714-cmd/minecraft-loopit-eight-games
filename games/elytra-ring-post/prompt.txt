@@ -1,0 +1,16 @@
+Project 20: Elytra Ring Post / 鞘翅穿环快递
+
+Maintain the existing independent, playable 3D browser game in this ZIP; use src/main.js and src/rules.mjs as the working implementation, not a new genre. dist/ is the offline build, public/assets contains the actual matching textures/model data, and 000-reference.png is a real gameplay screenshot of this exact project, supplied as an art/camera/UI reference. It is a single image, not a sprite sheet or a platform asset ID. Do not invent an image reference ID or request an unrelated image. If a platform image selector cannot resolve it, continue from the included working code and files rather than stopping recreation.
+
+Keep coherent Minecraft pixel textures, hard voxel silhouettes, stable daylight or scene-specific lighting, soft contact shadows, readable character identity, matching props and unclipped mobile framing. Preserve visible anticipation/action/contact/follow-through/recovery, natural locomotion transitions, stable prop grips, facial intent and separate success/failure/hurt feedback. Mobile controls must work by touch with clear hierarchy; desktop alternatives also work. Guidance is a compact English cue at the first action, not a long tutorial. Keep clear score, next target, progress and actual result feedback, plus Start, Play, Result, Retry and Continue where applicable. Store best records locally. Sound is synthesized in this version; keep cues distinct and tied to contact. Do not replace 3D gameplay with flat image stickers, or call an early END a completed delivery. Improve art and feel without removing the decisions or padding the session with waiting. Observe QUALITY_REQUIREMENTS.md; supplied reference art and browser observations do not claim final user approval or physical phone testing.
+
+GAMEPLAY AND CONTINUING GOAL
+Automatic forward flight. Drag the scene in two axes or use WASD to steer through 25 gold rings over 650m. Clean passes earn 100 plus capped combo. Four missed rings lose the mail run. BOOST is optional: 2s faster with a 6s cooldown. Reach the actual village arch, then land for 500 plus remaining-heart bonus. END early earns passed-ring points only. Replay improves accuracy and combo on the authored route.
+
+CAMERA AND ART
+Third-person perspective chase camera showing Steve in a horizontal glide with an authentic textured ElytraObject and parcel. Both wings stay inside the phone frame. Floating grassy islands, trees, clouds and a real village destination. Gold rings stand out against light cyan air. Compact screen notices prevent points from covering the horizon.
+
+ACTING AND FEEDBACK
+Flying body pose, wing bank and easing, stable parcel attachment, distinct missed-ring reaction, then deceleration and standing/celebrating on delivery. No walking pose in mid-air and no clipped wings.
+
+Implementation is already playable. Preserve the independent source/build and use these files directly. Please verify touch controls, clear scoring and actual goal completion after any polishing.

@@ -1,0 +1,29 @@
+
+> elytra-ring-post@0.1.0 test
+> node --test tests/*.test.mjs
+
+✔ passing a ring uses horizontal and vertical distance (0.652083ms)
+✔ the authored flight corridor stays inside reachable steering bounds (1.438167ms)
+✔ linked rings improve score without unbounded combo values (0.275375ms)
+ℹ tests 3
+ℹ suites 0
+ℹ pass 3
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 80.399833
+
+> elytra-ring-post@0.1.0 build
+> vite build
+
+vite v7.3.7 building client environment for production...
+transforming...
+✓ 26 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                                3.68 kB │ gzip:   1.54 kB
+dist/assets/Silkscreen-Regular-W9-u5Upq.ttf   32.22 kB
+dist/assets/index-KJK6GdQz.css                12.46 kB │ gzip:   3.54 kB
+dist/assets/index-7LlqyeAU.js                497.08 kB │ gzip: 128.93 kB
+✓ built in 1.95s
