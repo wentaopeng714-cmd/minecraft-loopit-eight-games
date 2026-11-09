@@ -1,4 +1,4 @@
-# Eight independent Minecraft browser games
+# Ten independent Minecraft browser games
 
 Complete standalone projects for further polishing and Loopit handoff. Each has its own controls, scene, goal and replay flow.
 
@@ -8,6 +8,8 @@ Each ZIP includes the playable `dist/` build, full source, tests, matching textu
 
 | Case | Game | Complete ZIP |
 | --- | --- | --- |
+| 1 | My Track, My Ride | [Download](https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.3.1/01-my-track-my-ride.zip) |
+| 2 | Creeper Toss — Blockyard Duel | [Download](https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.3.1/02-creeper-toss.zip) |
 | 3 | Pocket Bed Wars | [Download](https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.3.0/03-pocket-bed-wars.zip) |
 | 4 | Steve Sky Stack | [Download](https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.3.0/04-steve-sky-stack.zip) |
 | 5 | Farm Feeding Time | [Download](https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.3.0/05-farm-feeding-time.zip) |
@@ -16,6 +18,10 @@ Each ZIP includes the playable `dist/` build, full source, tests, matching textu
 | 8 | Redstone Lights | [Download](https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.3.0/08-redstone-lights.zip) |
 | 9 | TNT Quarry Crew | [Download](https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.3.0/09-tnt-quarry-crew.zip) |
 | 10 | Golem Village Watch | [Download](https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.3.0/10-golem-village-watch.zip) |
+
+## Minecart and Creeper Toss packages (0.3.1)
+
+Two additional independent complete ZIPs: My Track, My Ride gameplay version 1.2.0, and Creeper Toss gameplay version 1.1.0. These retain the existing goal, scoring, feedback and replay revisions. This release packages them without changing gameplay. All 14 minecart rule checks and 8 Creeper Toss checks pass, and both production builds pass. Existing desktop/phone-size browser observations are preserved with their dates and limitations. Each ZIP includes its playable build, source, art provenance, matching textures, historical screenshots, local preview launcher and Loopit handoff prompt. The earlier eight download links remain available.
 
 ## Revision 0.3
 

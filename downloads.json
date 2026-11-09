@@ -1,5 +1,27 @@
 [
   {
+    "number": 1,
+    "slug": "my-track-my-ride",
+    "title": "My Track, My Ride",
+    "cn": "矿车：我的轨道我来开",
+    "file": "01-my-track-my-ride.zip",
+    "game_version": "1.2.0",
+    "bytes": 399503,
+    "sha256": "5c71ac2106646d4c8c057edd85bea6fd61b9cbaa83da944355b207d439baa046",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.3.1/01-my-track-my-ride.zip"
+  },
+  {
+    "number": 2,
+    "slug": "creeper-toss",
+    "title": "Creeper Toss — Blockyard Duel",
+    "cn": "苦力怕投掷战",
+    "file": "02-creeper-toss.zip",
+    "game_version": "1.1.0",
+    "bytes": 562510,
+    "sha256": "4697664eb0b6f408c7dc7fdffda8798522f334f4227fe914f6e3a844903b94e5",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.3.1/02-creeper-toss.zip"
+  },
+  {
     "number": 3,
     "slug": "pocket-bed-wars",
     "title": "Pocket Bed Wars",

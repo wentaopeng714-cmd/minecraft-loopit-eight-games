@@ -1,0 +1,14 @@
+[
+  {
+    "game": "my-track-my-ride",
+    "extracted_http_preview": "PASS",
+    "files_checked": 21,
+    "archive_crc": "PASS"
+  },
+  {
+    "game": "creeper-toss",
+    "extracted_http_preview": "PASS",
+    "files_checked": 21,
+    "archive_crc": "PASS"
+  }
+]

@@ -1,0 +1,191 @@
+{
+  "game": "Creeper Toss — Blockyard Duel",
+  "build_date": "2026-11-09",
+  "preview": "http://127.0.0.1:5188/",
+  "independent_project": true,
+  "minecart_modified": false,
+  "automated": {
+    "production_build": "pass",
+    "physics_tests_passed": 8,
+    "physics_tests_failed": 0,
+    "browser_console_errors_observed": 0,
+    "goal_and_physics_tests_passed": 8
+  },
+  "browser_checks": [
+    {
+      "viewport": [
+        390,
+        844
+      ],
+      "checked": [
+        "start",
+        "pointer joystick movement",
+        "drag-and-release throw",
+        "quick throw",
+        "win result",
+        "loss result",
+        "retry health and cover reset"
+      ]
+    },
+    {
+      "viewport": [
+        1280,
+        800
+      ],
+      "checked": [
+        "keyboard movement",
+        "Space quick throw",
+        "pointer aim",
+        "projectile release and follow-through",
+        "cover destruction",
+        "help pause"
+      ]
+    },
+    {
+      "viewport": [
+        844,
+        390
+      ],
+      "checked": [
+        "no horizontal overflow",
+        "movement and throw buttons inside viewport",
+        "HUD and character framing after camera adjustment"
+      ]
+    }
+  ],
+  "observed_win": {
+    "player_hp": 4,
+    "rival_hp": 0,
+    "hits": 3,
+    "cover_blocks_broken": 3,
+    "duel_seconds": 27
+  },
+  "testing_limit": "Browser viewport tests with normal pointer and keyboard input; no physical phone claim.",
+  "screenshots": [
+    "playable-preview.jpg",
+    "phone-gameplay.jpg"
+  ],
+  "revision": "1.1.0",
+  "revision_1_1_checks": [
+    "Win result sums actual damage, cover, win and remaining health bonuses",
+    "Top duel score matches result total after bonuses",
+    "Next Rival restores health and cover while retaining streak and cumulative run score",
+    "Rival 2 displays 7 HP and streak 1 after winning rival 1",
+    "390×844 result and pointer TOSS, keyboard quick throw and 1280×800 desktop layout verified",
+    "Best score and streak survive reload; goal strip relocated away from active characters on desktop"
+  ],
+  "assets": [
+    {
+      "file": "THIRD_PARTY_NOTICES.txt",
+      "bytes": 8217,
+      "sha256": "885644115c9455ef2b9073eb9451973b785525cddffc5a25dde00fd9e3001018"
+    },
+    {
+      "file": "assets/OFL.txt",
+      "bytes": 4394,
+      "sha256": "86c5e9c9382cdcc5948704fdfe60f2aa164a719746931219a42736ecd9cefbd3"
+    },
+    {
+      "file": "assets/Silkscreen-Regular.ttf",
+      "bytes": 32220,
+      "sha256": "c845473330b94c2079ce9af01c51ac8ba2d99c24f4d14c039843bbb8e642ebd8"
+    },
+    {
+      "file": "assets/cobblestone.png",
+      "bytes": 557,
+      "sha256": "8e4a8c21675b0c9c83bc3736dc5c6d94cb389749a9c4a4d309a5e406e9ca3eb5"
+    },
+    {
+      "file": "assets/creeper.png",
+      "bytes": 2873,
+      "sha256": "b04fb4559a23454fb7c6e222764708575883521732468472fbce9b5322ed53a8"
+    },
+    {
+      "file": "assets/dirt.png",
+      "bytes": 266,
+      "sha256": "fb0450253248276e0b8d653d5a4d21c59763cbf775c0e048469ff500afaaef68"
+    },
+    {
+      "file": "assets/emerald.png",
+      "bytes": 200,
+      "sha256": "ea34dbe62b186660fd7057fdbb6da4be1c000c687bce638a4d1a4ade3fb88625"
+    },
+    {
+      "file": "assets/grass_block_side.png",
+      "bytes": 408,
+      "sha256": "1f5d4845b34eeaf96a9fed2196cb01ba3cd4c5673873a5b721f106b0c8164ed9"
+    },
+    {
+      "file": "assets/grass_top_green.png",
+      "bytes": 3617,
+      "sha256": "be9cf3101e7ccfdc40c7532013f5adf015cc59ec9e3b82962e8d0e4b86826bb4"
+    },
+    {
+      "file": "assets/index-BM83ROHw.js",
+      "bytes": 496121,
+      "sha256": "8d343e48b09399f2fd6738e35e8bdd6f7d496eeeff9bc1cd3d77bc697ce2750a"
+    },
+    {
+      "file": "assets/index-Cr_lF3zu.css",
+      "bytes": 14160,
+      "sha256": "18bbc9c3dca3c1b129a37318cec5b0878e2b1cef4bf75e2cf98431b572ae33b2"
+    },
+    {
+      "file": "assets/oak_leaves.png",
+      "bytes": 457,
+      "sha256": "776aee85eddb95a3bcc27903b8c8e6c95f25caf866af852c6718f0b8a8f03aa5"
+    },
+    {
+      "file": "assets/oak_log.png",
+      "bytes": 404,
+      "sha256": "fc1a24624c18a335db38a69850251d17ce7ab53676a7d04d2cbdb25d490b7697"
+    },
+    {
+      "file": "assets/oak_log_top.png",
+      "bytes": 426,
+      "sha256": "6a68c34043d1cbded4300959ef02559d509cb46fc8d19f9804a333c5ea71f6a9"
+    },
+    {
+      "file": "assets/oak_planks.png",
+      "bytes": 444,
+      "sha256": "be4a7f9184f3532e98ae0d9c5a31bbb07861bd5b103f2d453f439a666928a285"
+    },
+    {
+      "file": "assets/rail.png",
+      "bytes": 385,
+      "sha256": "c67f751c9a34c0d5007b5eae577cf7d260bb2f227ee5bb33677b0ae22b1ca1fa"
+    },
+    {
+      "file": "assets/sources.json",
+      "bytes": 4442,
+      "sha256": "cb4ef6fdcc5deb331ea435974a41434416d7af8be7f40b028dcacae85c459a29"
+    },
+    {
+      "file": "assets/steve.png",
+      "bytes": 1350,
+      "sha256": "4c7b0468044bfecacc43d00a3a69335a834b73937688292c20d3988cae58248d"
+    },
+    {
+      "file": "assets/stone.png",
+      "bytes": 316,
+      "sha256": "fa5e82cbe9b226443f93f3bf2a0ceace73677eef2ef8cd28fd286ce0746b8106"
+    },
+    {
+      "file": "assets/villager.png",
+      "bytes": 1944,
+      "sha256": "e2c1eb76adbc7d33ea47bbfdb049c8cc8137889c50a815ba510fb240817f52cf"
+    },
+    {
+      "file": "index.html",
+      "bytes": 5438,
+      "sha256": "019e9bef45119b64f13e04970ea41d94a3ea35316b6f9b086510a0e3ec5cb029"
+    }
+  ],
+  "packaging_recheck": {
+    "date": "2026-11-10",
+    "production_build": "PASS",
+    "rule_checks_passed": 8,
+    "gameplay_changed": false,
+    "note": "Existing browser checks retained as historical observations; this delivery rechecks tests, build, package contents and download integrity."
+  }
+}

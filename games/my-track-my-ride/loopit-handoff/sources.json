@@ -1,0 +1,137 @@
+[
+  {
+    "name": "dirt",
+    "url": "https://raw.githubusercontent.com/vyse12138/minecraft-threejs/main/src/static/textures/block/dirt.png",
+    "bytes": 266,
+    "size": [
+      16,
+      16
+    ],
+    "rights": "Minecraft texture, original rights retained by Mojang; not covered by project MIT code license"
+  },
+  {
+    "name": "stone",
+    "url": "https://raw.githubusercontent.com/vyse12138/minecraft-threejs/main/src/static/textures/block/stone.png",
+    "bytes": 316,
+    "size": [
+      16,
+      16
+    ],
+    "rights": "Minecraft texture, original rights retained by Mojang; not covered by project MIT code license"
+  },
+  {
+    "name": "cobblestone",
+    "url": "https://raw.githubusercontent.com/vyse12138/minecraft-threejs/main/src/static/textures/block/cobblestone.png",
+    "bytes": 557,
+    "size": [
+      16,
+      16
+    ],
+    "rights": "Minecraft texture, original rights retained by Mojang; not covered by project MIT code license"
+  },
+  {
+    "name": "grass_block_side",
+    "url": "https://raw.githubusercontent.com/vyse12138/minecraft-threejs/main/src/static/textures/block/grass_block_side.png",
+    "bytes": 408,
+    "size": [
+      16,
+      16
+    ],
+    "rights": "Minecraft texture, original rights retained by Mojang; not covered by project MIT code license"
+  },
+  {
+    "name": "grass_top_green",
+    "url": "https://raw.githubusercontent.com/vyse12138/minecraft-threejs/main/src/static/textures/block/grass_top_green.png",
+    "bytes": 3617,
+    "size": [
+      16,
+      16
+    ],
+    "rights": "Minecraft texture, original rights retained by Mojang; not covered by project MIT code license"
+  },
+  {
+    "name": "oak_planks",
+    "url": "https://raw.githubusercontent.com/vyse12138/minecraft-threejs/main/src/static/textures/block/oak_planks.png",
+    "bytes": 444,
+    "size": [
+      16,
+      16
+    ],
+    "rights": "Minecraft texture, original rights retained by Mojang; not covered by project MIT code license"
+  },
+  {
+    "name": "oak_log",
+    "url": "https://raw.githubusercontent.com/vyse12138/minecraft-threejs/main/src/static/textures/block/oak_log.png",
+    "bytes": 404,
+    "size": [
+      16,
+      16
+    ],
+    "rights": "Minecraft texture, original rights retained by Mojang; not covered by project MIT code license"
+  },
+  {
+    "name": "oak_log_top",
+    "url": "https://raw.githubusercontent.com/vyse12138/minecraft-threejs/main/src/static/textures/block/oak_log_top.png",
+    "bytes": 426,
+    "size": [
+      16,
+      16
+    ],
+    "rights": "Minecraft texture, original rights retained by Mojang; not covered by project MIT code license"
+  },
+  {
+    "name": "oak_leaves",
+    "url": "https://raw.githubusercontent.com/vyse12138/minecraft-threejs/main/src/static/textures/block/oak_leaves.png",
+    "bytes": 457,
+    "size": [
+      16,
+      16
+    ],
+    "rights": "Minecraft texture, original rights retained by Mojang; not covered by project MIT code license"
+  },
+  {
+    "name": "rail",
+    "url": "https://raw.githubusercontent.com/vyse12138/minecraft-threejs/main/src/static/textures/block/rail.png",
+    "bytes": 385,
+    "size": [
+      16,
+      16
+    ],
+    "rights": "Minecraft texture, original rights retained by Mojang; not covered by project MIT code license"
+  },
+  {
+    "name": "steve",
+    "url": "https://raw.githubusercontent.com/vyse12138/minecraft-threejs/main/src/static/textures/entity/steve.png",
+    "bytes": 1350,
+    "size": [
+      64,
+      64
+    ],
+    "rights": "Minecraft texture, original rights retained by Mojang; not covered by project MIT code license"
+  },
+  {
+    "name": "creeper",
+    "url": "https://raw.githubusercontent.com/vyse12138/minecraft-threejs/main/src/static/textures/entity/creeper/creeper.png",
+    "bytes": 2873,
+    "size": [
+      64,
+      32
+    ],
+    "rights": "Minecraft texture, original rights retained by Mojang; not covered by project MIT code license"
+  },
+  {
+    "name": "emerald",
+    "url": "https://raw.githubusercontent.com/vyse12138/minecraft-threejs/main/src/static/textures/item/emerald.png",
+    "bytes": 200,
+    "size": [
+      16,
+      16
+    ],
+    "rights": "Minecraft texture, original rights retained by Mojang; not covered by project MIT code license"
+  },
+  {
+    "name": "villager",
+    "url": "https://raw.githubusercontent.com/PrismarineJS/minecraft-assets/master/data/1.12/entity/villager/villager.png",
+    "rights": "Minecraft texture, copyright Mojang; not CC0 or MIT."
+  }
+]

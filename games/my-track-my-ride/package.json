@@ -1,0 +1,19 @@
+{
+  "name": "my-track-my-ride",
+  "version": "1.2.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 5187",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1 --port 5187",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "dependencies": {
+    "skinview3d": "3.4.2",
+    "three": "0.156.1"
+  },
+  "devDependencies": {
+    "vite": "7.3.7"
+  }
+}

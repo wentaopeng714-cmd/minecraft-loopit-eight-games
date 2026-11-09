@@ -1,0 +1,4 @@
+import test from 'node:test';import assert from 'node:assert/strict';import {assessDelivery,deliveryGoal} from '../src/goals.mjs';
+test('delivery points show exactly which objectives were completed',()=>{const r=assessDelivery(true,3,2);assert.equal(r.score,1000);assert.deepEqual(r.parts,{arrival:500,cargo:300,safety:200});assert.deepEqual(r.stamps,[true,true,false]);});
+test('a crash cannot award arrival, safety points, or completion stamps',()=>{const r=assessDelivery(false,2,0);assert.equal(r.score,200);assert.deepEqual(r.stamps,[false,false,false]);});
+test('completed goals lead to a genuinely new routebook target',()=>{assert.match(deliveryGoal({arrival:true,cargo:3,clean:true,routes:['a','b']}),/ROUTE 3/);assert.match(deliveryGoal({arrival:true,cargo:1,clean:true,routes:[]}),/3 EMERALDS/);});
