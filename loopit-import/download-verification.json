@@ -1,0 +1,74 @@
+[
+  {
+    "game": "my-track-my-ride",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.3.2/01-my-track-my-ride-import.zip",
+    "http": 200,
+    "sha256_match": true,
+    "zip_crc": "PASS",
+    "root_image": "VALID RGB PNG",
+    "platform_import_verified": false
+  },
+  {
+    "game": "pocket-bed-wars",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.3.2/03-pocket-bed-wars-import.zip",
+    "http": 200,
+    "sha256_match": true,
+    "zip_crc": "PASS",
+    "root_image": "VALID RGB PNG",
+    "platform_import_verified": false
+  },
+  {
+    "game": "steve-sky-stack",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.3.2/04-steve-sky-stack-import.zip",
+    "http": 200,
+    "sha256_match": true,
+    "zip_crc": "PASS",
+    "root_image": "VALID RGB PNG",
+    "platform_import_verified": false
+  },
+  {
+    "game": "farm-feeding-time",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.3.2/05-farm-feeding-time-import.zip",
+    "http": 200,
+    "sha256_match": true,
+    "zip_crc": "PASS",
+    "root_image": "VALID RGB PNG",
+    "platform_import_verified": false
+  },
+  {
+    "game": "bobber-and-bite",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.3.2/06-bobber-and-bite-import.zip",
+    "http": 200,
+    "sha256_match": true,
+    "zip_crc": "PASS",
+    "root_image": "VALID RGB PNG",
+    "platform_import_verified": false
+  },
+  {
+    "game": "woolly-good-day",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.3.2/07-woolly-good-day-import.zip",
+    "http": 200,
+    "sha256_match": true,
+    "zip_crc": "PASS",
+    "root_image": "VALID RGB PNG",
+    "platform_import_verified": false
+  },
+  {
+    "game": "redstone-lights",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.3.2/08-redstone-lights-import.zip",
+    "http": 200,
+    "sha256_match": true,
+    "zip_crc": "PASS",
+    "root_image": "VALID RGB PNG",
+    "platform_import_verified": false
+  },
+  {
+    "game": "tnt-quarry-crew",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.3.2/09-tnt-quarry-crew-import.zip",
+    "http": 200,
+    "sha256_match": true,
+    "zip_crc": "PASS",
+    "root_image": "VALID RGB PNG",
+    "platform_import_verified": false
+  }
+]
