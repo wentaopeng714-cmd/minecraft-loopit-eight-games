@@ -1,0 +1,74 @@
+[
+  {
+    "number": 3,
+    "slug": "pocket-bed-wars",
+    "title": "Pocket Bed Wars",
+    "file": "03-pocket-bed-wars.zip",
+    "bytes": 474084,
+    "sha256": "7cb3b266644c4717b2661f279ba3bf8cd10b7a3ffdd52e57a1192cb9d2210c73",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.3.0/03-pocket-bed-wars.zip"
+  },
+  {
+    "number": 4,
+    "slug": "steve-sky-stack",
+    "title": "Steve Sky Stack",
+    "file": "04-steve-sky-stack.zip",
+    "bytes": 476476,
+    "sha256": "b0a915f72379ba2f22663f9cd8d44241149eebafb53c15530371cebc2425db26",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.3.0/04-steve-sky-stack.zip"
+  },
+  {
+    "number": 5,
+    "slug": "farm-feeding-time",
+    "title": "Farm Feeding Time",
+    "file": "05-farm-feeding-time.zip",
+    "bytes": 661114,
+    "sha256": "748c5580027be6d476724cf11b972a6515791c0c5724250f96f3a8cef206c29c",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.3.0/05-farm-feeding-time.zip"
+  },
+  {
+    "number": 6,
+    "slug": "bobber-and-bite",
+    "title": "Bobber & Bite",
+    "file": "06-bobber-and-bite.zip",
+    "bytes": 517709,
+    "sha256": "cbd5e6410bc8b9e6564d1f709b918e1d6a2863936ccaad8ff957dbf63af48cb2",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.3.0/06-bobber-and-bite.zip"
+  },
+  {
+    "number": 7,
+    "slug": "woolly-good-day",
+    "title": "Woolly Good Day",
+    "file": "07-woolly-good-day.zip",
+    "bytes": 424366,
+    "sha256": "1f660a6a6eaaa74496ead7ca502c254bfefe2585dc44d5b1b9bf06771dd1d802",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.3.0/07-woolly-good-day.zip"
+  },
+  {
+    "number": 8,
+    "slug": "redstone-lights",
+    "title": "Redstone Lights",
+    "file": "08-redstone-lights.zip",
+    "bytes": 407610,
+    "sha256": "f1b59fb0b8c5a9ab6210163401faa6c8c594b1a9695fb3bd07feda6780b539f9",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.3.0/08-redstone-lights.zip"
+  },
+  {
+    "number": 9,
+    "slug": "tnt-quarry-crew",
+    "title": "TNT Quarry Crew",
+    "file": "09-tnt-quarry-crew.zip",
+    "bytes": 528815,
+    "sha256": "370368145db8db66e3555fc51aa644e67ae04a0599552cb99b14249ebbf2752e",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.3.0/09-tnt-quarry-crew.zip"
+  },
+  {
+    "number": 10,
+    "slug": "golem-village-watch",
+    "title": "Golem Village Watch",
+    "file": "10-golem-village-watch.zip",
+    "bytes": 438714,
+    "sha256": "f64db811443522ed123b24b25818c73ef7134c1cc44745a5c162c395ba7745dd",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.3.0/10-golem-village-watch.zip"
+  }
+]

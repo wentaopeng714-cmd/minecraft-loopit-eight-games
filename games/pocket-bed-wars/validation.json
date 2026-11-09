@@ -1,0 +1,23 @@
+{
+  "game": "Pocket Bed Wars",
+  "number": 3,
+  "version": "0.3.0",
+  "theme": "Minecraft",
+  "independent_game": true,
+  "preview": "http://127.0.0.1:5190/pocket-bed-wars/dist/",
+  "build": "PASS",
+  "rule_tests_passed": 4,
+  "browser_exercised": [
+    "单独按住BUILD约5.2秒，实际铺完8格并自动走到对岸",
+    "实际观察死亡后立即回到出生点，respawns=1，取消旧版下沉等待",
+    "击破红床后立即出现3绿宝石奖励和575分；选钻石剑后剑等级2、玩家恢复生命、敌人8/8且升级",
+    "实测AI切换守床、追击、拆床行为；检查手机尺寸与桌面输入"
+  ],
+  "verification_limits": [
+    "本轮未重新完成升级后的最终淘汰及高岛屿难度；中岛绕行补充后未穷举所有对战路线。",
+    "手机尺寸及桌面浏览器输入检查；未使用实体手机。",
+    "尚未上传或发布Loopit；用户验收后继续修改。"
+  ],
+  "source_assets": "public/assets/sources.json",
+  "view_and_controls": "默认第一人称，可切第三人称。左摇杆/WASD走动、拖屏转头；按住BUILD会铺桥并安全前进；HIT挥剑。"
+}

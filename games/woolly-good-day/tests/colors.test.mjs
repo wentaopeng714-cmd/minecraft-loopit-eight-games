@@ -1,0 +1,3 @@
+import test from 'node:test';import assert from 'node:assert/strict';import {canShear,coatPattern} from '../src/rules.mjs';
+test('every shear color cuts only its matching wool, including black versus white',()=>{for(let tool=0;tool<4;tool++)for(let color=0;color<4;color++)assert.equal(canShear(tool,color),tool===color);assert.equal(canShear(-1,0),false);});
+test('each successive coat includes all four colors and changes its mosaic',()=>{let prior='';for(let flock=1;flock<10;flock++){const colors=[];for(let x=0;x<8;x++)for(let z=0;z<8;z++)colors.push(coatPattern(x,z,flock));assert.equal(new Set(colors).size,4);const signature=colors.join('');assert.notEqual(signature,prior);prior=signature;}});

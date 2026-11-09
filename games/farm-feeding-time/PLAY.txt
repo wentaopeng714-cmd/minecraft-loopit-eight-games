@@ -1,0 +1,13 @@
+Farm Feeding Time / v0.3.0
+
+QUICK PLAY: Python 3 is required. Open a terminal in this folder and run:
+python3 play.py
+
+This opens the included dist/ build in your browser. Keep the terminal open while playing.
+Alternatively, serve dist/ using any local HTTP server. Do not open dist/index.html with file://.
+
+EDIT: npm ci, then npm run dev. BUILD: npm run build. CHECK: npm test.
+The complete source, matching textures, geometry, build and Loopit handoff are included.
+See validation.json for observed checks and untested branches.
+Phone-size browser tests are not physical-device tests.
+Minecraft artwork belongs to Mojang/Microsoft. Sources and code notices are included.

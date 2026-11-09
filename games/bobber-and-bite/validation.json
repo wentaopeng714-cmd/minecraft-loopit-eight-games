@@ -1,0 +1,22 @@
+{
+  "game": "Bobber & Bite",
+  "number": 6,
+  "version": "0.3.0",
+  "theme": "Minecraft",
+  "independent_game": true,
+  "preview": "http://127.0.0.1:5190/bobber-and-bite/dist/",
+  "build": "PASS",
+  "rule_tests_passed": 5,
+  "browser_exercised": [
+    "实际随机钓到鲑鱼并记入背包1/12、200分，PACK UP正常结算",
+    "桌面和390×844检查12格背包、书/鞍等图标、新湖景、水面、岸草、睡莲和游鱼",
+    "规则测试覆盖三钓点全部12种收获可达、深水宝物概率更高、连续重复保护和库存累计"
+  ],
+  "verification_limits": [
+    "本轮未人工钓齐12类收藏；长时间收获概率手感仍需玩家验收。",
+    "手机尺寸及桌面浏览器输入检查；未使用实体手机。",
+    "尚未上传或发布Loopit；用户验收后继续修改。"
+  ],
+  "source_assets": "public/assets/sources.json",
+  "view_and_controls": "第三人称移动选钓点，可切第一人称并自由转头；抛竿时帮助看向浮漂。按住收线、松手降张力。BAG打开收藏。"
+}

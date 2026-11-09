@@ -1,0 +1,23 @@
+{
+  "game": "Golem Village Watch",
+  "number": 10,
+  "version": "0.3.0",
+  "theme": "Minecraft",
+  "independent_game": true,
+  "preview": "http://127.0.0.1:5190/golem-village-watch/dist/",
+  "build": "PASS",
+  "rule_tests_passed": 3,
+  "browser_exercised": [
+    "实际清完首波8怪、975分，升级弹出3种选择",
+    "选择加伤害后进入第2波，拳伤3，实际看到baby快僵尸",
+    "实际收到3次村民投喂；手机检查补给、攻击、躲避按钮和血量",
+    "规则测试覆盖无限波次、怪物成长、快怪/巨怪差别与长期升级"
+  ],
+  "verification_limits": [
+    "本轮人工游玩到第2波；骷髅、装甲与巨怪的高波次对战尚未人工完整覆盖。",
+    "手机尺寸及桌面浏览器输入检查；未使用实体手机。",
+    "尚未上传或发布Loopit；用户验收后继续修改。"
+  ],
+  "source_assets": "public/assets/sources.json",
+  "view_and_controls": "第三人称自由移动；PUNCH挥拳、DODGE闪避；点村民请求可用补给。帮助面板中可END WATCH结算。"
+}

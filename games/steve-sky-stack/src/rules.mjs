@@ -1,0 +1,2 @@
+export function overlap(prevCenter,prevWidth,center,width,tolerance=.13){const perfect=Math.abs(center-prevCenter)<=tolerance;if(perfect)return {center:prevCenter,width:Math.min(prevWidth,width),perfect:true};const left=Math.max(prevCenter-prevWidth/2,center-width/2),right=Math.min(prevCenter+prevWidth/2,center+width/2);return {center:(left+right)/2,width:Math.max(0,right-left),perfect:false};}
+export function dropPoints(perfect,combo){return perfect?100+Math.min(combo,10)*20:50;}

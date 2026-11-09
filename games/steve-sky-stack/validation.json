@@ -1,0 +1,22 @@
+{
+  "game": "Steve Sky Stack",
+  "number": 4,
+  "version": "0.3.0",
+  "theme": "Minecraft",
+  "independent_game": true,
+  "preview": "http://127.0.0.1:5190/steve-sky-stack/dist/",
+  "build": "PASS",
+  "rule_tests_passed": 2,
+  "browser_exercised": [
+    "实际连续叠到24层、2590分，超过原20层后没有结算中断",
+    "实际看到8层日落、16层云层和24层雨天，方块材质连续变化",
+    "检查实时重叠比例、落点、裁切和Steve跳起落地"
+  ],
+  "verification_limits": [
+    "32层雷暴、40层夜空尚未人工游玩到达；极长时间塔高性能未持续压力测试。",
+    "手机尺寸及桌面浏览器输入检查；未使用实体手机。",
+    "尚未上传或发布Loopit；用户验收后继续修改。"
+  ],
+  "source_assets": "public/assets/sources.json",
+  "view_and_controls": "固定斜侧视角，随高度跟随。点DROP或Space，实时重叠比例与绿色落点显示叠放位置。"
+}

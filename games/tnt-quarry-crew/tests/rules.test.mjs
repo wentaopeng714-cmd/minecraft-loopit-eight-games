@@ -1,0 +1,2 @@
+import test from 'node:test';import assert from 'node:assert/strict';
+test('unlit TNT waits indefinitely and only a lit fuse can detonate',async()=>{const {fuseStep}=await import('../src/rules.mjs');let charge={time:3.2,lit:false,done:false};charge=fuseStep(charge,15);assert.equal(charge.time,3.2);assert.equal(charge.explodes,false);charge=fuseStep({...charge,lit:true},3);assert.ok(charge.time>0);assert.equal(charge.explodes,false);charge=fuseStep(charge,.3);assert.equal(charge.explodes,true);assert.equal(fuseStep({...charge,done:true},1).explodes,false);});

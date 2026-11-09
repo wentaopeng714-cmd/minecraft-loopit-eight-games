@@ -1,0 +1,23 @@
+{
+  "game": "Woolly Good Day",
+  "number": 7,
+  "version": "0.3.0",
+  "theme": "Minecraft",
+  "independent_game": true,
+  "preview": "http://127.0.0.1:5190/woolly-good-day/dist/",
+  "build": "PASS",
+  "rule_tests_passed": 5,
+  "browser_exercised": [
+    "手机实际逐色划剪，自动展示顶部、两侧和背面。",
+    "完整剪净 164 块，自动进入第二只羊并保留 1070 分与一只干净羊记录。",
+    "毛层轻微嵌入身体表面，随模型动作同步；快速滑动也能命中中间小块。",
+    "规则检查覆盖表面贴合、连续划剪与剩余区域选择。"
+  ],
+  "verification_limits": [
+    "尚未长时间连续剪很多只羊，或穷举全部屏幕比例和手指速度。",
+    "手机尺寸及桌面浏览器输入检查；未使用实体手机。",
+    "尚未上传或发布Loopit；用户验收后继续修改。"
+  ],
+  "source_assets": "public/assets/sources.json",
+  "view_and_controls": "羊毛直接挂在身体骨骼上同步运动。选择同色剪刀连续划剪，NEXT UNCUT AREA 自动展示剩余身体表面与数量。"
+}

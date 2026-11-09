@@ -1,0 +1,22 @@
+{
+  "game": "Redstone Lights",
+  "number": 8,
+  "version": "0.3.0",
+  "theme": "Minecraft",
+  "independent_game": true,
+  "preview": "http://127.0.0.1:5190/redstone-lights/dist/",
+  "build": "PASS",
+  "rule_tests_passed": 2,
+  "browser_exercised": [
+    "实际10次旋转接通首条线路，门升起、牛走出来",
+    "手机通电时立即显示554分与1/5 SYSTEMS，检查镜头下Steve和机关不被裁切",
+    "全部原始电路模板连通规则检查通过"
+  ],
+  "verification_limits": [
+    "本轮人工完成第1个机关，其余4种场景功能尚未逐一人工解完验证。",
+    "手机尺寸及桌面浏览器输入检查；未使用实体手机。",
+    "尚未上传或发布Loopit；用户验收后继续修改。"
+  ],
+  "source_assets": "public/assets/sources.json",
+  "view_and_controls": "等距机关台点转线路；通电后镜头看向对应机关，手机同时保留Steve与机关的完整构图。"
+}

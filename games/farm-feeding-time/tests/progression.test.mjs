@@ -1,0 +1,4 @@
+import test from 'node:test';import assert from 'node:assert/strict';import {farmFoods,farmCapacity,farmVisitor,orderKind} from '../src/progression.mjs';
+test('new visitors arrive throughout the first day with the correct new foods',()=>{assert.equal(farmVisitor(4).kind,'rabbit');assert.equal(farmVisitor(7).kind,'wolf');assert.equal(farmVisitor(10).kind,'horse');assert.equal(farmVisitor(13).kind,'cat');assert.deepEqual(farmFoods(6),[0,1,2]);assert.deepEqual(farmFoods(13),[0,1,2,3,4,5]);});
+test('food capacity expands with new food types while shared carrots add no duplicate slot',()=>{assert.equal(farmCapacity(0),12);assert.equal(farmCapacity(4),12);assert.equal(farmCapacity(7),14);assert.equal(farmCapacity(13),18);});
+test('later days use all eight animals and all six food types',()=>{const seen=new Set(Array.from({length:24},(_,i)=>orderKind(i,0,2)));assert.equal(seen.size,8);assert.deepEqual(farmFoods(0,2),[0,1,2,3,4,5]);});

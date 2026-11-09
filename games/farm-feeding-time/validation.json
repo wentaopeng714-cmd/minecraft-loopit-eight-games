@@ -1,0 +1,23 @@
+{
+  "game": "Farm Feeding Time",
+  "number": 5,
+  "version": "0.3.0",
+  "theme": "Minecraft",
+  "independent_game": true,
+  "preview": "http://127.0.0.1:5190/farm-feeding-time/dist/",
+  "build": "PASS",
+  "rule_tests_passed": 6,
+  "browser_exercised": [
+    "实际完成三步教学，随后依次解锁并喂过兔、狼、马、猫。",
+    "完整完成十八份订单，零失误，正常结算 2020 分并出现第二天入口。",
+    "修正模型后再次实玩到十四单，逐个复核四种新动物截图与六种饲料按钮，没有页面错误。",
+    "手机尺寸检查图标、喂食、补货和动物可见性。"
+  ],
+  "verification_limits": [
+    "尚未完整通过第二天及更后面的长循环。",
+    "手机尺寸及桌面浏览器输入检查；未使用实体手机。",
+    "尚未上传或发布Loopit；用户验收后继续修改。"
+  ],
+  "source_assets": "public/assets/sources.json",
+  "view_and_controls": "固定近景，点饲料再点动物或拖动食物。三步教学后按订单进度解锁新访客和饲料，降低栏杆遮挡小动物。"
+}

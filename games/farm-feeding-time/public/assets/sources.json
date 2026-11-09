@@ -1,0 +1,466 @@
+[
+  {
+    "name": "dirt",
+    "url": "https://raw.githubusercontent.com/vyse12138/minecraft-threejs/main/src/static/textures/block/dirt.png",
+    "bytes": 266,
+    "size": [
+      16,
+      16
+    ],
+    "rights": "Minecraft texture, original rights retained by Mojang; not covered by project MIT code license"
+  },
+  {
+    "name": "stone",
+    "url": "https://raw.githubusercontent.com/vyse12138/minecraft-threejs/main/src/static/textures/block/stone.png",
+    "bytes": 316,
+    "size": [
+      16,
+      16
+    ],
+    "rights": "Minecraft texture, original rights retained by Mojang; not covered by project MIT code license"
+  },
+  {
+    "name": "cobblestone",
+    "url": "https://raw.githubusercontent.com/vyse12138/minecraft-threejs/main/src/static/textures/block/cobblestone.png",
+    "bytes": 557,
+    "size": [
+      16,
+      16
+    ],
+    "rights": "Minecraft texture, original rights retained by Mojang; not covered by project MIT code license"
+  },
+  {
+    "name": "grass_block_side",
+    "url": "https://raw.githubusercontent.com/vyse12138/minecraft-threejs/main/src/static/textures/block/grass_block_side.png",
+    "bytes": 408,
+    "size": [
+      16,
+      16
+    ],
+    "rights": "Minecraft texture, original rights retained by Mojang; not covered by project MIT code license"
+  },
+  {
+    "name": "grass_top_green",
+    "url": "https://raw.githubusercontent.com/vyse12138/minecraft-threejs/main/src/static/textures/block/grass_top_green.png",
+    "bytes": 3617,
+    "size": [
+      16,
+      16
+    ],
+    "rights": "Minecraft texture, original rights retained by Mojang; not covered by project MIT code license"
+  },
+  {
+    "name": "oak_planks",
+    "url": "https://raw.githubusercontent.com/vyse12138/minecraft-threejs/main/src/static/textures/block/oak_planks.png",
+    "bytes": 444,
+    "size": [
+      16,
+      16
+    ],
+    "rights": "Minecraft texture, original rights retained by Mojang; not covered by project MIT code license"
+  },
+  {
+    "name": "oak_log",
+    "url": "https://raw.githubusercontent.com/vyse12138/minecraft-threejs/main/src/static/textures/block/oak_log.png",
+    "bytes": 404,
+    "size": [
+      16,
+      16
+    ],
+    "rights": "Minecraft texture, original rights retained by Mojang; not covered by project MIT code license"
+  },
+  {
+    "name": "oak_log_top",
+    "url": "https://raw.githubusercontent.com/vyse12138/minecraft-threejs/main/src/static/textures/block/oak_log_top.png",
+    "bytes": 426,
+    "size": [
+      16,
+      16
+    ],
+    "rights": "Minecraft texture, original rights retained by Mojang; not covered by project MIT code license"
+  },
+  {
+    "name": "oak_leaves",
+    "url": "https://raw.githubusercontent.com/vyse12138/minecraft-threejs/main/src/static/textures/block/oak_leaves.png",
+    "bytes": 457,
+    "size": [
+      16,
+      16
+    ],
+    "rights": "Minecraft texture, original rights retained by Mojang; not covered by project MIT code license"
+  },
+  {
+    "name": "rail",
+    "url": "https://raw.githubusercontent.com/vyse12138/minecraft-threejs/main/src/static/textures/block/rail.png",
+    "bytes": 385,
+    "size": [
+      16,
+      16
+    ],
+    "rights": "Minecraft texture, original rights retained by Mojang; not covered by project MIT code license"
+  },
+  {
+    "name": "steve",
+    "url": "https://raw.githubusercontent.com/vyse12138/minecraft-threejs/main/src/static/textures/entity/steve.png",
+    "bytes": 1350,
+    "size": [
+      64,
+      64
+    ],
+    "rights": "Minecraft texture, original rights retained by Mojang; not covered by project MIT code license"
+  },
+  {
+    "name": "creeper",
+    "url": "https://raw.githubusercontent.com/vyse12138/minecraft-threejs/main/src/static/textures/entity/creeper/creeper.png",
+    "bytes": 2873,
+    "size": [
+      64,
+      32
+    ],
+    "rights": "Minecraft texture, original rights retained by Mojang; not covered by project MIT code license"
+  },
+  {
+    "name": "emerald",
+    "url": "https://raw.githubusercontent.com/vyse12138/minecraft-threejs/main/src/static/textures/item/emerald.png",
+    "bytes": 200,
+    "size": [
+      16,
+      16
+    ],
+    "rights": "Minecraft texture, original rights retained by Mojang; not covered by project MIT code license"
+  },
+  {
+    "name": "villager",
+    "url": "https://raw.githubusercontent.com/PrismarineJS/minecraft-assets/master/data/1.12/entity/villager/villager.png",
+    "rights": "Minecraft texture, copyright Mojang; not CC0 or MIT."
+  },
+  {
+    "name": "cow_geo",
+    "file": "cow_geo.json",
+    "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/main/resource_pack/models/entity/cow.geo.json",
+    "bytes": 2352,
+    "sha256": "5ead3a6d5884bbdce224baeaf89bcab71e9c29f2b6d406ff1d3884a75dab0537",
+    "rights": "Minecraft assets; Mojang/Microsoft retain original rights. Code licenses do not relicense artwork."
+  },
+  {
+    "name": "pig_geo",
+    "file": "pig_geo.json",
+    "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/main/resource_pack/models/entity/pig.geo.json",
+    "bytes": 2079,
+    "sha256": "3f91d45c4cb62357106d52119f49170740dcf453046066034143c9f276a0d646",
+    "rights": "Minecraft assets; Mojang/Microsoft retain original rights. Code licenses do not relicense artwork."
+  },
+  {
+    "name": "chicken_geo",
+    "file": "chicken_geo.json",
+    "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/main/resource_pack/models/entity/chicken.geo.json",
+    "bytes": 5536,
+    "sha256": "c803bd306f9f3b123e67d7b4c78e00e1bcb18b3a6851b4671686eff9490ed388",
+    "rights": "Minecraft assets; Mojang/Microsoft retain original rights. Code licenses do not relicense artwork."
+  },
+  {
+    "name": "sheep_geo",
+    "file": "sheep_geo.json",
+    "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/main/resource_pack/models/entity/sheep.geo.json",
+    "bytes": 3843,
+    "sha256": "235fc82d217b13a93ad0323c6b8a1cf312aefffe2212839b6e9f8daa2ba185b7",
+    "rights": "Minecraft assets; Mojang/Microsoft retain original rights. Code licenses do not relicense artwork."
+  },
+  {
+    "name": "golem_geo",
+    "file": "golem_geo.json",
+    "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/main/resource_pack/models/entity/iron_golem.geo.json",
+    "bytes": 2499,
+    "sha256": "635d687a2e3ed34a447f721f3279a3a4e5169bff7d8eb68316f7cbda690980bd",
+    "rights": "Minecraft assets; Mojang/Microsoft retain original rights. Code licenses do not relicense artwork."
+  },
+  {
+    "name": "zombie_geo",
+    "file": "zombie_geo.json",
+    "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/main/resource_pack/models/entity/zombie.geo.json",
+    "bytes": 2587,
+    "sha256": "61a8ff5d0443bc29a6946ab165ab144ae87237e19bdd11fdec077e8cf5d9e414",
+    "rights": "Minecraft assets; Mojang/Microsoft retain original rights. Code licenses do not relicense artwork."
+  },
+  {
+    "name": "cow",
+    "file": "cow.png",
+    "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/main/resource_pack/textures/entity/cow/cow.png",
+    "bytes": 1151,
+    "sha256": "44dc85221028c48f5808eb8bfcce19b2ccdcad4c80453481084f9d597b218e0e",
+    "rights": "Minecraft assets; Mojang/Microsoft retain original rights. Code licenses do not relicense artwork."
+  },
+  {
+    "name": "pig",
+    "file": "pig.png",
+    "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/main/resource_pack/textures/entity/pig/pig.png",
+    "bytes": 820,
+    "sha256": "28f2fba207671d8463bed0fa5064d33ebdd02c16921d3459d7b09f7ebde1aec4",
+    "rights": "Minecraft assets; Mojang/Microsoft retain original rights. Code licenses do not relicense artwork."
+  },
+  {
+    "name": "chicken",
+    "file": "chicken.png",
+    "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/main/resource_pack/textures/entity/chicken/chicken.png",
+    "bytes": 501,
+    "sha256": "487a9bed72731b586bbbd365b78320fbe04e4c44aeb840e7d2f3a828a0906c9d",
+    "rights": "Minecraft assets; Mojang/Microsoft retain original rights. Code licenses do not relicense artwork."
+  },
+  {
+    "name": "golem",
+    "file": "golem.png",
+    "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/main/resource_pack/textures/entity/iron_golem.png",
+    "bytes": 2871,
+    "sha256": "5b000bb62afa071c6519876ee77fdf8a649d618374686c999edf9ddd38886f3b",
+    "rights": "Minecraft assets; Mojang/Microsoft retain original rights. Code licenses do not relicense artwork."
+  },
+  {
+    "name": "wheat",
+    "file": "wheat.png",
+    "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/main/resource_pack/textures/items/wheat.png",
+    "bytes": 255,
+    "sha256": "21c2b0bfeae4934a7a5b606c98c1fe3c9f595514700d4191f2646d85aacaaf0a",
+    "rights": "Minecraft assets; Mojang/Microsoft retain original rights. Code licenses do not relicense artwork."
+  },
+  {
+    "name": "carrot",
+    "file": "carrot.png",
+    "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/main/resource_pack/textures/items/carrot.png",
+    "bytes": 248,
+    "sha256": "94df2b17e0c874b703a170a21e0f73ef0ffc12315575dd5858a8453bf7965af0",
+    "rights": "Minecraft assets; Mojang/Microsoft retain original rights. Code licenses do not relicense artwork."
+  },
+  {
+    "name": "seeds",
+    "file": "seeds.png",
+    "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/main/resource_pack/textures/items/seeds_wheat.png",
+    "bytes": 171,
+    "sha256": "7cd96c1a03a6dfd26e924964acff8ba74b9419a3ea368bb2d26904d302951170",
+    "rights": "Minecraft assets; Mojang/Microsoft retain original rights. Code licenses do not relicense artwork."
+  },
+  {
+    "name": "salmon",
+    "file": "salmon.png",
+    "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/main/resource_pack/textures/items/fish_salmon_raw.png",
+    "bytes": 498,
+    "sha256": "831b54805c771142aab485524d9468b244b5b01fa7c0c69b4f5b0e75aec98281",
+    "rights": "Minecraft assets; Mojang/Microsoft retain original rights. Code licenses do not relicense artwork."
+  },
+  {
+    "name": "pufferfish",
+    "file": "pufferfish.png",
+    "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/main/resource_pack/textures/items/fish_pufferfish_raw.png",
+    "bytes": 687,
+    "sha256": "00c393cc4316f8d6206b1e836522ed4b2b8e1677d11f3cb769053b5c2786c33d",
+    "rights": "Minecraft assets; Mojang/Microsoft retain original rights. Code licenses do not relicense artwork."
+  },
+  {
+    "name": "shears",
+    "file": "shears.png",
+    "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/main/resource_pack/textures/items/shears.png",
+    "bytes": 224,
+    "sha256": "d9b71b31a40660304b519249fbc58b775fdc7c176a92f40f89d83dbac21c166e",
+    "rights": "Minecraft assets; Mojang/Microsoft retain original rights. Code licenses do not relicense artwork."
+  },
+  {
+    "name": "fishing_rod",
+    "file": "fishing_rod.png",
+    "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/main/resource_pack/textures/items/fishing_rod_uncast.png",
+    "bytes": 213,
+    "sha256": "968713b58178b98cf14a47db33fcf9221df2859ef851e946483d3dff606eeda7",
+    "rights": "Minecraft assets; Mojang/Microsoft retain original rights. Code licenses do not relicense artwork."
+  },
+  {
+    "name": "tnt_side",
+    "file": "tnt_side.png",
+    "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/main/resource_pack/textures/blocks/tnt_side.png",
+    "bytes": 237,
+    "sha256": "4af68f72b5e9ea6cea5fd2c6dd2dff2965eba3f25628103b60369e4abd6b0725",
+    "rights": "Minecraft assets; Mojang/Microsoft retain original rights. Code licenses do not relicense artwork."
+  },
+  {
+    "name": "tnt_top",
+    "file": "tnt_top.png",
+    "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/main/resource_pack/textures/blocks/tnt_top.png",
+    "bytes": 277,
+    "sha256": "00fa686e96401a17cb7152c4a62eea16fa03651b4cc05dc7a437eca77283b266",
+    "rights": "Minecraft assets; Mojang/Microsoft retain original rights. Code licenses do not relicense artwork."
+  },
+  {
+    "name": "tnt_bottom",
+    "file": "tnt_bottom.png",
+    "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/main/resource_pack/textures/blocks/tnt_bottom.png",
+    "bytes": 137,
+    "sha256": "bc6e6f1add4b7916d24c0fff4453fb179a3bf09e1d05a031d63b7acc0dc9a07b",
+    "rights": "Minecraft assets; Mojang/Microsoft retain original rights. Code licenses do not relicense artwork."
+  },
+  {
+    "name": "redstone",
+    "file": "redstone.png",
+    "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/main/resource_pack/textures/items/redstone_dust.png",
+    "bytes": 214,
+    "sha256": "ddbc3019cd89c9740c460a2b135c69496ad01f1dd5dea70f3526203b95e033a6",
+    "rights": "Minecraft assets; Mojang/Microsoft retain original rights. Code licenses do not relicense artwork."
+  },
+  {
+    "name": "lamp_on",
+    "file": "lamp_on.png",
+    "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/main/resource_pack/textures/blocks/redstone_lamp_on.png",
+    "bytes": 279,
+    "sha256": "042698c0959804264530a10e8b42373436dccff995330ade1a15e4f59389be5f",
+    "rights": "Minecraft assets; Mojang/Microsoft retain original rights. Code licenses do not relicense artwork."
+  },
+  {
+    "name": "lamp_off",
+    "file": "lamp_off.png",
+    "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/main/resource_pack/textures/blocks/redstone_lamp_off.png",
+    "bytes": 312,
+    "sha256": "293719cf75ab6cc548ed02158f25d59d8b92e72eac6dad25b4d43395ef3de191",
+    "rights": "Minecraft assets; Mojang/Microsoft retain original rights. Code licenses do not relicense artwork."
+  },
+  {
+    "name": "wool",
+    "file": "wool.png",
+    "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/main/resource_pack/textures/blocks/wool_colored_white.png",
+    "bytes": 617,
+    "sha256": "c240f74136d8859fb3a2d37bd2786b33c8fcedc27f57db1d2cf228da0e921ea1",
+    "rights": "Minecraft assets; Mojang/Microsoft retain original rights. Code licenses do not relicense artwork."
+  },
+  {
+    "name": "iron_block",
+    "file": "iron_block.png",
+    "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/main/resource_pack/textures/blocks/iron_block.png",
+    "bytes": 223,
+    "sha256": "666e570940a1967728bd02cf1b62d2f122f5d12e9e9e97d12e5007bc58542512",
+    "rights": "Minecraft assets; Mojang/Microsoft retain original rights. Code licenses do not relicense artwork."
+  },
+  {
+    "name": "diamond_ore",
+    "file": "diamond_ore.png",
+    "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/main/resource_pack/textures/blocks/diamond_ore.png",
+    "bytes": 301,
+    "sha256": "59f7d8669fd1ec14b95910986d686cd4f792b94a2274967e377812a958004778",
+    "rights": "Minecraft assets; Mojang/Microsoft retain original rights. Code licenses do not relicense artwork."
+  },
+  {
+    "name": "sand",
+    "file": "sand.png",
+    "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/main/resource_pack/textures/blocks/sand.png",
+    "bytes": 294,
+    "sha256": "2161047aaf5ab95819bc2419aeb08064e4c6208e2d0cdc026561ea72e97d3527",
+    "rights": "Minecraft assets; Mojang/Microsoft retain original rights. Code licenses do not relicense artwork."
+  },
+  {
+    "name": "bricks",
+    "file": "bricks.png",
+    "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/main/resource_pack/textures/blocks/brick.png",
+    "bytes": 208,
+    "sha256": "64c5b9359bde9161adcba45890afc2f140183cac4bf468a37fdfe9bc2a596e7f",
+    "rights": "Minecraft assets; Mojang/Microsoft retain original rights. Code licenses do not relicense artwork."
+  },
+  {
+    "name": "glass",
+    "file": "glass.png",
+    "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/main/resource_pack/textures/blocks/glass.png",
+    "bytes": 176,
+    "sha256": "d05046fbbde177285eda910568cf2522001addd956d8eded476df6b4c2f09e2a",
+    "rights": "Minecraft assets; Mojang/Microsoft retain original rights. Code licenses do not relicense artwork."
+  },
+  {
+    "name": "zombie",
+    "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/main/resource_pack/textures/entity/zombie/zombie.png",
+    "file": "zombie.png",
+    "rights": "Minecraft assets retain Mojang/Microsoft original rights; not CC0 or MIT artwork."
+  },
+  {
+    "name": "bed_red",
+    "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/main/resource_pack/textures/entity/bed/red.png",
+    "file": "bed_red.png",
+    "rights": "Minecraft assets retain Mojang/Microsoft original rights; not CC0 or MIT artwork."
+  },
+  {
+    "name": "bed_blue",
+    "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/main/resource_pack/textures/entity/bed/blue.png",
+    "file": "bed_blue.png",
+    "rights": "Minecraft assets retain Mojang/Microsoft original rights; not CC0 or MIT artwork."
+  },
+  {
+    "name": "iron_sword",
+    "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/main/resource_pack/textures/items/iron_sword.png",
+    "file": "iron_sword.png",
+    "rights": "Minecraft artwork; Mojang/Microsoft retain original rights."
+  },
+  {
+    "name": "sheep",
+    "file": "sheep.png",
+    "url": "https://raw.githubusercontent.com/PrismarineJS/minecraft-assets/master/data/1.12/entity/sheep/sheep.png",
+    "version": "1.12 atlas matches legacy sheep geometry; fully opaque face pixels",
+    "rights": "Minecraft artwork; Mojang/Microsoft retain original rights."
+  },
+  {
+    "name": "rabbit",
+    "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/main/resource_pack/textures/entity/rabbit/brown.png",
+    "bytes": 700,
+    "rights": "Minecraft artwork; original rights retained by Mojang/Microsoft."
+  },
+  {
+    "name": "rabbit_geo",
+    "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/main/resource_pack/models/entity/rabbit.geo.json",
+    "bytes": 3378,
+    "rights": "Minecraft artwork; original rights retained by Mojang/Microsoft."
+  },
+  {
+    "name": "wolf",
+    "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/main/resource_pack/textures/entity/wolf/wolf.png",
+    "bytes": 1422,
+    "rights": "Minecraft artwork; original rights retained by Mojang/Microsoft."
+  },
+  {
+    "name": "wolf_geo",
+    "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/main/resource_pack/models/entity/wolf.geo.json",
+    "bytes": 2189,
+    "rights": "Minecraft artwork; original rights retained by Mojang/Microsoft."
+  },
+  {
+    "name": "horse",
+    "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/main/resource_pack/textures/entity/horse/horse_brown.png",
+    "bytes": 6333,
+    "rights": "Minecraft artwork; original rights retained by Mojang/Microsoft."
+  },
+  {
+    "name": "cat",
+    "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/main/resource_pack/textures/entity/cat/blackcat.png",
+    "bytes": 693,
+    "rights": "Minecraft artwork; original rights retained by Mojang/Microsoft."
+  },
+  {
+    "name": "cat_geo",
+    "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/main/resource_pack/models/entity/cat.geo.json",
+    "bytes": 2396,
+    "rights": "Minecraft artwork; original rights retained by Mojang/Microsoft."
+  },
+  {
+    "name": "bone",
+    "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/main/resource_pack/textures/items/bone.png",
+    "bytes": 197,
+    "rights": "Minecraft artwork; original rights retained by Mojang/Microsoft."
+  },
+  {
+    "name": "apple",
+    "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/main/resource_pack/textures/items/apple.png",
+    "bytes": 257,
+    "rights": "Minecraft artwork; original rights retained by Mojang/Microsoft."
+  },
+  {
+    "name": "fish",
+    "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/main/resource_pack/textures/items/fish_raw.png",
+    "bytes": 449,
+    "rights": "Minecraft artwork; original rights retained by Mojang/Microsoft."
+  },
+  {
+    "name": "horse_geo",
+    "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/main/resource_pack/models/entity/horse_v1.geo.json",
+    "bytes": 11977,
+    "rights": "Minecraft artwork; original rights retained by Mojang/Microsoft; matching 128x128 legacy horse atlas."
+  }
+]

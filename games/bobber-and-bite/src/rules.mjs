@@ -1,0 +1,1 @@
+export function reelStep(state,held,dt,power=1){const tension=Math.max(0,Math.min(1.1,state.tension+(held?.33*power:-.60)*dt));const progress=Math.max(0,Math.min(1,state.progress+(held?(tension<.93?.24:.11):-.025)*dt));return {tension,progress,snapped:tension>=1,caught:progress>=1};}
