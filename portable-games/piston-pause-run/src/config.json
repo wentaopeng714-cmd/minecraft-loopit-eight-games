@@ -1,0 +1,12 @@
+{
+  "number": 19,
+  "id": "piston-pause-run",
+  "title": "Piston Pause Run",
+  "sky": "#b9cfc8",
+  "accent": "#c39143",
+  "heading": "The gap is right in front of you.",
+  "desc": "Hold RUN to dash through the corridor. Release at the gold strip and wait for green before the Pistons close.",
+  "kicker": "FIRST-PERSON PISTON SPRINT",
+  "control": "HOLD TO SPRINT",
+  "hint": "Release to stop"
+}

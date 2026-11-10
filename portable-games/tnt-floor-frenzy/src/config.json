@@ -1,0 +1,12 @@
+{
+  "number": 18,
+  "id": "tnt-floor-frenzy",
+  "title": "TNT Floor Frenzy",
+  "sky": "#a1b5c6",
+  "accent": "#c56c3f",
+  "heading": "Take the last safe tile.",
+  "desc": "Run and jump against two rivals. Tiles collapse behind everyone; cut off their routes and save a landing for yourself.",
+  "kicker": "LAST RUNNER STANDING",
+  "control": "MOVE · JUMP · OUTLAST",
+  "hint": "Stick / WASD · Jump / Space"
+}

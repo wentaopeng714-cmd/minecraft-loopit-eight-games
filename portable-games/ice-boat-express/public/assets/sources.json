@@ -1,0 +1,171 @@
+[
+  {
+    "name": "dirt",
+    "url": "https://raw.githubusercontent.com/vyse12138/minecraft-threejs/main/src/static/textures/block/dirt.png",
+    "bytes": 266,
+    "size": [
+      16,
+      16
+    ],
+    "rights": "Minecraft texture, original rights retained by Mojang; not covered by project MIT code license"
+  },
+  {
+    "name": "stone",
+    "url": "https://raw.githubusercontent.com/vyse12138/minecraft-threejs/main/src/static/textures/block/stone.png",
+    "bytes": 316,
+    "size": [
+      16,
+      16
+    ],
+    "rights": "Minecraft texture, original rights retained by Mojang; not covered by project MIT code license"
+  },
+  {
+    "name": "cobblestone",
+    "url": "https://raw.githubusercontent.com/vyse12138/minecraft-threejs/main/src/static/textures/block/cobblestone.png",
+    "bytes": 557,
+    "size": [
+      16,
+      16
+    ],
+    "rights": "Minecraft texture, original rights retained by Mojang; not covered by project MIT code license"
+  },
+  {
+    "name": "grass_block_side",
+    "url": "https://raw.githubusercontent.com/vyse12138/minecraft-threejs/main/src/static/textures/block/grass_block_side.png",
+    "bytes": 408,
+    "size": [
+      16,
+      16
+    ],
+    "rights": "Minecraft texture, original rights retained by Mojang; not covered by project MIT code license"
+  },
+  {
+    "name": "grass_top_green",
+    "url": "https://raw.githubusercontent.com/vyse12138/minecraft-threejs/main/src/static/textures/block/grass_top_green.png",
+    "bytes": 3617,
+    "size": [
+      16,
+      16
+    ],
+    "rights": "Minecraft texture, original rights retained by Mojang; not covered by project MIT code license"
+  },
+  {
+    "name": "oak_planks",
+    "url": "https://raw.githubusercontent.com/vyse12138/minecraft-threejs/main/src/static/textures/block/oak_planks.png",
+    "bytes": 444,
+    "size": [
+      16,
+      16
+    ],
+    "rights": "Minecraft texture, original rights retained by Mojang; not covered by project MIT code license"
+  },
+  {
+    "name": "oak_log",
+    "url": "https://raw.githubusercontent.com/vyse12138/minecraft-threejs/main/src/static/textures/block/oak_log.png",
+    "bytes": 404,
+    "size": [
+      16,
+      16
+    ],
+    "rights": "Minecraft texture, original rights retained by Mojang; not covered by project MIT code license"
+  },
+  {
+    "name": "oak_log_top",
+    "url": "https://raw.githubusercontent.com/vyse12138/minecraft-threejs/main/src/static/textures/block/oak_log_top.png",
+    "bytes": 426,
+    "size": [
+      16,
+      16
+    ],
+    "rights": "Minecraft texture, original rights retained by Mojang; not covered by project MIT code license"
+  },
+  {
+    "name": "oak_leaves",
+    "url": "https://raw.githubusercontent.com/vyse12138/minecraft-threejs/main/src/static/textures/block/oak_leaves.png",
+    "bytes": 457,
+    "size": [
+      16,
+      16
+    ],
+    "rights": "Minecraft texture, original rights retained by Mojang; not covered by project MIT code license"
+  },
+  {
+    "name": "steve",
+    "url": "https://raw.githubusercontent.com/vyse12138/minecraft-threejs/main/src/static/textures/entity/steve.png",
+    "bytes": 1350,
+    "size": [
+      64,
+      64
+    ],
+    "rights": "Minecraft texture, original rights retained by Mojang; not covered by project MIT code license"
+  },
+  {
+    "name": "emerald",
+    "url": "https://raw.githubusercontent.com/vyse12138/minecraft-threejs/main/src/static/textures/item/emerald.png",
+    "bytes": 200,
+    "size": [
+      16,
+      16
+    ],
+    "rights": "Minecraft texture, original rights retained by Mojang; not covered by project MIT code license"
+  },
+  {
+    "name": "villager",
+    "url": "https://raw.githubusercontent.com/PrismarineJS/minecraft-assets/master/data/1.12/entity/villager/villager.png",
+    "rights": "Minecraft texture, copyright Mojang; not CC0 or MIT."
+  },
+  {
+    "name": "lamp_on",
+    "file": "lamp_on.png",
+    "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/main/resource_pack/textures/blocks/redstone_lamp_on.png",
+    "bytes": 279,
+    "sha256": "042698c0959804264530a10e8b42373436dccff995330ade1a15e4f59389be5f",
+    "rights": "Minecraft assets; Mojang/Microsoft retain original rights. Code licenses do not relicense artwork."
+  },
+  {
+    "name": "wool",
+    "file": "wool.png",
+    "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/main/resource_pack/textures/blocks/wool_colored_white.png",
+    "bytes": 617,
+    "sha256": "c240f74136d8859fb3a2d37bd2786b33c8fcedc27f57db1d2cf228da0e921ea1",
+    "rights": "Minecraft assets; Mojang/Microsoft retain original rights. Code licenses do not relicense artwork."
+  },
+  {
+    "name": "iron_block",
+    "file": "iron_block.png",
+    "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/main/resource_pack/textures/blocks/iron_block.png",
+    "bytes": 223,
+    "sha256": "666e570940a1967728bd02cf1b62d2f122f5d12e9e9e97d12e5007bc58542512",
+    "rights": "Minecraft assets; Mojang/Microsoft retain original rights. Code licenses do not relicense artwork."
+  },
+  {
+    "name": "ice",
+    "file": "ice.png",
+    "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/main/resource_pack/textures/blocks/blue_ice.png",
+    "bytes": 358,
+    "sha256": "7a3983b0cb1db8c34fd7959930d3a54ed58c19dd163110a5706e35cde6a2afa8",
+    "rights": "Minecraft artwork: Mojang/Microsoft. Code licenses do not relicense this artwork."
+  },
+  {
+    "name": "snow",
+    "file": "snow.png",
+    "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/main/resource_pack/textures/blocks/snow.png",
+    "bytes": 233,
+    "sha256": "d13cd31720a666ce44f956cd43326e49dd91b6320927a55125b7084b5b58a0da",
+    "rights": "Minecraft artwork: Mojang/Microsoft. Code licenses do not relicense this artwork."
+  },
+  {
+    "name": "stonebrick",
+    "file": "stonebrick.png",
+    "url": "https://raw.githubusercontent.com/Mojang/bedrock-samples/main/resource_pack/textures/blocks/stonebrick.png",
+    "bytes": 271,
+    "sha256": "10014eab68cbae15fd5c473845e703274b23576f906f32d2a3a4a652f9bdf596",
+    "rights": "Minecraft artwork: Mojang/Microsoft. Code licenses do not relicense this artwork."
+  },
+  {
+    "name": "Silkscreen-Regular",
+    "url": "https://github.com/google/fonts/tree/main/ofl/silkscreen",
+    "rights": "SIL Open Font License 1.1; see OFL.txt",
+    "bytes": 32220
+  }
+]

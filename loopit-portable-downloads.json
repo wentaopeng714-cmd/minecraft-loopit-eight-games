@@ -1,0 +1,122 @@
+[
+  {
+    "number": 11,
+    "slug": "wolf-trail-home",
+    "title": "Wolf Trail Home",
+    "cn": "小狼跟我走",
+    "file": "11-wolf-trail-home-loopit-portable.zip",
+    "game_version": "0.2.0",
+    "bytes": 801397,
+    "sha256": "73ba6ca32287686bfc91d50001644e7258628708da4ec54131b5afc2443061c7",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.2/11-wolf-trail-home-loopit-portable.zip",
+    "variant": "portable.1"
+  },
+  {
+    "number": 12,
+    "slug": "piston-pocket-lab",
+    "title": "Piston Pocket Lab",
+    "cn": "活塞推箱实验室",
+    "file": "12-piston-pocket-lab-loopit-portable.zip",
+    "game_version": "0.2.0",
+    "bytes": 626424,
+    "sha256": "f94f542e6648e0ce3355db8bcec92e1bd0f46a957d6f239ed40128ff78ed1b4a",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.2/12-piston-pocket-lab-loopit-portable.zip",
+    "variant": "portable.1"
+  },
+  {
+    "number": 13,
+    "slug": "pearl-pocket-golf",
+    "title": "Pearl Pocket Golf",
+    "cn": "末影珍珠高尔夫",
+    "file": "13-pearl-pocket-golf-loopit-portable.zip",
+    "game_version": "0.2.0",
+    "bytes": 553442,
+    "sha256": "0feda6d489f083acbc58e39a6652fe5babdd3bab315808bc0718297337204b0a",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.2/13-pearl-pocket-golf-loopit-portable.zip",
+    "variant": "portable.1"
+  },
+  {
+    "number": 14,
+    "slug": "anvil-after-hours",
+    "title": "Anvil After Hours",
+    "cn": "铁砧砸怪流水线",
+    "file": "14-anvil-after-hours-loopit-portable.zip",
+    "game_version": "0.2.0",
+    "bytes": 480633,
+    "sha256": "ee83e31ce0d7fb27861c37a8fe7cd1a646582094340a0d788b24d03fda198c5d",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.2/14-anvil-after-hours-loopit-portable.zip",
+    "variant": "portable.1"
+  },
+  {
+    "number": 15,
+    "slug": "last-second-bucket",
+    "title": "Last Second Bucket",
+    "cn": "落地水桶救命",
+    "file": "15-last-second-bucket-loopit-portable.zip",
+    "game_version": "0.1.0",
+    "bytes": 953602,
+    "sha256": "830454749ae63124c255f3aca29080001b0fe4915dc40a60293d52c6a79dc609",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.2/15-last-second-bucket-loopit-portable.zip",
+    "variant": "portable.1"
+  },
+  {
+    "number": 16,
+    "slug": "slime-split-mine",
+    "title": "Slime Split Mine",
+    "cn": "史莱姆分裂矿场",
+    "file": "16-slime-split-mine-loopit-portable.zip",
+    "game_version": "0.1.0",
+    "bytes": 587770,
+    "sha256": "d942e730b445adcd067f0781441d19ec84e8a972970c13d25fd7660a2a24e65c",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.2/16-slime-split-mine-loopit-portable.zip",
+    "variant": "portable.1"
+  },
+  {
+    "number": 17,
+    "slug": "ice-boat-express",
+    "title": "Ice Boat Express",
+    "cn": "冰船漂移快递",
+    "file": "17-ice-boat-express-loopit-portable.zip",
+    "game_version": "0.1.0",
+    "bytes": 608156,
+    "sha256": "f78facde2ae058fb49794395a11d7c347ffbee4906fceb283fd49906eeeb5b6b",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.2/17-ice-boat-express-loopit-portable.zip",
+    "variant": "portable.1"
+  },
+  {
+    "number": 18,
+    "slug": "tnt-floor-frenzy",
+    "title": "TNT Floor Frenzy",
+    "cn": "TNT地板别停下",
+    "file": "18-tnt-floor-frenzy-loopit-portable.zip",
+    "game_version": "0.2.0",
+    "bytes": 759243,
+    "sha256": "ef2648215c393f8d3abf622ea3c31c53a50cfa48157c159351491c7a3610ec10",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.2/18-tnt-floor-frenzy-loopit-portable.zip",
+    "variant": "portable.1"
+  },
+  {
+    "number": 19,
+    "slug": "piston-pause-run",
+    "title": "Piston Pause Run",
+    "cn": "活塞夹缝冲刺",
+    "file": "19-piston-pause-run-loopit-portable.zip",
+    "game_version": "0.2.0",
+    "bytes": 559266,
+    "sha256": "31c5cf356f0a804532d323a940d07c592edca7a580ab671b70f125114241db38",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.2/19-piston-pause-run-loopit-portable.zip",
+    "variant": "portable.1"
+  },
+  {
+    "number": 20,
+    "slug": "elytra-ring-post",
+    "title": "Elytra Ring Post",
+    "cn": "鞘翅穿环快递",
+    "file": "20-elytra-ring-post-loopit-portable.zip",
+    "game_version": "0.1.0",
+    "bytes": 433716,
+    "sha256": "61763a14245f5117dce41032d414f62040b2db4b9e586c1b6d25b73c57c9d651",
+    "url": "https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.2/20-elytra-ring-post-loopit-portable.zip",
+    "variant": "portable.1"
+  }
+]

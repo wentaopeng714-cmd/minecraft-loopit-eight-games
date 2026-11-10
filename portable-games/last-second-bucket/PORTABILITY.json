@@ -1,0 +1,11 @@
+{
+  "source_game_version": "0.1.0",
+  "variant": "portable.1",
+  "png_count": 18,
+  "models": [],
+  "runtime_textures": "embedded original PNG data URIs",
+  "runtime_models": "embedded original JSON",
+  "gameplay_changes": false,
+  "entry": "dist/index.html",
+  "external_runtime_assets": false
+}

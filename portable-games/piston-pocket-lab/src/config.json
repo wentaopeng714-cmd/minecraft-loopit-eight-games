@@ -1,0 +1,12 @@
+{
+  "number": 12,
+  "id": "piston-pocket-lab",
+  "title": "Piston Pocket Lab",
+  "sky": "#bfd0cd",
+  "accent": "#c9803d",
+  "heading": "Push order matters.",
+  "desc": "Study the machine from directly above. Push matching Ore onto its pressure plate; undo and rethink the order.",
+  "kicker": "REDSTONE WORKBENCH",
+  "control": "PLAN · PUSH · POWER",
+  "hint": "P1—P4 push · Undo is free"
+}

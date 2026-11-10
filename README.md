@@ -61,3 +61,20 @@ Ten more independent games, each with a playable build, full source, bundled mat
 ## Six-game differentiation · 0.4.1
 
 Cases 11, 12, 13, 14, 18 and 19 are gameplay version 0.2.0. Forest escort is now free third-person exploration; only Piston Lab remains an overhead board; Pearl and Piston Sprint use first-person views with different aiming and stop/run decisions; Anvil is a side-view drag-and-release press; TNT is a close third-person last-standing contest. See [camera, gameplay and UI changes](SIX_GAME_DIFFERENTIATION.md). Nineteen rules checks and six builds pass. Actual full Wolf, Pearl and Piston Sprint goals were completed; see per-game validation for limits. Earlier ZIP release URLs remain available.
+
+## Loopit portable variants · cases 11–20
+
+These independent packages preserve gameplay while embedding the original PNG textures, model JSON and font. Each ready-to-run dist/index.html is self-contained. It avoids runtime image asset IDs, image proxy URLs and model-file fetch paths. All ten start/end/retry/pause flows were checked in a phone-size browser; actual Loopit import still requires verification. Original releases stay available.
+
+| Case | Game | Portable complete ZIP |
+|---|---|---|
+| 11 | Wolf Trail Home | [Download](https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.2/11-wolf-trail-home-loopit-portable.zip) |
+| 12 | Piston Pocket Lab | [Download](https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.2/12-piston-pocket-lab-loopit-portable.zip) |
+| 13 | Pearl Pocket Golf | [Download](https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.2/13-pearl-pocket-golf-loopit-portable.zip) |
+| 14 | Anvil After Hours | [Download](https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.2/14-anvil-after-hours-loopit-portable.zip) |
+| 15 | Last Second Bucket | [Download](https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.2/15-last-second-bucket-loopit-portable.zip) |
+| 16 | Slime Split Mine | [Download](https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.2/16-slime-split-mine-loopit-portable.zip) |
+| 17 | Ice Boat Express | [Download](https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.2/17-ice-boat-express-loopit-portable.zip) |
+| 18 | TNT Floor Frenzy | [Download](https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.2/18-tnt-floor-frenzy-loopit-portable.zip) |
+| 19 | Piston Pause Run | [Download](https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.2/19-piston-pause-run-loopit-portable.zip) |
+| 20 | Elytra Ring Post | [Download](https://github.com/wentaopeng714-cmd/minecraft-loopit-eight-games/releases/download/v0.4.2/20-elytra-ring-post-loopit-portable.zip) |

@@ -1,0 +1,21 @@
+{
+  "case": 13,
+  "game": "Pearl Pocket Golf",
+  "variant": "portable.1",
+  "source_game_version": "0.2.0",
+  "rules_changed": false,
+  "production_build": "pass",
+  "phone_browser_check": {
+    "slug": "pearl-pocket-golf",
+    "startPhase": "play",
+    "view": "first-person",
+    "result": "RUN RECORDED",
+    "retry": "play",
+    "paused": "true",
+    "errors": []
+  },
+  "physical_phone_tested": false,
+  "loopit_runtime": "pending real import validation",
+  "runtime_asset_loading": "original PNG data URIs, inline model JSON and font",
+  "entry": "dist/index.html"
+}

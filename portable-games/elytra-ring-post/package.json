@@ -1,0 +1,18 @@
+{
+  "name": "elytra-ring-post",
+  "version": "0.1.0+portable.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build && node scripts/inline-build.mjs",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "dependencies": {
+    "three": "0.156.1",
+    "skinview3d": "3.4.2"
+  },
+  "devDependencies": {
+    "vite": "7.3.7"
+  }
+}
